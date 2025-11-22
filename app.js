@@ -115,6 +115,7 @@ function performSearch() {
 
     // Filter by text search
     if (currentFilters.text) {
+      console.log('text search hit');
         const searchTerm = currentFilters.text.toLowerCase();
         results = results.filter(sonnet => {
             return sonnet.text.toLowerCase().includes(searchTerm) ||
