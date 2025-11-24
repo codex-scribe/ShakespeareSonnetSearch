@@ -109,21 +109,23 @@ function performSearch() {
         });
     }
 
-    // Filter by themes
+    // Filter by themes (conjunctive: ALL selected themes must be present)
     if (currentFilters.themes.length > 0) {
         results = results.filter(sonnet => {
-            return currentFilters.themes.some(theme => 
-                sonnet.themes && sonnet.themes.includes(theme)
-            );
+            return sonnet.themes && 
+                   currentFilters.themes.every(theme => 
+                       sonnet.themes.includes(theme)
+                   );
         });
     }
 
-    // Filter by imagery
+    // Filter by imagery (conjunctive: ALL selected imagery must be present)
     if (currentFilters.imagery.length > 0) {
         results = results.filter(sonnet => {
-            return currentFilters.imagery.some(img => 
-                sonnet.imagery && sonnet.imagery.includes(img)
-            );
+            return sonnet.imagery && 
+                   currentFilters.imagery.every(img => 
+                       sonnet.imagery.includes(img)
+                   );
         });
     }
 
