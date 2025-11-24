@@ -14,49 +14,122 @@
         </header>
 
         <div class="search-section">
-            <div class="search-tabs">
-                <button class="tab-button active" data-tab="text">Text Search</button>
-                <button class="tab-button" data-tab="theme">By Theme</button>
-                <button class="tab-button" data-tab="imagery">By Imagery</button>
-            </div>
-
-            <div class="tab-content active" id="text-tab">
+            <div class="text-search-section">
                 <div class="search-box">
                     <input type="text" id="text-search" placeholder="Search sonnets by any word or phrase...">
                     <button id="text-search-btn">Search</button>
                 </div>
             </div>
 
-            <div class="tab-content" id="theme-tab">
-                <div class="filter-buttons">
-                    <button class="filter-btn" data-filter="death">Death</button>
-                    <button class="filter-btn" data-filter="love">Love</button>
-                    <button class="filter-btn" data-filter="beauty">Beauty</button>
-                    <button class="filter-btn" data-filter="time">Time</button>
-                    <button class="filter-btn" data-filter="age">Age</button>
-                    <button class="filter-btn" data-filter="youth">Youth</button>
-                    <button class="filter-btn" data-filter="immortality">Immortality</button>
-                    <button class="filter-btn" data-filter="grief">Grief</button>
-                    <button class="filter-btn" data-filter="war">War</button>
-                    <button class="filter-btn" data-filter="fortune">Fortune</button>
-                    <button class="filter-btn" data-filter="memory">Memory</button>
-                    <button class="filter-btn" data-filter="loss">Loss</button>
+            <div class="filter-sections">
+                <div class="filter-section">
+                    <label class="filter-section-toggle">
+                        <input type="checkbox" id="theme-toggle" class="section-checkbox">
+                        <span class="toggle-label">By Theme</span>
+                    </label>
+                    <div class="checkbox-list" id="theme-checkboxes">
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="death">
+                            <span>Death</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="love">
+                            <span>Love</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="beauty">
+                            <span>Beauty</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="time">
+                            <span>Time</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="age">
+                            <span>Age</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="youth">
+                            <span>Youth</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="immortality">
+                            <span>Immortality</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="grief">
+                            <span>Grief</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="war">
+                            <span>War</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="fortune">
+                            <span>Fortune</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="memory">
+                            <span>Memory</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="theme" data-filter="loss">
+                            <span>Loss</span>
+                        </label>
+                    </div>
                 </div>
-            </div>
 
-            <div class="tab-content" id="imagery-tab">
-                <div class="filter-buttons">
-                    <button class="filter-btn" data-filter="flowers">Flowers</button>
-                    <button class="filter-btn" data-filter="jewels">Jewels</button>
-                    <button class="filter-btn" data-filter="body parts">Body Parts</button>
-                    <button class="filter-btn" data-filter="nature">Nature</button>
-                    <button class="filter-btn" data-filter="water">Water</button>
-                    <button class="filter-btn" data-filter="birds">Birds</button>
-                    <button class="filter-btn" data-filter="fire">Fire</button>
-                    <button class="filter-btn" data-filter="stars">Stars</button>
-                    <button class="filter-btn" data-filter="seasons">Seasons</button>
-                    <button class="filter-btn" data-filter="monuments">Monuments</button>
-                    <button class="filter-btn" data-filter="war">War</button>
+                <div class="filter-section">
+                    <label class="filter-section-toggle">
+                        <input type="checkbox" id="imagery-toggle" class="section-checkbox">
+                        <span class="toggle-label">By Imagery</span>
+                    </label>
+                    <div class="checkbox-list" id="imagery-checkboxes">
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="flowers">
+                            <span>Flowers</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="jewels">
+                            <span>Jewels</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="body parts">
+                            <span>Body Parts</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="nature">
+                            <span>Nature</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="water">
+                            <span>Water</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="birds">
+                            <span>Birds</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="fire">
+                            <span>Fire</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="stars">
+                            <span>Stars</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="seasons">
+                            <span>Seasons</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="monuments">
+                            <span>Monuments</span>
+                        </label>
+                        <label class="checkbox-item">
+                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="war">
+                            <span>War</span>
+                        </label>
+                    </div>
                 </div>
             </div>
 

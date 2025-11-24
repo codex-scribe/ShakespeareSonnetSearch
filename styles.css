@@ -61,45 +61,100 @@ header h1 {
     border-bottom: 2px solid var(--border-color);
 }
 
-.search-tabs {
-    display: flex;
-    gap: 10px;
-    margin-bottom: 20px;
-    flex-wrap: wrap;
+.text-search-section {
+    margin-bottom: 25px;
 }
 
-.tab-button {
-    padding: 12px 24px;
+.filter-sections {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.filter-section {
     background: white;
     border: 2px solid var(--border-color);
     border-radius: 8px;
-    cursor: pointer;
-    font-size: 1em;
-    font-weight: 600;
+    padding: 15px;
     transition: all 0.3s ease;
-    color: var(--text-color);
 }
 
-.tab-button:hover {
-    background: var(--hover-color);
-    color: white;
+.filter-section:hover {
     border-color: var(--hover-color);
-    transform: translateY(-2px);
+    box-shadow: var(--shadow);
 }
 
-.tab-button.active {
-    background: var(--primary-color);
-    color: white;
-    border-color: var(--primary-color);
+.filter-section-toggle {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 1.1em;
+    font-weight: 600;
+    color: var(--primary-color);
+    margin-bottom: 0;
+    user-select: none;
 }
 
-.tab-content {
+.filter-section-toggle .section-checkbox {
+    width: 20px;
+    height: 20px;
+    margin-right: 12px;
+    cursor: pointer;
+    accent-color: var(--primary-color);
+}
+
+.filter-section-toggle .toggle-label {
+    cursor: pointer;
+}
+
+.checkbox-list {
     display: none;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid var(--border-color);
+    max-height: 300px;
+    overflow-y: auto;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 10px;
 }
 
-.tab-content.active {
-    display: block;
+.checkbox-list.visible {
+    display: grid;
     animation: fadeIn 0.3s ease;
+}
+
+.checkbox-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: background-color 0.2s ease;
+    user-select: none;
+}
+
+.checkbox-item:hover {
+    background-color: var(--bg-color);
+}
+
+.checkbox-item .filter-checkbox {
+    width: 18px;
+    height: 18px;
+    margin-right: 10px;
+    cursor: pointer;
+    accent-color: var(--primary-color);
+}
+
+.checkbox-item span {
+    font-size: 0.95em;
+    color: var(--text-color);
+    cursor: pointer;
+}
+
+.checkbox-item .filter-checkbox:checked + span {
+    font-weight: 600;
+    color: var(--primary-color);
 }
 
 @keyframes fadeIn {
@@ -152,36 +207,6 @@ header h1 {
     box-shadow: var(--shadow);
 }
 
-.filter-buttons {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-}
-
-.filter-btn {
-    padding: 10px 20px;
-    background: white;
-    border: 2px solid var(--border-color);
-    border-radius: 20px;
-    cursor: pointer;
-    font-size: 0.95em;
-    transition: all 0.3s ease;
-    color: var(--text-color);
-    font-family: 'Georgia', serif;
-}
-
-.filter-btn:hover {
-    background: var(--hover-color);
-    color: white;
-    border-color: var(--hover-color);
-    transform: translateY(-2px);
-}
-
-.filter-btn.active {
-    background: var(--accent-color);
-    color: white;
-    border-color: var(--accent-color);
-}
 
 .active-filters {
     margin-top: 20px;

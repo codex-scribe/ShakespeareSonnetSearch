@@ -13,18 +13,36 @@ document.addEventListener('DOMContentLoaded', function() {
     allSonnets = sonnetsData;
     displaySonnets(allSonnets);
     setupEventListeners();
+    setupCheckboxToggles();
 });
+
+// Set up checkbox list visibility toggles
+function setupCheckboxToggles() {
+    const themeToggle = document.getElementById('theme-toggle');
+    const imageryToggle = document.getElementById('imagery-toggle');
+    const themeList = document.getElementById('theme-checkboxes');
+    const imageryList = document.getElementById('imagery-checkboxes');
+
+    // Update visibility based on checkbox state
+    function updateVisibility(toggle, list) {
+        if (toggle.checked) {
+            list.classList.add('visible');
+        } else {
+            list.classList.remove('visible');
+        }
+    }
+
+    // Set initial state
+    updateVisibility(themeToggle, themeList);
+    updateVisibility(imageryToggle, imageryList);
+
+    // Add event listeners
+    themeToggle.addEventListener('change', () => updateVisibility(themeToggle, themeList));
+    imageryToggle.addEventListener('change', () => updateVisibility(imageryToggle, imageryList));
+}
 
 // Set up all event listeners
 function setupEventListeners() {
-    // Tab switching
-    document.querySelectorAll('.tab-button').forEach(button => {
-        button.addEventListener('click', function() {
-            const tabName = this.getAttribute('data-tab');
-            switchTab(tabName);
-        });
-    });
-
     // Text search
     const textSearchInput = document.getElementById('text-search');
     const textSearchBtn = document.getElementById('text-search-btn');
@@ -37,34 +55,14 @@ function setupEventListeners() {
 
     textSearchBtn.addEventListener('click', performTextSearch);
 
-    // Filter buttons
-    document.querySelectorAll('.filter-btn').forEach(button => {
-        button.addEventListener('click', function() {
+    // Filter checkboxes
+    document.querySelectorAll('.filter-checkbox').forEach(checkbox => {
+        checkbox.addEventListener('change', function() {
+            const filterType = this.getAttribute('data-type');
             const filterValue = this.getAttribute('data-filter');
-            toggleFilter(filterValue);
+            toggleFilter(filterType, filterValue, this.checked);
         });
     });
-}
-
-// Switch between search tabs
-function switchTab(tabName) {
-    // Update tab buttons
-    document.querySelectorAll('.tab-button').forEach(btn => {
-        btn.classList.remove('active');
-    });
-    document.querySelector(`[data-tab="${tabName}"]`).classList.add('active');
-
-    // Update tab content
-    document.querySelectorAll('.tab-content').forEach(content => {
-        content.classList.remove('active');
-    });
-    document.getElementById(`${tabName}-tab`).classList.add('active');
-
-    // Clear text search if switching away
-    if (tabName !== 'text') {
-        currentFilters.text = '';
-        document.getElementById('text-search').value = '';
-    }
 }
 
 // Perform text search
@@ -75,33 +73,22 @@ function performTextSearch() {
 }
 
 // Toggle a filter (theme or imagery)
-function toggleFilter(filterValue) {
-    const button = document.querySelector(`[data-filter="${filterValue}"]`);
-    const isActive = button.classList.contains('active');
-
-    // Determine if it's a theme or imagery filter
-    const isTheme = Array.from(document.querySelectorAll('#theme-tab .filter-btn'))
-        .some(btn => btn.getAttribute('data-filter') === filterValue);
-    const isImagery = Array.from(document.querySelectorAll('#imagery-tab .filter-btn'))
-        .some(btn => btn.getAttribute('data-filter') === filterValue);
-
-    if (isActive) {
-        button.classList.remove('active');
-        if (isTheme) {
-            currentFilters.themes = currentFilters.themes.filter(t => t !== filterValue);
-        } else if (isImagery) {
-            currentFilters.imagery = currentFilters.imagery.filter(i => i !== filterValue);
-        }
-    } else {
-        button.classList.add('active');
-        if (isTheme) {
+function toggleFilter(filterType, filterValue, isChecked) {
+    if (filterType === 'theme') {
+        if (isChecked) {
             if (!currentFilters.themes.includes(filterValue)) {
                 currentFilters.themes.push(filterValue);
             }
-        } else if (isImagery) {
+        } else {
+            currentFilters.themes = currentFilters.themes.filter(t => t !== filterValue);
+        }
+    } else if (filterType === 'imagery') {
+        if (isChecked) {
             if (!currentFilters.imagery.includes(filterValue)) {
                 currentFilters.imagery.push(filterValue);
             }
+        } else {
+            currentFilters.imagery = currentFilters.imagery.filter(i => i !== filterValue);
         }
     }
 
@@ -115,7 +102,6 @@ function performSearch() {
 
     // Filter by text search
     if (currentFilters.text) {
-      console.log('text search hit');
         const searchTerm = currentFilters.text.toLowerCase();
         results = results.filter(sonnet => {
             return sonnet.text.toLowerCase().includes(searchTerm) ||
@@ -271,10 +257,12 @@ function updateActiveFilters() {
                 document.getElementById('text-search').value = '';
             } else if (type === 'theme') {
                 currentFilters.themes = currentFilters.themes.filter(t => t !== value);
-                document.querySelector(`[data-filter="${value}"]`)?.classList.remove('active');
+                const checkbox = document.querySelector(`[data-type="theme"][data-filter="${value}"]`);
+                if (checkbox) checkbox.checked = false;
             } else if (type === 'imagery') {
                 currentFilters.imagery = currentFilters.imagery.filter(i => i !== value);
-                document.querySelector(`[data-filter="${value}"]`)?.classList.remove('active');
+                const checkbox = document.querySelector(`[data-type="imagery"][data-filter="${value}"]`);
+                if (checkbox) checkbox.checked = false;
             }
 
             performSearch();
