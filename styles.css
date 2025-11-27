@@ -157,6 +157,40 @@ header h1 {
     color: var(--primary-color);
 }
 
+/* Nested categories */
+.nested-category {
+    grid-column: 1 / -1;
+}
+
+.parent-category {
+    font-weight: 600;
+}
+
+.nested-checkbox-list {
+    display: none;
+    margin-left: 30px;
+    margin-top: 8px;
+    padding-left: 15px;
+    border-left: 2px solid var(--border-color);
+}
+
+.nested-checkbox-list.visible {
+    display: block;
+}
+
+.nested-item {
+    margin-left: 0;
+}
+
+.nested-item.level-2 {
+    margin-left: 20px;
+}
+
+.nested-checkbox-list.level-2 {
+    margin-left: 30px;
+    border-left-color: var(--hover-color);
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;

@@ -93,10 +93,60 @@
                             <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="jewels">
                             <span>Jewels</span>
                         </label>
-                        <label class="checkbox-item">
-                            <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="body parts">
-                            <span>Body Parts</span>
-                        </label>
+                        <div class="nested-category">
+                            <label class="checkbox-item parent-category">
+                                <input type="checkbox" class="filter-checkbox parent-checkbox" data-type="imagery" data-filter="body parts" data-parent="true">
+                                <span>Body Parts</span>
+                            </label>
+                            <div class="nested-checkbox-list">
+                                <label class="checkbox-item nested-item parent-category">
+                                    <input type="checkbox" class="filter-checkbox parent-checkbox" data-type="imagery" data-filter="face" data-parent-category="body parts" data-parent="true">
+                                    <span>Face</span>
+                                </label>
+                                <div class="nested-checkbox-list level-2">
+                                    <label class="checkbox-item nested-item level-2">
+                                        <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="brow" data-parent-category="face">
+                                        <span>Brow</span>
+                                    </label>
+                                    <label class="checkbox-item nested-item level-2">
+                                        <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="eyes" data-parent-category="face">
+                                        <span>Eyes</span>
+                                    </label>
+                                    <label class="checkbox-item nested-item level-2">
+                                        <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="nose" data-parent-category="face">
+                                        <span>Nose</span>
+                                    </label>
+                                    <label class="checkbox-item nested-item level-2">
+                                        <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="cheeks" data-parent-category="face">
+                                        <span>Cheeks</span>
+                                    </label>
+                                    <label class="checkbox-item nested-item level-2">
+                                        <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="lips" data-parent-category="face">
+                                        <span>Lips</span>
+                                    </label>
+                                    <label class="checkbox-item nested-item level-2">
+                                        <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="mouth" data-parent-category="face">
+                                        <span>Mouth</span>
+                                    </label>
+                                </div>
+                                <label class="checkbox-item nested-item">
+                                    <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="hair" data-parent-category="body parts">
+                                    <span>Hair</span>
+                                </label>
+                                <label class="checkbox-item nested-item">
+                                    <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="arms" data-parent-category="body parts">
+                                    <span>Arms</span>
+                                </label>
+                                <label class="checkbox-item nested-item">
+                                    <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="hands" data-parent-category="body parts">
+                                    <span>Hands</span>
+                                </label>
+                                <label class="checkbox-item nested-item">
+                                    <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="legs" data-parent-category="body parts">
+                                    <span>Legs</span>
+                                </label>
+                            </div>
+                        </div>
                         <label class="checkbox-item">
                             <input type="checkbox" class="filter-checkbox" data-type="imagery" data-filter="nature">
                             <span>Nature</span>

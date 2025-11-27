@@ -19,7 +19,7 @@ And, tender churl, mak’st waste in niggarding:
 Pity the world, or else this glutton be,
 To eat the world’s due, by the grave and thee.`,
     themes: ['beauty', 'youth', 'reproduction'],
-    imagery: ['flowers', 'nature', 'body parts']
+    imagery: ['flowers', 'nature', 'body parts', 'face', 'eyes']
   },
   {
     number: 2,
@@ -38,7 +38,7 @@ Proving his beauty by succession thine.
 This were to be new made when thou art old,
 And see thy blood warm when thou feel'st it cold.`,
     themes: ['age', 'youth', 'beauty', 'time'],
-    imagery: ['body parts', 'nature']
+    imagery: ['body parts', 'nature', 'face', 'brow', 'eyes']
   },
   {
     number: 3,
@@ -57,7 +57,7 @@ Despite of wrinkles this thy golden time.
 But if thou live, remember'd not to be,
 Die single and thine image dies with thee.`,
     themes: ['reproduction', 'beauty', 'time', 'youth'],
-    imagery: ['body parts', 'nature']
+    imagery: ['body parts', 'nature', 'face']
   },
   {
     number: 18,
@@ -114,7 +114,7 @@ Which I new pay as if not paid before.
 But if the while I think on thee, dear friend,
 All losses are restor'd, and sorrows end.`,
     themes: ['death', 'memory', 'loss', 'grief', 'love'],
-    imagery: ['body parts']
+    imagery: ['body parts', 'eyes']
   },
   {
     number: 55,
@@ -152,7 +152,7 @@ And nothing stands but for his scythe to mow:
 And yet to times in hope, my verse shall stand,
 Praising thy worth, despite his cruel hand.`,
     themes: ['time', 'age', 'youth', 'death'],
-    imagery: ['nature', 'water', 'body parts']
+    imagery: ['nature', 'water', 'body parts', 'face', 'brow']
   },
   {
     number: 64,
@@ -190,7 +190,7 @@ But let your love even with my life decay;
 Lest the wise world should look into your moan,
 And mock you with me after I am gone.`,
     themes: ['death', 'grief', 'love', 'mourning'],
-    imagery: ['body parts', 'nature']
+    imagery: ['body parts', 'nature', 'hands']
   },
   {
     number: 73,
@@ -247,7 +247,7 @@ But bears it out even to the edge of doom.
 If this be error and upon me prov'd,
 I never writ, nor no man ever lov'd.`,
     themes: ['love', 'constancy', 'time', 'marriage'],
-    imagery: ['nature', 'stars', 'body parts']
+    imagery: ['nature', 'stars', 'body parts', 'face', 'lips', 'cheeks']
   },
   {
     number: 130,
@@ -266,7 +266,7 @@ My mistress, when she walks, treads on the ground:
 And yet, by heaven, I think my love as rare
 As any she belied with false compare.`,
     themes: ['love', 'beauty', 'realism'],
-    imagery: ['body parts', 'flowers', 'jewels', 'nature']
+    imagery: ['body parts', 'flowers', 'jewels', 'nature', 'face', 'eyes', 'lips', 'hair', 'cheeks', 'mouth']
   },
   {
     number: 138,
@@ -285,7 +285,7 @@ And age in love loves not to have years told:
 Therefore I lie with her and she with me,
 And in our faults by lies we flatter'd be.`,
     themes: ['love', 'age', 'deception', 'truth'],
-    imagery: ['body parts']
+    imagery: ['body parts', 'mouth']
   }
 ];
 

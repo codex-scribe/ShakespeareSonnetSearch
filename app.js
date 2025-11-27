@@ -1,5 +1,17 @@
 // Main application logic for Shakespeare Sonnet Search
 
+// Define hierarchical category structure
+const imageryHierarchy = {
+    'body parts': {
+        children: ['face', 'hair', 'arms', 'hands', 'legs'],
+        allDescendants: ['face', 'hair', 'arms', 'hands', 'legs', 'brow', 'eyes', 'nose', 'cheeks', 'lips', 'mouth']
+    },
+    'face': {
+        children: ['brow', 'eyes', 'nose', 'cheeks', 'lips', 'mouth'],
+        allDescendants: ['brow', 'eyes', 'nose', 'cheeks', 'lips', 'mouth']
+    }
+};
+
 let currentFilters = {
     text: '',
     themes: [],
@@ -60,7 +72,41 @@ function setupEventListeners() {
         checkbox.addEventListener('change', function() {
             const filterType = this.getAttribute('data-type');
             const filterValue = this.getAttribute('data-filter');
-            toggleFilter(filterType, filterValue, this.checked);
+            const isParent = this.getAttribute('data-parent') === 'true';
+            
+            toggleFilter(filterType, filterValue, this.checked, isParent);
+            
+            // Handle parent checkbox - show/hide nested items
+            if (isParent && filterType === 'imagery') {
+                const nestedCategory = this.closest('.nested-category');
+                if (nestedCategory) {
+                    const nestedList = nestedCategory.querySelector('.nested-checkbox-list');
+                    if (nestedList) {
+                        if (this.checked) {
+                            nestedList.classList.add('visible');
+                        } else {
+                            nestedList.classList.remove('visible');
+                        }
+                    }
+                }
+            }
+        });
+    });
+    
+    // Handle nested parent checkboxes (like "face" within "body parts")
+    document.querySelectorAll('.nested-item input[data-parent="true"]').forEach(checkbox => {
+        checkbox.addEventListener('change', function() {
+            const parentItem = this.closest('.nested-item');
+            if (parentItem) {
+                const nestedList = parentItem.nextElementSibling;
+                if (nestedList && nestedList.classList.contains('nested-checkbox-list')) {
+                    if (this.checked) {
+                        nestedList.classList.add('visible');
+                    } else {
+                        nestedList.classList.remove('visible');
+                    }
+                }
+            }
         });
     });
 }
@@ -73,7 +119,7 @@ function performTextSearch() {
 }
 
 // Toggle a filter (theme or imagery)
-function toggleFilter(filterType, filterValue, isChecked) {
+function toggleFilter(filterType, filterValue, isChecked, isParent = false) {
     if (filterType === 'theme') {
         if (isChecked) {
             if (!currentFilters.themes.includes(filterValue)) {
@@ -87,8 +133,32 @@ function toggleFilter(filterType, filterValue, isChecked) {
             if (!currentFilters.imagery.includes(filterValue)) {
                 currentFilters.imagery.push(filterValue);
             }
+            // If unchecking a parent, also uncheck all its descendants
+            if (isParent && imageryHierarchy[filterValue]) {
+                imageryHierarchy[filterValue].allDescendants.forEach(desc => {
+                    const idx = currentFilters.imagery.indexOf(desc);
+                    if (idx > -1) {
+                        currentFilters.imagery.splice(idx, 1);
+                        // Uncheck the checkbox
+                        const checkbox = document.querySelector(`[data-type="imagery"][data-filter="${desc}"]`);
+                        if (checkbox) checkbox.checked = false;
+                    }
+                });
+            }
         } else {
             currentFilters.imagery = currentFilters.imagery.filter(i => i !== filterValue);
+            // If unchecking a parent, also uncheck all its descendants
+            if (isParent && imageryHierarchy[filterValue]) {
+                imageryHierarchy[filterValue].allDescendants.forEach(desc => {
+                    const idx = currentFilters.imagery.indexOf(desc);
+                    if (idx > -1) {
+                        currentFilters.imagery.splice(idx, 1);
+                        // Uncheck the checkbox
+                        const checkbox = document.querySelector(`[data-type="imagery"][data-filter="${desc}"]`);
+                        if (checkbox) checkbox.checked = false;
+                    }
+                });
+            }
         }
     }
 
@@ -120,12 +190,103 @@ function performSearch() {
     }
 
     // Filter by imagery (conjunctive: ALL selected imagery must be present)
+    // Handle hierarchical categories: parent categories match any child, specific children match only themselves
     if (currentFilters.imagery.length > 0) {
         results = results.filter(sonnet => {
-            return sonnet.imagery && 
-                   currentFilters.imagery.every(img => 
-                       sonnet.imagery.includes(img)
-                   );
+            if (!sonnet.imagery) return false;
+            
+            const expandedFilters = [];
+            
+            // Process each selected filter
+            for (const filter of currentFilters.imagery) {
+                if (imageryHierarchy[filter]) {
+                    // This is a parent category (e.g., "face" or "body parts")
+                    const hierarchy = imageryHierarchy[filter];
+                    
+                    // Check if any specific children of this parent are also selected
+                    const selectedChildren = hierarchy.children.filter(child => 
+                        currentFilters.imagery.includes(child)
+                    );
+                    
+                    if (selectedChildren.length > 0) {
+                        // Specific children are selected - use only those (ignore parent)
+                        selectedChildren.forEach(child => {
+                            if (!expandedFilters.includes(child)) {
+                                expandedFilters.push(child);
+                            }
+                        });
+                    } else {
+                        // No specific children - parent matches itself OR any of its descendants
+                        // Create a function to check if sonnet matches this parent category
+                        const parentMatch = (sonnetImagery, parent, hierarchy) => {
+                            // Check if sonnet has the parent category itself
+                            if (sonnetImagery.includes(parent)) {
+                                return true;
+                            }
+                            // Or check if sonnet has any of the parent's descendants
+                            return hierarchy.allDescendants.some(desc => 
+                                sonnetImagery.includes(desc)
+                            );
+                        };
+                        
+                        // Store the parent and its hierarchy for later matching
+                        expandedFilters.push({
+                            type: 'parent',
+                            value: filter,
+                            hierarchy: hierarchy,
+                            matchFn: (sonnetImagery) => parentMatch(sonnetImagery, filter, hierarchy)
+                        });
+                    }
+                } else {
+                    // This is not a parent category
+                    // Check if it's a child that's already covered by a selected parent
+                    let coveredByParent = false;
+                    for (const [parent, hierarchy] of Object.entries(imageryHierarchy)) {
+                        if (currentFilters.imagery.includes(parent) && 
+                            hierarchy.allDescendants.includes(filter)) {
+                            // Check if specific children of this parent are selected
+                            const hasSpecificChildren = hierarchy.children.some(child => 
+                                currentFilters.imagery.includes(child)
+                            );
+                            if (!hasSpecificChildren) {
+                                // Parent is selected without specific children, so it covers this child
+                                coveredByParent = true;
+                                break;
+                            }
+                        }
+                    }
+                    
+                    // Check if this filter is already in expandedFilters
+                    const alreadyAdded = expandedFilters.some(f => {
+                        if (typeof f === 'string') {
+                            return f === filter;
+                        } else if (f && typeof f === 'object') {
+                            return f.value === filter;
+                        }
+                        return false;
+                    });
+                    
+                    if (!coveredByParent && !alreadyAdded) {
+                        expandedFilters.push(filter);
+                    }
+                }
+            }
+            
+            // Check if sonnet matches ALL expanded filters (conjunctive)
+            if (expandedFilters.length === 0) {
+                return false; // No filters to match
+            }
+            
+            return expandedFilters.every(filter => {
+                if (typeof filter === 'string') {
+                    // Regular category - check if sonnet includes it
+                    return sonnet.imagery.includes(filter);
+                } else if (filter && filter.type === 'parent') {
+                    // Parent category - use the match function
+                    return filter.matchFn(sonnet.imagery);
+                }
+                return false;
+            });
         });
     }
 
