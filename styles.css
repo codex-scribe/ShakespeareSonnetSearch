@@ -55,10 +55,22 @@ header h1 {
     font-style: italic;
 }
 
+.main {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+}
+
 .search-section {
+    flex: 0 0 360px;
     padding: 30px;
     background: var(--bg-color);
-    border-bottom: 2px solid var(--border-color);
+    border-right: 2px solid var(--border-color);
+    max-height: calc(100vh - 180px);
+    overflow-y: auto;
+    position: sticky;
+    top: 24px;
+    align-self: flex-start;
 }
 
 .text-search-section {
@@ -204,6 +216,7 @@ header h1 {
 
 .search-box {
     display: flex;
+    flex-direction: column;
     gap: 10px;
     margin-bottom: 20px;
 }
@@ -239,6 +252,18 @@ header h1 {
     background: var(--hover-color);
     transform: translateY(-2px);
     box-shadow: var(--shadow);
+}
+
+/* Ensure search controls never force horizontal scrolling in the sidebar */
+.search-section {
+    overflow-x: hidden;
+}
+
+/* Make input and button full-width within the stacked search box */
+#text-search,
+#text-search-btn {
+    width: 100%;
+    box-sizing: border-box;
 }
 
 
@@ -280,7 +305,9 @@ header h1 {
 }
 
 .results-section {
+    flex: 1 1 auto;
     padding: 30px;
+    overflow: auto;
 }
 
 .results-header {
@@ -392,6 +419,12 @@ header h1 {
 
     .search-section {
         padding: 20px;
+        border-right: none;
+        border-bottom: 2px solid var(--border-color);
+        max-height: none;
+        position: static;
+        align-self: stretch;
+        flex: 1 1 auto;
     }
 
     .results-section {
