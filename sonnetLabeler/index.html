@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sonnet Annotator</title>
+  <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+  <header>
+    <div>
+      <h2>Shakespeare Annotator</h2>
+    </div>
+    <div class="nav-controls">
+      <button id="btn-prev">← Prev</button>
+      <span>Sonnet # <input type="number" id="jump-input" min="1"></span>
+      <button id="btn-jump">Go</button>
+      <button id="btn-next">Next →</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- Left Column: The Poem -->
+    <div class="sonnet-display" id="sonnet-text-area">
+      <!-- Text injected by JS -->
+    </div>
+
+    <!-- Right Column: The Categories -->
+    <div class="categories-panel">
+
+      <!-- Themes Section -->
+      <div class="category-section">
+        <div class="section-header">
+          <span class="section-title">Themes</span>
+        </div>
+        <div class="add-new-wrapper">
+          <input type="text" class="add-new-input" id="input-themes" placeholder="Add new theme...">
+          <button class="add-btn" onclick="addNewCategory('themes')">Add</button>
+        </div>
+        <div class="tags-container" id="container-themes"></div>
+      </div>
+
+      <!-- Imagery Section -->
+      <div class="category-section">
+        <div class="section-header">
+          <span class="section-title">Imagery</span>
+        </div>
+        <div class="add-new-wrapper">
+          <input type="text" class="add-new-input" id="input-imagery" placeholder="Add new imagery...">
+          <button class="add-btn" onclick="addNewCategory('imagery')">Add</button>
+        </div>
+        <div class="tags-container" id="container-imagery"></div>
+      </div>
+
+      <!-- Characters Section -->
+      <div class="category-section">
+        <div class="section-header">
+          <span class="section-title">Characters</span>
+        </div>
+        <div class="add-new-wrapper">
+          <input type="text" class="add-new-input" id="input-characters" placeholder="Add new character...">
+          <button class="add-btn" onclick="addNewCategory('characters')">Add</button>
+        </div>
+        <div class="tags-container" id="container-characters"></div>
+      </div>
+
+    </div>
+  </main>
+
+  <div class="file-ops">
+    <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">Done annotating? Download the updated file.</p>
+    <button class="primary" id="btn-download">Download updated-sonnets.js</button>
+  </div>
+
+    <script src="sonnets-data.js"></script>
+    <script src="app.js"></script>
+
+</body>
+
+</html>

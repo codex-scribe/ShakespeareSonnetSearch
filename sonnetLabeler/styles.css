@@ -1,0 +1,169 @@
+:root {
+  --primary: #4a90e2;
+  --bg-selected: #d1e7ff;
+  --border: #ccc;
+  --text: #333;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  color: var(--text);
+}
+
+/* Header & Navigation */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--border);
+}
+
+.nav-controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+button {
+  padding: 8px 16px;
+  cursor: pointer;
+  background: white;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+button:hover {
+  background-color: #eee;
+}
+
+button.primary {
+  background-color: var(--primary);
+  color: white;
+  border: none;
+}
+
+button.primary:hover {
+  background-color: #357abd;
+}
+
+input[type="number"] {
+  width: 60px;
+  padding: 8px;
+}
+
+/* Main Layout */
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+/* Sonnet Text Area */
+.sonnet-display {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  white-space: pre-wrap;
+  /* Preserves poetic line breaks */
+  font-family: 'Georgia', serif;
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.sonnet-title {
+  font-weight: bold;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+/* Categorization Area */
+.categories-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.category-section {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #eee;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.section-title {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  color: #666;
+}
+
+/* Tag Bubbles */
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.tag {
+  padding: 6px 12px;
+  border-radius: 20px;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  font-size: 0.9rem;
+  user-select: none;
+  transition: all 0.2s;
+}
+
+.tag:hover {
+  border-color: var(--primary);
+}
+
+.tag.selected {
+  background-color: var(--bg-selected);
+  border-color: var(--primary);
+  color: var(--primary);
+  font-weight: bold;
+}
+
+/* Add New Input */
+.add-new-wrapper {
+  display: flex;
+  gap: 5px;
+}
+
+.add-new-input {
+  flex-grow: 1;
+  padding: 5px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+.add-btn {
+  padding: 5px 10px;
+  font-size: 0.8rem;
+}
+
+/* File Operations */
+.file-ops {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+  text-align: right;
+}
