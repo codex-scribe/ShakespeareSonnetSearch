@@ -1,6 +1,6 @@
 # Unicode Test
 
-- Right apostrophe: It's here
+- Right apostrophe: It’s here
 - Spanish: Mañana
 - Chinese: 你好
 - Interrobang: What‽
