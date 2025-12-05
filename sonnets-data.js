@@ -85,7 +85,7 @@ Which, used, lives th’ executor to be.`,
 The lovely gaze where every eye doth dwell,
 Will play the tyrants to the very same
 And that unfair which fairly doth excel;
-For never-re sting time leads summer on
+For never-resting time leads summer on
 To hideous winter, and confounds him there;
 Sap checked with frost, and lusty leaves quite gone,
 Beauty o’er-snowed and bareness every where:
@@ -134,7 +134,7 @@ Like feeble age, he reeleth from the day,
 The eyes, ’fore duteous, now converted are
 From his low tract, and look another way:
 So thou, thyself outgoing in thy noon:
-Unlook’d, on diest unless thou get a son.`,
+Unlook’d on, diest unless thou get a son.`,
     themes: [],
     imagery: [],
     characters: []
@@ -233,7 +233,7 @@ Then of thy beauty do I question make,
 That thou among the wastes of time must go,
 Since sweets and beauties do themselves forsake
 And die as fast as they see others grow;
-And nothing ’gainst Time’s scythe can make defence
+And nothing ’gainst Time’s scythe can make defense
 Save breed, to brave him when he takes thee hence.`,
     themes: [],
     imagery: [],

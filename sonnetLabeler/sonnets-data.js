@@ -15,9 +15,9 @@ Within thine own bud buriest thy content,
 And, tender churl, mak’st waste in niggarding:
 Pity the world, or else this glutton be,
 To eat the world’s due, by the grave and thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","mortality","immortality","imperative to procreation"],
+    imagery: ["flowers","rose","body parts","face","eyes","fire","seasons","spring"],
+    characters: ["Fair Youth"]
   },
   {
     number: 2,
@@ -35,9 +35,9 @@ Shall sum my count, and make my old excuse,’
 Proving his beauty by succession thine!
 This were to be new made when thou art old,
 And see thy blood warm when thou feel’st it cold.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","imperative to procreation","immortality"],
+    imagery: ["winter","seasons","brow","face","clothing","eyes","blood","body parts","wrinkles","heat","cold"],
+    characters: ["Fair Youth"]
   },
   {
     number: 3,
@@ -55,9 +55,9 @@ So thou through windows of thine age shalt see,
 Despite of wrinkles this thy golden time.
 But if thou live, remember’d not to be,
 Die single and thine image dies with thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["imperative to procreation","mortality","beauty","passage of time"],
+    imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts"],
+    characters: ["Fair Youth"]
   },
   {
     number: 4,
@@ -75,9 +75,9 @@ Then how when nature calls thee to be gone,
 What acceptable audit canst thou leave?
 Thy unused beauty must be tombed with thee,
 Which, used, lives th’ executor to be.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","lending/debt","imperative to procreation","mortality","waste"],
+    imagery: ["grave/tomb"],
+    characters: ["Fair Youth"]
   },
   {
     number: 5,
@@ -85,7 +85,7 @@ Which, used, lives th’ executor to be.`,
 The lovely gaze where every eye doth dwell,
 Will play the tyrants to the very same
 And that unfair which fairly doth excel;
-For never-re sting time leads summer on
+For never-resting time leads summer on
 To hideous winter, and confounds him there;
 Sap checked with frost, and lusty leaves quite gone,
 Beauty o’er-snowed and bareness every where:
@@ -95,9 +95,9 @@ Beauty’s effect with beauty were bereft,
 Nor it, nor no remembrance what it was:
 But flowers distill’d, though they with winter meet,
 Leese but their show; their substance still lives sweet.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","tyranny","mortality","imperative to procreation"],
+    imagery: ["face","seasons","winter","summer","trees","sap","frost","leaves","snow","weather","perfume","flowers","body parts","gaze"],
+    characters: ["Fair Youth"]
   },
   {
     number: 6,
@@ -115,9 +115,9 @@ Then what could death do if thou shouldst depart,
 Leaving thee living in posterity?
 Be not self-will’d, for thou art much too fair
 To be death’s conquest and make worms thine heir.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","immortality","imperative to procreation","beauty","lending/debt"],
+    imagery: ["winter","summer","seasons","perfume","worms","treasure"],
+    characters: ["Fair Youth"]
   },
   {
     number: 7,
@@ -134,10 +134,10 @@ Like feeble age, he reeleth from the day,
 The eyes, ’fore duteous, now converted are
 From his low tract, and look another way:
 So thou, thyself outgoing in thy noon:
-Unlook’d, on diest unless thou get a son.`,
-    themes: [],
-    imagery: [],
-    characters: []
+Unlook’d on, diest unless thou get a son.`,
+    themes: ["beauty","passage of time","imperative to procreation","youth","old age","mortality"],
+    imagery: ["sun","gold","gaze"],
+    characters: ["Fair Youth"]
   },
   {
     number: 8,
@@ -155,9 +155,9 @@ Resembling sire and child and happy mother,
 Who, all in one, one pleasing note do sing:
 Whose speechless song being many, seeming one,
 Sings this to thee: ’Thou single wilt prove none.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["imperative to procreation"],
+    imagery: ["music"],
+    characters: ["Fair Youth"]
   },
   {
     number: 9,
@@ -175,9 +175,9 @@ But beauty’s waste hath in the world an end,
 And kept unused the user so destroys it.
 No love toward others in that bosom sits
 That on himself such murd’rous shame commits.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["imperative to procreation","mortality","grief","beauty","waste","shame"],
+    imagery: ["widow","weeping","gaze","eyes","face","body parts"],
+    characters: ["Fair Youth"]
   },
   {
     number: 10,
@@ -195,9 +195,9 @@ Be, as thy presence is, gracious and kind,
 Or to thyself at least kind-hearted prove:
 Make thee another self for love of me,
 That beauty still may live in thine or thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["shame","waste","beauty","imperative to procreation","hate","immortality"],
+    imagery: ["house"],
+    characters: ["Fair Youth"]
   },
   {
     number: 11,
@@ -215,9 +215,9 @@ Look, whom she best endow’d, she gave thee more;
 Which bounteous gift thou shouldst in bounty cherish:
 She carv’d thee for her seal, and meant thereby,
 Thou shouldst print more, not let that copy die.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality"],
+    imagery: ["blood","cold"],
+    characters: ["Fair Youth"]
   },
   {
     number: 12,
@@ -233,11 +233,11 @@ Then of thy beauty do I question make,
 That thou among the wastes of time must go,
 Since sweets and beauties do themselves forsake
 And die as fast as they see others grow;
-And nothing ’gainst Time’s scythe can make defence
+And nothing ’gainst Time’s scythe can make defense
 Save breed, to brave him when he takes thee hence.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","abundance","beauty","mortality","imperative to procreation"],
+    imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barren (trees)","heat","summer","seasons","animals","crops","body parts","hair","gray","black","green","white","silver","farming"],
+    characters: ["Fair Youth"]
   },
   {
     number: 13,
