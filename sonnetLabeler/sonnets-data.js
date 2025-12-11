@@ -15,8 +15,8 @@ Within thine own bud buriest thy content,
 And, tender churl, mak’st waste in niggarding:
 Pity the world, or else this glutton be,
 To eat the world’s due, by the grave and thee.`,
-    themes: ["beauty","mortality","immortality","imperative to procreation"],
-    imagery: ["flowers","rose","body parts","face","eyes","fire","seasons","spring"],
+    themes: ["beauty","mortality","immortality","imperative to procreation","increase","abundance","waste"],
+    imagery: ["flowers","rose","body parts","face","eyes","fire","seasons","spring","buds"],
     characters: ["Fair Youth"]
   },
   {
@@ -96,7 +96,7 @@ Nor it, nor no remembrance what it was:
 But flowers distill’d, though they with winter meet,
 Leese but their show; their substance still lives sweet.`,
     themes: ["beauty","tyranny","mortality","imperative to procreation"],
-    imagery: ["face","seasons","winter","summer","trees","sap","frost","leaves","snow","weather","perfume","flowers","body parts","gaze"],
+    imagery: ["face","seasons","winter","summer","trees","sap","frost","leaves","snow","weather","perfume","flowers","body parts","gaze","barrenness (trees)"],
     characters: ["Fair Youth"]
   },
   {
@@ -136,7 +136,7 @@ From his low tract, and look another way:
 So thou, thyself outgoing in thy noon:
 Unlook’d on, diest unless thou get a son.`,
     themes: ["beauty","passage of time","imperative to procreation","youth","old age","mortality"],
-    imagery: ["sun","gold","gaze"],
+    imagery: ["sun","gold","gaze","time of day","day"],
     characters: ["Fair Youth"]
   },
   {
@@ -215,8 +215,8 @@ Look, whom she best endow’d, she gave thee more;
 Which bounteous gift thou shouldst in bounty cherish:
 She carv’d thee for her seal, and meant thereby,
 Thou shouldst print more, not let that copy die.`,
-    themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality"],
-    imagery: ["blood","cold"],
+    themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality","increase"],
+    imagery: ["blood","cold","printing"],
     characters: ["Fair Youth"]
   },
   {
@@ -236,7 +236,7 @@ And die as fast as they see others grow;
 And nothing ’gainst Time’s scythe can make defense
 Save breed, to brave him when he takes thee hence.`,
     themes: ["passage of time","abundance","beauty","mortality","imperative to procreation"],
-    imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barren (trees)","heat","summer","seasons","animals","crops","body parts","hair","gray","black","green","white","silver","farming"],
+    imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barrenness (trees)","heat","summer","seasons","animals","crops","body parts","hair","gray","black","green","white","silver","farming","colors"],
     characters: ["Fair Youth"]
   },
   {
@@ -255,9 +255,9 @@ Against the stormy gusts of winter’s day
 And barren rage of death’s eternal cold?
 O! none but unthrifts. Dear my love, you know,
 You had a father: let your son say so.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","imperative to procreation","beauty","lending/debt","waste"],
+    imagery: ["house","cold","winter","weather","storms"],
+    characters: ["Fair Youth"]
   },
   {
     number: 14,
@@ -275,9 +275,9 @@ As ’Truth and beauty shall together thrive,
 If from thyself, to store thou wouldst convert’;
 Or else of thee this I prognosticate:
 ’Thy end is truth’s and beauty’s doom and date.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["abundance","fate/fortune","imperative to procreation","immortality","truth","mortality"],
+    imagery: ["farming","rain","royalty","weather","eyes","body parts","face","stars","storms"],
+    characters: ["Fair Youth"]
   },
   {
     number: 15,
@@ -295,9 +295,9 @@ Where wasteful Time debateth with decay
 To change your day of youth to sullied night,
 And all in war with Time for love of you,
 As he takes from you, I engraft you new.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["abundance","passage of time","old age","youth","decay","increase","growth","fate/fortune"],
+    imagery: ["stars","day","night","war"],
+    characters: ["Fair Youth"]
   },
   {
     number: 16,
@@ -315,9 +315,9 @@ Neither in inward worth nor outward fair,
 Can make you live your self in eyes of men.
 To give away yourself, keeps yourself still,
 And you must live, drawn by your own sweet skill.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","decay","immortality","youth","growth","imperative to procreation"],
+    imagery: ["war","verse","flowers","eyes","painting"],
+    characters: ["Fair Youth"]
   },
   {
     number: 17,
@@ -335,9 +335,9 @@ And your true rights be term’d a poet’s rage
 And stretched metre of an antique song:
 But were some child of yours alive that time,
 You should live twice,--in it, and in my rhyme.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","old age","imperative to procreation","decay","the future"],
+    imagery: ["verse","grave/tomb","body parts","eyes","face","yellow","heaven"],
+    characters: ["Fair Youth"]
   },
   {
     number: 18,
@@ -355,9 +355,9 @@ Nor shall death brag thou wander’st in his shade,
 When in eternal lines to time thou grow’st,
 So long as men can breathe, or eyes can see,
 So long lives this, and this gives life to thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","immortality","decay","mortality","possession"],
+    imagery: ["weather","seasons","summer","wind","May","sun","gold","verse","buds","heat"],
+    characters: ["Fair Youth"]
   },
   {
     number: 19,
@@ -375,9 +375,9 @@ Him in thy course untainted do allow
 For beauty’s pattern to succeeding men.
 Yet, do thy worst old Time: despite thy wrong,
 My love shall in my verse ever live young.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["decay","passage of time","mortality","old age","crime","beauty","immortality"],
+    imagery: ["lion","animals","tiger","phoenix","blood","teeth","wrinkles","face","brow","pen","verse"],
+    characters: ["Fair Youth"]
   },
   {
     number: 20,
@@ -395,9 +395,9 @@ And by addition me of thee defeated,
 By adding one thing to my purpose nothing.
 But since she prick’d thee out for women’s pleasure,
 Mine be thy love and thy love’s use their treasure.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["theft","deception","sexuality","possession","beauty"],
+    imagery: ["body parts","face","heart","eyes","gaze"],
+    characters: ["Fair Youth"]
   },
   {
     number: 21,
@@ -415,9 +415,9 @@ As any mother’s child, though not so bright
 As those gold candles fix’d in heaven’s air:
 Let them say more that like of hearsay well;
 I will not praise that purpose not to sell.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","artificiality"],
+    imagery: ["verse","heaven","April","months","moon","gems","stars","gold"],
+    characters: ["Rival Poet","Fair Youth","Muse"]
   },
   {
     number: 22,
@@ -435,9 +435,9 @@ Bearing thy heart, which I will keep so chary
 As tender nurse her babe from faring ill.
 Presume not on thy heart when mine is slain,
 Thou gav’st me thine not to give back again.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","youth","old age","beauty","mortality"],
+    imagery: ["mirror","wrinkles","heart","clothing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 23,
