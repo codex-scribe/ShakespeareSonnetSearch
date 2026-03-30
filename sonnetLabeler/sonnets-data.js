@@ -2416,8 +2416,8 @@ I may be straight though they themselves be bevel;
 By their rank thoughts, my deeds must not be shown;
 Unless this general evil they maintain,
 All men are bad and in their badness reign.`,
-    themes: [],
-    imagery: [],
+    themes: ["ill reputation","transgressions","unfaithfulness","worth"],
+    imagery: ["blood","eyes","accounting/tallying"],
     characters: []
   },
   {
@@ -2436,9 +2436,9 @@ Therefore to give them from me was I bold,
 To trust those tables that receive thee more:
 To keep an adjunct to remember thee
 Were to import forgetfulness in me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["memory","forgetting","gifts"],
+    imagery: ["brain","heart"],
+    characters: ["Fair Youth"]
   },
   {
     number: 123,
@@ -2456,8 +2456,8 @@ For thy records and what we see doth lie,
 Made more or less by thy continual haste.
 This I do vow and this shall ever be;
 I will be true despite thy scythe and thee.`,
-    themes: [],
-    imagery: [],
+    themes: ["passage of time","mortality","steadfastness"],
+    imagery: ["pyramids","scythe"],
     characters: []
   },
   {
@@ -2476,9 +2476,9 @@ But all alone stands hugely politic,
 That it nor grows with heat, nor drowns with showers.
 To this I witness call the fools of time,
 Which die for goodness, who have lived for crime.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["steadfastness","changefulness","fate/fortune"],
+    imagery: ["flowers","weeds","legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 125,
@@ -2496,9 +2496,9 @@ Which is not mix’d with seconds, knows no art,
 But mutual render, only me for thee.
 Hence, thou suborned informer! a true soul
 When most impeach’d, stands least in thy control.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["gifts","immortality","truth"],
+    imagery: ["sky","sweetness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 126,
@@ -2514,9 +2514,9 @@ Yet fear her, O thou minion of her pleasure!
 She may detain, but not still keep, her treasure:
 Her audit (though delayed) answered must be,
 And her quietus is to render thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","mortality","growth"],
+    imagery: ["mirror","treasure","legal system","accounting/tallying","hourglass"],
+    characters: ["Fair Youth"]
   },
   {
     number: 127,
@@ -2534,9 +2534,9 @@ At such who, not born fair, no beauty lack,
 Sland’ring creation with a false esteem:
 Yet so they mourn becoming of their woe,
 That every tongue says beauty should look so.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","shame","artificiality","mourning"],
+    imagery: ["colors","black","hand","raven","birds"],
+    characters: ["Dark Lady"]
   },
   {
     number: 128,
@@ -2554,9 +2554,9 @@ O’er whom thy fingers walk with gentle gait,
 Making dead wood more bless’d than living lips.
 Since saucy jacks so happy are in this,
 Give them thy fingers, me thy lips to kiss.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["sacredness","appreciation"],
+    imagery: ["music","musical instruments","fingers","hand","lip","harvest","blushing","walking","sweetness","harmony","kissing","wire"],
+    characters: ["Dark Lady"]
   },
   {
     number: 129,
@@ -2574,8 +2574,8 @@ A bliss in proof,-- and prov’d, a very woe;
 Before, a joy propos’d; behind a dream.
 All this the world well knows; yet none knows well
 To shun the heaven that leads men to this hell.`,
-    themes: [],
-    imagery: [],
+    themes: ["shame","lust","sexuality","waste","falsehood","evil","hate","possession","pleasure","moral correction","disappointment","disgrace","transgressions","vacillation of moods","weakness","cruelty"],
+    imagery: ["heaven","hell","dreams","blood"],
     characters: []
   },
   {
@@ -2594,9 +2594,9 @@ I grant I never saw a goddess go,--
 My mistress, when she walks, treads on the ground:
 And yet by heaven, I think my love as rare,
 As any she belied with false compare.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["speaking","appreciation","beauty"],
+    imagery: ["eyes","sun","coral","colors","lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","odors","perfume","breathing","music","god","heaven"],
+    characters: ["Dark Lady"]
   },
   {
     number: 131,
@@ -2614,9 +2614,9 @@ One on another’s neck, do witness bear
 Thy black is fairest in my judgment’s place.
 In nothing art thou black save in thy deeds,
 And thence this slander, as I think, proceeds.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["tyranny","cruelty","beauty","pride","truth","falsehood","transgressions","ill reputation"],
+    imagery: ["heart","gems","face"],
+    characters: ["Dark Lady"]
   },
   {
     number: 132,
@@ -2634,9 +2634,9 @@ To mourn for me since mourning doth thee grace,
 And suit thy pity like in every part.
 Then will I swear beauty herself is black,
 And all they foul that thy complexion lack.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["torture","mourning","eye vs. heart","pity","beauty"],
+    imagery: ["eyes","colors","black","morning","sun","heaven","gray","cheek","sunset","heart"],
+    characters: ["Dark Lady"]
   },
   {
     number: 133,
@@ -2654,9 +2654,9 @@ Whoe’er keeps me, let my heart be his guard;
 Thou canst not then use rigour in my jail:
 And yet thou wilt; for I, being pent in thee,
 Perforce am thine, and all that is in me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["castigation","torture","slavery","union of speaker and beloved"],
+    imagery: ["groan","heart","wound","sweetness","eyes","prison","steel","legal system"],
+    characters: ["Dark Lady","Fair Youth"]
   },
   {
     number: 134,
@@ -2674,9 +2674,9 @@ And sue a friend came debtor for my sake;
 So him I lose through my unkind abuse.
 Him have I lost; thou hast both him and me:
 He pays the whole, and yet am I not free.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["union of speaker and beloved","possession","jealousy","writing","lending/debt"],
+    imagery: ["legal system"],
+    characters: ["Dark Lady","Fair Youth"]
   },
   {
     number: 135,
@@ -2694,9 +2694,9 @@ So thou, being rich in ’Will,’ add to thy ’Will’
 One will of mine, to make thy large will more.
 Let no unkind ’No’ fair beseechers kill;
 Think all but one, and me in that one ’Will.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["abundance","union of speaker and beloved","possession"],
+    imagery: ["rain","ocean","water"],
+    characters: ["Dark Lady"]
   },
   {
     number: 136,
@@ -2715,8 +2715,8 @@ That nothing me, a something sweet to thee:
 Make but my name thy love, and love that still,
 And then thou lov’st me for my name is ’Will.’`,
     themes: [],
-    imagery: [],
-    characters: []
+    imagery: ["blindness","treasure","Will","sweetness"],
+    characters: ["Dark Lady"]
   },
   {
     number: 137,
