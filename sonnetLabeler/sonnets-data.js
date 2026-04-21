@@ -2734,8 +2734,8 @@ Or mine eyes, seeing this, say this is not,
 To put fair truth upon so foul a face?
 In things right true my heart and eyes have err’d,
 And to this false plague are they now transferr’d.`,
-    themes: [],
-    imagery: [],
+    themes: ["eye vs. heart","self-deception","truth"],
+    imagery: ["blindness","plague"],
     characters: []
   },
   {
@@ -2754,9 +2754,9 @@ O! love’s best habit is in seeming trust,
 And age in love, loves not to have years told:
 Therefore I lie with her, and she with me,
 And in our faults by lies we flatter’d be.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["youth","self-deception","unfaithfulness","old age","truth","deception"],
+    imagery: ["clothing"],
+    characters: ["Dark Lady"]
   },
   {
     number: 139,
@@ -2774,9 +2774,9 @@ And therefore from my face she turns my foes,
 That they elsewhere might dart their injuries:
 Yet do not so; but since I am near slain, 
 Kill me outright with looks, and rid my pain.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unfaithfulness","transgressions","unrequited love"],
+    imagery: ["tongues","heart"],
+    characters: ["Dark Lady"]
   },
   {
     number: 140,
@@ -2794,9 +2794,9 @@ Now this ill-wresting world is grown so bad,
 Mad slanderers by mad ears believed be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["cruelty","wisdom","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
+    imagery: ["sickness","eyes","ears","tongues"],
+    characters: ["Dark Lady"]
   },
   {
     number: 141,
@@ -2814,9 +2814,9 @@ Who leaves unsway’d the likeness of a man,
 Thy proud heart’s slave and vassal wretch to be:
 Only my plague thus far I count my gain,
 That she that makes me sin awards me pain.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["plainness of looks","eye vs. heart","slavery","pain","sin"],
+    imagery: ["eyes","heart","ears","tongues","music","touch","tastes","odors"],
+    characters: ["Dark Lady"]
   },
   {
     number: 142,
@@ -2834,9 +2834,9 @@ Root pity in thy heart, that, when it grows,
 Thy pity may deserve to pitied be.
 If thou dost seek to have what thou dost hide,
 By self-example mayst thou be denied!`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["sin","hate","virtue","unfaithfulness","unrequited love","pity"],
+    imagery: ["lip","red"],
+    characters: ["Dark Lady"]
   },
   {
     number: 143,
@@ -2854,9 +2854,9 @@ But if thou catch thy hope, turn back to me,
 And play the mother’s part, kiss me, be kind;
 So will I pray that thou mayst have thy ’Will,’
 If thou turn back and my loud crying still.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unrequited love","indifference of beloved"],
+    imagery: ["baby","birds","Will"],
+    characters: ["Dark Lady"]
   },
   {
     number: 144,
@@ -2874,9 +2874,9 @@ But being both from me, both to each friend,
 I guess one angel in another’s hell:
 Yet this shall I ne’er know, but live in doubt, 
 Till my bad angel fire my good one out.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["pride","evil","sin","temptation","unfaithfulness"],
+    imagery: ["angels","hell","fire"],
+    characters: ["Dark Lady","Fair Youth"]
   },
   {
     number: 145,
@@ -2894,9 +2894,9 @@ Doth follow night, who like a fiend
 From heaven to hell is flown away.
 ’I hate’, from hate away she threw,
 And sav’d my life, saying ’not you’.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["speaking","redemption"],
+    imagery: ["lip","hand","breathing","tongues","day","night","heaven","hell"],
+    characters: ["Dark Lady"]
   },
   {
     number: 146,
@@ -2914,8 +2914,8 @@ Buy terms divine in selling hours of dross;
 Within be fed, without be rich no more:
 So shall thou feed on Death, that feeds on men,
 And Death once dead, there’s no more dying then.`,
-    themes: [],
-    imagery: [],
+    themes: ["sin","material vs. ideal world","artificiality","excess","immortality","mortality"],
+    imagery: ["earth","worms","house","eating","military"],
     characters: []
   },
   {
@@ -2934,9 +2934,9 @@ My thoughts and my discourse as madmen’s are,
 At random from the truth vainly express’d;
 For I have sworn thee fair, and thought thee bright,
 Who art as black as hell, as dark as night.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine","madness","truth","transgressions"],
+    imagery: ["sickness","eating","physician","hell","black","darkness","night"],
+    characters: ["Dark Lady"]
   },
   {
     number: 148,
@@ -2954,8 +2954,8 @@ No marvel then, though I mistake my view;
 The sun itself sees not, till heaven clears.
 O cunning Love! with tears thou keep’st me blind,
 Lest eyes well-seeing thy foul faults should find.`,
-    themes: [],
-    imagery: [],
+    themes: ["falsehood"],
+    imagery: ["eyes","blindness","tears","sun","clouds","heaven"],
     characters: []
   },
   {
@@ -2974,9 +2974,9 @@ When all my best doth worship thy defect,
 Commanded by the motion of thine eyes?
 But, love, hate on, for now I know thy mind;
 Those that can see thou lov’st, and I am blind.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["falsehood","hate","unrequited love","tyranny","control"],
+    imagery: ["frown","eyes","blindness"],
+    characters: ["Dark Lady"]
   },
   {
     number: 150,
@@ -2994,9 +2994,9 @@ O! though I love what others do abhor,
 With others thou shouldst not abhor my state:
 If thy unworthiness rais’d love in me,
 More worthy I to be belov’d of thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["self-deception","truth","tyranny","hate","control"],
+    imagery: ["brightness","day"],
+    characters: ["Dark Lady"]
   },
   {
     number: 151,
@@ -3014,9 +3014,9 @@ He is contented thy poor drudge to be,
 To stand in thy affairs, fall by thy side.
 No want of conscience hold it that I call
 Her ’love,’ for whose dear love I rise and fall.`,
-    themes: [],
+    themes: ["unfaithfulness","slavery","material vs. ideal world","pride","sexuality","control"],
     imagery: [],
-    characters: []
+    characters: ["Dark Lady"]
   },
   {
     number: 152,
@@ -3034,8 +3034,8 @@ And, to enlighten thee, gave eyes to blindness,
 Or made them swear against the thing they see;
 For I have sworn thee fair; more perjur’d I,
 To swear against the truth so foul a lie!`,
-    themes: [],
-    imagery: [],
+    themes: ["unfaithfulness","hate","self-deception","falsehood","truth"],
+    imagery: ["blindness"],
     characters: []
   },
   {
@@ -3054,9 +3054,9 @@ I, sick withal, the help of bath desired,
 And thither hied, a sad distemper’d guest,
 But found no cure, the bath for my help lies
 Where Cupid got new fire; my mistress’ eyes.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine"],
+    imagery: ["Cupid","Diana","mythology","fire","cold","sickness","eyes","brand","sleep"],
+    characters: ["Dark Lady"]
   },
   {
     number: 154,
@@ -3074,9 +3074,9 @@ Growing a bath and healthful remedy,
 For men diseas’d; but I, my mistress’ thrall,
 Came there for cure and this by that I prove, 
 Love’s fire heats water, water cools not love.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine","yearning"],
+    imagery: ["Cupid","brand","fire","nymph","heart","sleep","military","water","heat"],
+    characters: ["Dark Lady"]
   }
 ];
 
