@@ -15,7 +15,7 @@ Within thine own bud buriest thy content,
 And, tender churl, mak’st waste in niggarding:
 Pity the world, or else this glutton be,
 To eat the world’s due, by the grave and thee.`,
-    themes: ["beauty","mortality","immortality","imperative to procreation","increase","abundance","waste"],
+    themes: ["beauty","mortality","immortality","imperative to procreation","abundance","waste","miserliness"],
     imagery: ["flowers","rose","body parts","face","eyes","fire","seasons","spring","buds"],
     characters: ["Fair Youth"]
   },
@@ -35,7 +35,7 @@ Shall sum my count, and make my old excuse,”
 Proving his beauty by succession thine.
 This were to be new made when thou art old,
 And see thy blood warm when thou feel’st it cold.`,
-    themes: ["beauty","imperative to procreation","immortality"],
+    themes: ["beauty","imperative to procreation","immortality","youth","old age"],
     imagery: ["winter","seasons","brow","face","clothing","eyes","blood","body parts","wrinkles","heat","cold"],
     characters: ["Fair Youth"]
   },
@@ -55,8 +55,8 @@ So thou through windows of thine age shalt see,
 Despite of wrinkles, this thy golden time.
 But if thou live rememb'red not to be,
 Die single, and thine image dies with thee.`,
-    themes: ["imperative to procreation","mortality","beauty","passage of time"],
-    imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts"],
+    themes: ["imperative to procreation","mortality","beauty","passage of time","old age"],
+    imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts","farming","grave/tomb"],
     characters: ["Fair Youth"]
   },
   {
@@ -75,7 +75,7 @@ Then how when Nature calls thee to be gone,
 What acceptable audit canst thou leave?
 Thy unused beauty must be tombed with thee,
 Which usèd lives th’executor to be.`,
-    themes: ["beauty","lending/debt","imperative to procreation","mortality","waste"],
+    themes: ["beauty","lending/debt","imperative to procreation","mortality","waste","miserliness"],
     imagery: ["grave/tomb"],
     characters: ["Fair Youth"]
   },
@@ -95,8 +95,8 @@ Beauty’s effect with beauty were bereft,
 Nor it, nor no remembrance what it was.
 But flowers distilled, though they with winter meet,
 Leese but their show; their substance still lives sweet.`,
-    themes: ["beauty","tyranny","mortality","imperative to procreation"],
-    imagery: ["face","seasons","winter","summer","trees","sap","frost","leaves","snow","weather","perfume","flowers","body parts","gaze","barrenness (trees)"],
+    themes: ["beauty","mortality","imperative to procreation"],
+    imagery: ["face","seasons","winter","summer","trees","sap","frost","leaves","snow","weather","perfume","flowers","body parts","gaze","barrenness (trees)","prison"],
     characters: ["Fair Youth"]
   },
   {
@@ -116,7 +116,7 @@ Leaving thee living in posterity?
 Be not self-willed, for thou art much too fair
 To be death’s conquest and make worms thine heir.`,
     themes: ["mortality","immortality","imperative to procreation","beauty","lending/debt"],
-    imagery: ["winter","summer","seasons","perfume","worms","treasure"],
+    imagery: ["winter","summer","seasons","perfume","worms","treasure","hand"],
     characters: ["Fair Youth"]
   },
   {
@@ -131,7 +131,7 @@ Yet mortal looks adore his beauty still,
 Attending on his golden pilgrimage:
 But when from highmost pitch, with weary car
 Like feeble age he reeleth from the day,
-The eyes  (fore duteous) now converted are
+The eyes (fore duteous) now converted are
 From his low tract and look another way:
 So thou, thyself outgoing in thy noon,
 Unlooked on diest unless thou get a son.`,
@@ -156,7 +156,7 @@ Who all in one, one pleasing note do sing;
 Whose speechless song being many, seeming one,
 Sings this to thee, “Thou single wilt prove none.”`,
     themes: ["imperative to procreation"],
-    imagery: ["music"],
+    imagery: ["music","musical instruments"],
     characters: ["Fair Youth"]
   },
   {
@@ -175,7 +175,7 @@ But beauty’s waste hath in the world an end,
 And kept unused, the user so destroys it:
 No love toward others in that bosom sits
 That on himself such murd’rous shame commits.`,
-    themes: ["imperative to procreation","mortality","grief","beauty","waste","shame"],
+    themes: ["imperative to procreation","mortality","grief","beauty","waste","shame","miserliness"],
     imagery: ["widow","weeping","gaze","eyes","face","body parts"],
     characters: ["Fair Youth"]
   },

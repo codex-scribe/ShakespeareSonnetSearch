@@ -5,139 +5,139 @@ const sonnetsData = [
 That thereby beauty’s rose might never die,
 But as the riper should by time decease,
 His tender heir might bear his memory:
-But thou contracted to thine own bright eyes,
+But thou, contracted to thine own bright eyes,
 Feed’st thy light’s flame with self-substantial fuel,
 Making a famine where abundance lies,
-Thy self thy foe, to thy sweet self too cruel:
+Thyself thy foe, to thy sweet self too cruel.
 Thou that art now the world’s fresh ornament,
 And only herald to the gaudy spring,
 Within thine own bud buriest thy content,
 And, tender churl, mak’st waste in niggarding:
 Pity the world, or else this glutton be,
 To eat the world’s due, by the grave and thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","mortality","immortality","imperative to procreation","increase","abundance","waste"],
+    imagery: ["flowers","rose","body parts","face","eyes","fire","seasons","spring","buds"],
+    characters: ["Fair Youth"]
   },
   {
     number: 2,
     text: `When forty winters shall besiege thy brow,
 And dig deep trenches in thy beauty’s field,
-Thy youth’s proud livery so gazed on now,
-Will be a tatter’d weed of small worth held: 
+Thy youth’s proud livery so gazed on now
+Will be a tottered weed of small worth held: 
 Then being asked, where all thy beauty lies,
-Where all the treasure of thy lusty days; 
-To say, within thine own deep sunken eyes,
+Where all the treasure of thy lusty days, 
+To say within thine own deep-sunken eyes
 Were an all-eating shame, and thriftless praise.
-How much more praise deserv’d thy beauty’s use,
-If thou couldst answer ’This fair child of mine
-Shall sum my count, and make my old excuse,’
-Proving his beauty by succession thine!
+How much more praise deserved thy beauty’s use,
+If thou couldst answer, “This fair child of mine
+Shall sum my count, and make my old excuse,”
+Proving his beauty by succession thine.
 This were to be new made when thou art old,
 And see thy blood warm when thou feel’st it cold.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","imperative to procreation","immortality"],
+    imagery: ["winter","seasons","brow","face","clothing","eyes","blood","body parts","wrinkles","heat","cold"],
+    characters: ["Fair Youth"]
   },
   {
     number: 3,
-    text: `Look in thy glass and tell the face thou viewest
-Now is the time that face should form another;
+    text: `Look in thy glass and tell the face thou viewest,
+Now is the time that face should form another,
 Whose fresh repair if now thou not renewest,
 Thou dost beguile the world, unbless some mother.
-For where is she so fair whose unear’d womb
+For where is she so fair whose uneared womb
 Disdains the tillage of thy husbandry?
-Or who is he so fond will be the tomb,
+Or who is he so fond will be the tomb
 Of his self-love to stop posterity? 
-Thou art thy mother’s glass and she in thee
+Thou art thy mother’s glass, and she in thee
 Calls back the lovely April of her prime;
 So thou through windows of thine age shalt see,
-Despite of wrinkles this thy golden time.
-But if thou live, remember’d not to be,
-Die single and thine image dies with thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+Despite of wrinkles, this thy golden time.
+But if thou live rememb'red not to be,
+Die single, and thine image dies with thee.`,
+    themes: ["imperative to procreation","mortality","beauty","passage of time"],
+    imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts"],
+    characters: ["Fair Youth"]
   },
   {
     number: 4,
     text: `Unthrifty loveliness, why dost thou spend
-Upon thy self thy beauty’s legacy?
+Upon thyself thy beauty’s legacy?
 Nature’s bequest gives nothing, but doth lend,
 And being frank she lends to those are free:
 Then, beauteous niggard, why dost thou abuse
 The bounteous largess given thee to give?
 Profitless usurer, why dost thou use
-So great a sum of sums, yet canst not live?
-For having traffic with thy self alone,
-Thou of thy self thy sweet self dost deceive:
-Then how when nature calls thee to be gone,
+So great a sum of sums yet canst not live?
+For having traffic with thyself alone,
+Thou of thyself thy sweet self dost deceive:
+Then how when Nature calls thee to be gone,
 What acceptable audit canst thou leave?
 Thy unused beauty must be tombed with thee,
-Which, used, lives th’ executor to be.`,
-    themes: [],
-    imagery: [],
-    characters: []
+Which usèd lives th’executor to be.`,
+    themes: ["beauty","lending/debt","imperative to procreation","mortality","waste"],
+    imagery: ["grave/tomb"],
+    characters: ["Fair Youth"]
   },
   {
     number: 5,
-    text: `Those hours, that with gentle work did frame
-The lovely gaze where every eye doth dwell,
-Will play the tyrants to the very same
+    text: `Those hours that with gentle work did frame
+The lovely gaze where every eye doth dwell
+Will play the tyrants to the very same,
 And that unfair which fairly doth excel;
 For never-resting time leads summer on
-To hideous winter, and confounds him there;
-Sap checked with frost, and lusty leaves quite gone,
-Beauty o’er-snowed and bareness every where:
-Then were not summer’s distillation left,
+To hideous winter and confounds him there,
+Sap checked with frost and lusty leaves quite gone,
+Beauty o’ersnowed and bareness every where:
+Then were not summer’s distillation left
 A liquid prisoner pent in walls of glass,
 Beauty’s effect with beauty were bereft,
-Nor it, nor no remembrance what it was:
-But flowers distill’d, though they with winter meet,
+Nor it, nor no remembrance what it was.
+But flowers distilled, though they with winter meet,
 Leese but their show; their substance still lives sweet.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","tyranny","mortality","imperative to procreation"],
+    imagery: ["face","seasons","winter","summer","trees","sap","frost","leaves","snow","weather","perfume","flowers","body parts","gaze","barrenness (trees)"],
+    characters: ["Fair Youth"]
   },
   {
     number: 6,
-    text: `Then let not winter’s ragged hand deface,
-In thee thy summer, ere thou be distill’d:
+    text: `Then let not winter’s ragged hand deface
+In thee thy summer ere thou be distilled:
 Make sweet some vial; treasure thou some place
-With beauty’s treasure ere it be self-kill’d.
-That use is not forbidden usury,
+With beauty’s treasure ere it be self-killed:
+That use is not forbidden usury
 Which happies those that pay the willing loan;
-That’s for thy self to breed another thee,
-Or ten times happier, be it ten for one;
-Ten times thy self were happier than thou art,
-If ten of thine ten times refigur’d thee:
+That’s for thyself to breed another thee,
+Or ten times happier be it ten for one;
+Ten times thyself were happier than thou art,
+If ten of thine ten times refigured thee:
 Then what could death do if thou shouldst depart,
 Leaving thee living in posterity?
-Be not self-will’d, for thou art much too fair
+Be not self-willed, for thou art much too fair
 To be death’s conquest and make worms thine heir.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","immortality","imperative to procreation","beauty","lending/debt"],
+    imagery: ["winter","summer","seasons","perfume","worms","treasure"],
+    characters: ["Fair Youth"]
   },
   {
     number: 7,
-    text: `Lo! in the orient when the gracious light
+    text: `Lo in the orient when the gracious light
 Lifts up his burning head, each under eye
 Doth homage to his new-appearing sight,
 Serving with looks his sacred majesty; 
-And having climb’d the steep-up heavenly hill,
+And having climbed the steep-up heavenly hill,
 Resembling strong youth in his middle age,
 Yet mortal looks adore his beauty still,
 Attending on his golden pilgrimage:
-But when from highmost pitch, with weary car,
-Like feeble age, he reeleth from the day,
-The eyes, ’fore duteous, now converted are
-From his low tract, and look another way:
-So thou, thyself outgoing in thy noon:
-Unlook’d on, diest unless thou get a son.`,
-    themes: [],
-    imagery: [],
-    characters: []
+But when from highmost pitch, with weary car
+Like feeble age he reeleth from the day,
+The eyes  (fore duteous) now converted are
+From his low tract and look another way:
+So thou, thyself outgoing in thy noon,
+Unlooked on diest unless thou get a son.`,
+    themes: ["beauty","passage of time","imperative to procreation","youth","old age","mortality"],
+    imagery: ["sun","gold","gaze","time of day","day"],
+    characters: ["Fair Youth"]
   },
   {
     number: 8,
@@ -145,59 +145,59 @@ Unlook’d on, diest unless thou get a son.`,
 Sweets with sweets war not, joy delights in joy:
 Why lov’st thou that which thou receiv’st not gladly,
 Or else receiv’st with pleasure thine annoy?
-If the true concord of well-tuned sounds,
-By unions married, do offend thine ear,
+If the true concord of well-tunèd sounds
+By unions married do offend thine ear,
 They do but sweetly chide thee, who confounds
-In singleness the parts that thou shouldst bear. 
+In singleness the parts that thou shouldst bear; 
 Mark how one string, sweet husband to another,
 Strikes each in each by mutual ordering;
-Resembling sire and child and happy mother,
-Who, all in one, one pleasing note do sing:
+Resembling sire, and child, and happy mother,
+Who all in one, one pleasing note do sing;
 Whose speechless song being many, seeming one,
-Sings this to thee: ’Thou single wilt prove none.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+Sings this to thee, “Thou single wilt prove none.”`,
+    themes: ["imperative to procreation"],
+    imagery: ["music"],
+    characters: ["Fair Youth"]
   },
   {
     number: 9,
-    text: `Is it for fear to wet a widow’s eye,
-That thou consum’st thy self in single life?
+    text: `Is it for fear to wet a widow’s eye
+That thou consum’st thyself in single life?
 Ah! if thou issueless shalt hap to die,
-The world will wail thee like a makeless wife;
-The world will be thy widow and still weep
+The world will wail thee like a makeless wife,
+The world will be thy widow and still weep,
 That thou no form of thee hast left behind,
-When every private widow well may keep
+When every private widow well may keep,
 By children’s eyes, her husband’s shape in mind:
-Look! what an unthrift in the world doth spend
-Shifts but his place, for still the world enjoys it;
+Look what an unthrift in the world doth spend
+Shifts but his place, for still the world enjoys it,
 But beauty’s waste hath in the world an end,
-And kept unused the user so destroys it.
+And kept unused, the user so destroys it:
 No love toward others in that bosom sits
 That on himself such murd’rous shame commits.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["imperative to procreation","mortality","grief","beauty","waste","shame"],
+    imagery: ["widow","weeping","gaze","eyes","face","body parts"],
+    characters: ["Fair Youth"]
   },
   {
     number: 10,
-    text: `For shame! deny that thou bear’st love to any,
+    text: `For shame deny that thou bear’st love to any,
 Who for thy self art so unprovident.
-Grant, if thou wilt, thou art belov’d of many,
-But that thou none lov’st is most evident:
-For thou art so possess’d with murderous hate,
+Grant, if thou wilt, thou art beloved of many,
+But that thou none lov’st is most evident;
+For thou art so possessed with murd’rous hate,
 That ’gainst thy self thou stick’st not to conspire,
 Seeking that beauteous roof to ruinate
-Which to repair should be thy chief desire.
-O! change thy thought, that I may change my mind:
-Shall hate be fairer lodg’d than gentle love?
-Be, as thy presence is, gracious and kind,
-Or to thyself at least kind-hearted prove:
+Which to repair should be thy chief desire:
+O change thy thought, that I may change my mind!
+Shall hate be fairer lodged than gentle love?
+Be as thy presence is, gracious and kind,
+Or to thy self at least kind-hearted prove:
 Make thee another self for love of me,
 That beauty still may live in thine or thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["shame","waste","beauty","imperative to procreation","hate","immortality"],
+    imagery: ["house"],
+    characters: ["Fair Youth"]
   },
   {
     number: 11,
@@ -215,9 +215,9 @@ Look, whom she best endow’d, she gave thee more;
 Which bounteous gift thou shouldst in bounty cherish:
 She carv’d thee for her seal, and meant thereby,
 Thou shouldst print more, not let that copy die.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality","increase"],
+    imagery: ["blood","cold","printing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 12,
@@ -235,9 +235,9 @@ Since sweets and beauties do themselves forsake
 And die as fast as they see others grow;
 And nothing ’gainst Time’s scythe can make defense
 Save breed, to brave him when he takes thee hence.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","abundance","beauty","mortality","imperative to procreation"],
+    imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barrenness (trees)","heat","summer","seasons","animals","crops","body parts","hair","gray","black","green","white","silver","farming","colors"],
+    characters: ["Fair Youth"]
   },
   {
     number: 13,
@@ -255,9 +255,9 @@ Against the stormy gusts of winter’s day
 And barren rage of death’s eternal cold?
 O! none but unthrifts. Dear my love, you know,
 You had a father: let your son say so.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","imperative to procreation","beauty","lending/debt","waste"],
+    imagery: ["house","cold","winter","weather","storms"],
+    characters: ["Fair Youth"]
   },
   {
     number: 14,
@@ -275,9 +275,9 @@ As ’Truth and beauty shall together thrive,
 If from thyself, to store thou wouldst convert’;
 Or else of thee this I prognosticate:
 ’Thy end is truth’s and beauty’s doom and date.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["abundance","fate/fortune","imperative to procreation","immortality","truth","mortality"],
+    imagery: ["farming","rain","royalty","weather","eyes","body parts","face","stars","storms"],
+    characters: ["Fair Youth"]
   },
   {
     number: 15,
@@ -295,9 +295,9 @@ Where wasteful Time debateth with decay
 To change your day of youth to sullied night,
 And all in war with Time for love of you,
 As he takes from you, I engraft you new.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["abundance","passage of time","old age","youth","decay","increase","growth","fate/fortune"],
+    imagery: ["stars","day","night","war"],
+    characters: ["Fair Youth"]
   },
   {
     number: 16,
@@ -315,9 +315,9 @@ Neither in inward worth nor outward fair,
 Can make you live your self in eyes of men.
 To give away yourself, keeps yourself still,
 And you must live, drawn by your own sweet skill.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","decay","immortality","youth","growth","imperative to procreation"],
+    imagery: ["war","verse","flowers","eyes","painting"],
+    characters: ["Fair Youth"]
   },
   {
     number: 17,
@@ -335,9 +335,9 @@ And your true rights be term’d a poet’s rage
 And stretched metre of an antique song:
 But were some child of yours alive that time,
 You should live twice,--in it, and in my rhyme.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","old age","imperative to procreation","decay","the future"],
+    imagery: ["verse","grave/tomb","body parts","eyes","face","yellow","heaven"],
+    characters: ["Fair Youth"]
   },
   {
     number: 18,
@@ -355,9 +355,9 @@ Nor shall death brag thou wander’st in his shade,
 When in eternal lines to time thou grow’st,
 So long as men can breathe, or eyes can see,
 So long lives this, and this gives life to thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","immortality","decay","mortality","possession"],
+    imagery: ["weather","seasons","summer","wind","May","sun","gold","verse","buds","heat"],
+    characters: ["Fair Youth"]
   },
   {
     number: 19,
@@ -375,9 +375,9 @@ Him in thy course untainted do allow
 For beauty’s pattern to succeeding men.
 Yet, do thy worst old Time: despite thy wrong,
 My love shall in my verse ever live young.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["decay","passage of time","mortality","old age","crime","beauty","immortality"],
+    imagery: ["lion","animals","tiger","phoenix","blood","teeth","wrinkles","face","brow","pen","verse"],
+    characters: ["Fair Youth"]
   },
   {
     number: 20,
@@ -395,9 +395,9 @@ And by addition me of thee defeated,
 By adding one thing to my purpose nothing.
 But since she prick’d thee out for women’s pleasure,
 Mine be thy love and thy love’s use their treasure.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["theft","deception","sexuality","possession","beauty"],
+    imagery: ["body parts","face","heart","eyes","gaze"],
+    characters: ["Fair Youth"]
   },
   {
     number: 21,
@@ -415,9 +415,9 @@ As any mother’s child, though not so bright
 As those gold candles fix’d in heaven’s air:
 Let them say more that like of hearsay well;
 I will not praise that purpose not to sell.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","artificiality"],
+    imagery: ["verse","heaven","April","months","moon","gems","stars","gold"],
+    characters: ["Rival Poet","Fair Youth","Muse"]
   },
   {
     number: 22,
@@ -435,9 +435,9 @@ Bearing thy heart, which I will keep so chary
 As tender nurse her babe from faring ill.
 Presume not on thy heart when mine is slain,
 Thou gav’st me thine not to give back again.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","youth","old age","beauty","mortality"],
+    imagery: ["mirror","wrinkles","heart","clothing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 23,
@@ -455,9 +455,9 @@ Who plead for love, and look for recompense,
 More than that tongue that more hath more express’d.
 O! learn to read what silent love hath writ:
 To hear with eyes belongs to love’s fine wit.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["drama","speaking"],
+    imagery: ["gaze"],
+    characters: ["Fair Youth"]
   },
   {
     number: 24,
@@ -476,8 +476,8 @@ Delights to peep, to gaze therein on thee;
 Yet eyes this cunning want to grace their art,
 They draw but what they see, know not the heart.`,
     themes: [],
-    imagery: [],
-    characters: []
+    imagery: ["painting","face","eyes","body parts","sun"],
+    characters: ["Fair Youth"]
   },
   {
     number: 25,
@@ -495,9 +495,9 @@ Is from the book of honour razed quite,
 And all the rest forgot for which he toil’d:
 Then happy I, that love and am belov’d,
 Where I may not remove nor be remov’d.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["fate/fortune","fame"],
+    imagery: ["stars","flowers","marigold","sun"],
+    characters: ["Fair Youth"]
   },
   {
     number: 26,
@@ -515,9 +515,9 @@ And puts apparel on my tatter’d loving,
 To show me worthy of thy sweet respect:
 Then may I dare to boast how I do love thee;
 Till then, not show my head where thou mayst prove me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["fate/fortune","duty/subservience"],
+    imagery: ["stars","clothing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 27,
@@ -535,9 +535,9 @@ Which, like a jewel (hung in ghastly night,
 Makes black night beauteous, and her old face new.
 Lo! thus, by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["travail","imagination"],
+    imagery: ["night","darkness","gems","black","colors"],
+    characters: ["Fair Youth"]
   },
   {
     number: 28,
@@ -555,9 +555,9 @@ So flatter I the swart-complexion’d night,
 When sparkling stars twire not thou gild’st the even.
 But day doth daily draw my sorrows longer,
 And night doth nightly make grief’s length seem stronger.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["travail"],
+    imagery: ["day","night","stars"],
+    characters: ["Fair Youth"]
   },
   {
     number: 29,
@@ -575,9 +575,9 @@ Like to the lark at break of day arising
 From sullen earth, sings hymns at heaven’s gate;
 For thy sweet love remember’d such wealth brings
 That then I scorn to change my state with kings.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["fate/fortune","memory","redemption"],
+    imagery: ["weeping","heaven","birds","animals","lark","dawn","kings","wealth","singing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 30,
@@ -588,16 +588,16 @@ And with old woes new wail my dear time’s waste:
 Then can I drown an eye, unused to flow,
 For precious friends hid in death’s dateless night,
 And weep afresh love’s long since cancell’d woe,
-And moan the expense of many a vanish’d sight:
+And moan the expense of many a vanish’’d sight:
 Then can I grieve at grievances foregone,
 And heavily from woe to woe tell o’er
 The sad account of fore-bemoaned moan,
 Which I new pay as if not paid before.
 But if the while I think on thee, dear friend,
 All losses are restor’d and sorrows end.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["memory","waste","mortality","passage of time","grief","redemption"],
+    imagery: ["weeping","night","legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 31,
@@ -615,9 +615,9 @@ Who all their parts of me to thee did give,
 That due of many now is thine alone:
 Their images I lov’d, I view in thee,
 And thou--all they--hast all the all of me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["theft","possession","unrequited love"],
+    imagery: ["weeping","grave/tomb","eyes"],
+    characters: ["Fair Youth"]
   },
   {
     number: 32,
@@ -635,9 +635,9 @@ A dearer birth than this his love had brought,
 To march in ranks of better equipage:
 But since he died and poets better prove,
 Theirs for their style I’ll read, his for his love’.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","passage of time","self-denigration"],
+    imagery: ["verse"],
+    characters: ["Rival Poet","Fair Youth"]
   },
   {
     number: 33,
@@ -655,9 +655,9 @@ But out! alack! he was but one hour mine,
 The region cloud hath mask’d him from me now.
 Yet him for this my love no whit disdaineth;
 Suns of the world may stain when heaven’s sun staineth.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","disappointment","unrequited love","redemption"],
+    imagery: ["time of day","sun","weather","eyes","gold","face","green","colors","meadows","nature","clouds","brow","heaven"],
+    characters: ["Fair Youth"]
   },
   {
     number: 34,
@@ -675,9 +675,9 @@ The offender’s sorrow lends but weak relief
 To him that bears the strong offence’s cross. 
 Ah! but those tears are pearl which thy love sheds,
 And they are rich and ransom all ill deeds.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["disappointment","healing/medicine","disgrace","redemption","unrequited love","beauty","grief"],
+    imagery: ["clothing","clouds","weather","face","rain","storms","tears","pearls"],
+    characters: ["Fair Youth"]
   },
   {
     number: 35,
@@ -695,9 +695,9 @@ And ’gainst myself a lawful plea commence:
 Such civil war is in my love and hate,
 That I an accessary needs must be,
 To that sweet thief which sourly robs from me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unfaithfulness","unrequited love","forgiveness","hate","theft"],
+    imagery: ["silver","mud","clouds","eclipse","buds","canker","moon","sun","war","thorns","water","legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 36,
@@ -715,9 +715,9 @@ Nor thou with public kindness honour me,
 Unless thou take that honour from thy name:
 But do not so, I love thee in such sort,
 As thou being mine, mine is thy good report.`,
-    themes: [],
+    themes: ["transgressions","separation","forgiveness","self-denigration"],
     imagery: [],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 37,
@@ -735,9 +735,9 @@ That I in thy abundance am suffic’d,
 And by a part of all thy glory live.
 Look what is best, that best I wish in thee:
 This wish I have; then ten times happy me!`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["youth","fate/fortune","disgrace","beauty","unrequited love","abundance","self-denigration"],
+    imagery: ["fatherhood","wealth","shadow","royalty"],
+    characters: ["Fair Youth"]
   },
   {
     number: 38,
@@ -755,9 +755,9 @@ And he that calls on thee, let him bring forth
 Eternal numbers to outlive long date.
 If my slight muse do please these curious days,
 The pain be mine, but thine shall be the praise.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["writing","immortality","self-denigration"],
+    imagery: ["breathing","verse","mythology","paper"],
+    characters: ["Muse","Fair Youth"]
   },
   {
     number: 39,
@@ -775,9 +775,9 @@ To entertain the time with thoughts of love,
 Which time and thoughts so sweetly doth deceive, 
 And that thou teachest how to make one twain,
 By praising him here who doth hence remain.`,
-    themes: [],
+    themes: ["self-denigration","separation"],
     imagery: [],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 40,
@@ -795,9 +795,9 @@ And yet, love knows it is a greater grief
 To bear love’s wrong, than hate’s known injury.
 Lascivious grace, in whom all ill well shows,
 Kill me with spites yet we must not be foes.`,
-    themes: [],
+    themes: ["theft","unrequited love"],
     imagery: [],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 41,
@@ -815,9 +815,9 @@ Who lead thee in their riot even there
 Where thou art forced to break a twofold truth:--
 Hers by thy beauty tempting her to thee,
 Thine by thy beauty being false to me.`,
-    themes: [],
+    themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love"],
     imagery: [],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 42,
@@ -835,9 +835,9 @@ Both find each other, and I lose both twain,
 And both for my sake lay on me this cross:
 But here’s the joy; my friend and I are one;
 Sweet flattery! then she loves but me alone.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["yearning","unrequited love","union of speaker and beloved","indifference of beloved","loss"],
+    imagery: ["weeping"],
+    characters: ["Fair Youth","Other Female"]
   },
   {
     number: 43,
@@ -856,8 +856,8 @@ Through heavy sleep on sightless eyes doth stay!
 All days are nights to see till I see thee,
 And nights bright days when dreams do show thee me.`,
     themes: [],
-    imagery: [],
-    characters: []
+    imagery: ["sleep","dreams","day","night","time of day","darkness","shadow","brightness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 44,
@@ -875,9 +875,9 @@ But that so much of earth and water wrought,
 I must attend time’s leisure with my moan;
 Receiving nought by elements so slow
 But heavy tears, badges of either’s woe.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["material vs. ideal world","distance","imagination"],
+    imagery: ["tears"],
+    characters: ["Fair Youth"]
   },
   {
     number: 45,
@@ -895,9 +895,9 @@ Who even but now come back again, assur’d,
 Of thy fair health, recounting it to me:
 This told, I joy; but then no longer glad,
 I send them back again, and straight grow sad.`,
-    themes: [],
+    themes: ["material vs. ideal world","distance"],
     imagery: [],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 46,
@@ -915,9 +915,9 @@ And by their verdict is determined
 The clear eye’s moiety, and the dear heart’s part:
 As thus; mine eye’s due is thy outward part,
 And my heart’s right, thy inward love of heart.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["immortality","possession","beauty"],
+    imagery: ["eyes","heart","war","legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 47,
@@ -935,8 +935,8 @@ For thou not farther than my thoughts canst move,
 And I am still with them, and they with thee;
 Or, if they sleep, thy picture in my sight
 Awakes my heart, to heart’s and eye’s delight.`,
-    themes: [],
-    imagery: [],
+    themes: ["distance","imagination"],
+    imagery: ["feasting","eyes","heart","sleep","dreams"],
     characters: []
   },
   {
@@ -955,9 +955,9 @@ Within the gentle closure of my breast,
 From whence at pleasure thou mayst come and part;
 And even thence thou wilt be stol’n I fear,
 For truth proves thievish for a prize so dear.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["possession","grief","unrequited love","theft"],
+    imagery: ["lockbox","gems"],
+    characters: ["Fair Youth"]
   },
   {
     number: 49,
@@ -975,9 +975,9 @@ And this my hand, against my self uprear,
 To guard the lawful reasons on thy part: 
 To leave poor me thou hast the strength of laws,
 Since why to love I can allege no cause.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unrequited love"],
+    imagery: ["legal system","eyes","sun"],
+    characters: ["Fair Youth"]
   },
   {
     number: 50,
@@ -995,9 +995,9 @@ Which heavily he answers with a groan,
 More sharp to me than spurring to his side;
 For that same groan doth put this in my mind,
 My grief lies onward, and my joy behind.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["travail","distance","yearning"],
+    imagery: ["beast of burden","blood"],
+    characters: ["Fair Youth"]
   },
   {
     number: 51,
@@ -1015,9 +1015,9 @@ Shall neigh--no dull flesh--in his fiery race;
 But love, for love, thus shall excuse my jade,--
 ’Since from thee going, he went wilful-slow,
 Towards thee I’ll run, and give him leave to go.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["distance"],
+    imagery: ["beast of burden"],
+    characters: ["Fair Youth"]
   },
   {
     number: 52,
@@ -1035,9 +1035,9 @@ To make some special instant special-blest,
 By new unfolding his imprison’d pride.
 Blessed are you whose worthiness gives scope,
 Being had, to triumph; being lacked, to hope.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["possession"],
+    imagery: ["wealth","lockbox","treasure","feasting","gems","clothing","prison"],
+    characters: ["Fair Youth"]
   },
   {
     number: 53,
@@ -1055,9 +1055,9 @@ The other as your bounty doth appear;
 And you in every blessed shape we know.
 In all external grace you have some part,
 But you like none, none you, for constant heart.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","abundance","faithfulness","virtue"],
+    imagery: ["mythology","shadow","seasons","spring","heart","cheek","clothing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 54,
@@ -1075,9 +1075,9 @@ Die to themselves. Sweet roses do not so;
 Of their sweet deaths, are sweetest odours made: 
 And so of you, beauteous and lovely youth,
 When that shall vade, by verse distills your truth.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","truth","virtue","youth","immortality through verse"],
+    imagery: ["flowers","rose","canker","perfume","thorns","odors","verse"],
+    characters: ["Fair Youth"]
   },
   {
     number: 55,
@@ -1095,9 +1095,9 @@ Even in the eyes of all posterity
 That wear this world out to the ending doom.
 So, till the judgment that yourself arise,
 You live in this, and dwell in lovers’ eyes.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["immortality through verse","immortality","mortality","passage of time","decay","the future"],
+    imagery: ["royalty","verse","brightness","war","statues","fire","mythology","eyes","end of the world","swords"],
+    characters: ["Fair Youth"]
   },
   {
     number: 56,
@@ -1115,9 +1115,9 @@ Come daily to the banks, that when they see
 Return of love, more blest may be the view;
 Or call it winter, which being full of care,
 Makes summer’s welcome, thrice more wished, more rare.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["separation"],
+    imagery: ["eyes","feasting","ocean","winter","seasons","summer","swords"],
+    characters: ["Fair Youth"]
   },
   {
     number: 57,
@@ -1135,9 +1135,9 @@ But, like a sad slave, stay and think of nought
 Save, where you are, how happy you make those.
 So true a fool is love, that in your will,
 Though you do anything, he thinks no ill.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unrequited love","self-denigration","yearning","duty/subservience","slavery","separation"],
+    imagery: ["tastes"],
+    characters: ["Fair Youth"]
   },
   {
     number: 58,
@@ -1155,9 +1155,9 @@ To what you will; to you it doth belong
 Yourself to pardon of self-doing crime.
 I am to wait, though waiting so be hell,
 Not blame your pleasure be it ill or well.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["slavery","duty/subservience","transgressions"],
+    imagery: ["prison","god","hell"],
+    characters: ["Fair Youth"]
   },
   {
     number: 59,
@@ -1175,9 +1175,9 @@ Wh’r we are mended, or wh’r better they,
 Or whether revolution be the same. 
 O! sure I am the wits of former days,
 To subjects worse have given admiring praise.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["writing","beauty"],
+    imagery: ["books","verse","sun"],
+    characters: ["Fair Youth"]
   },
   {
     number: 60,
@@ -1195,9 +1195,9 @@ Feeds on the rarities of nature’s truth,
 And nothing stands but for his scythe to mow:
 And yet to times in hope, my verse shall stand.
 Praising thy worth, despite his cruel hand.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","passage of time","possession","loss","youth","immortality through verse"],
+    imagery: ["ocean","birth","wrinkles","brow","scythe","verse","rocks"],
+    characters: ["Fair Youth"]
   },
   {
     number: 61,
@@ -1215,9 +1215,9 @@ Mine own true love that doth my rest defeat,
 To play the watchman ever for thy sake:
 For thee watch I, whilst thou dost wake elsewhere,
 From me far off, with others all too near.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["distance","unrequited love","yearning","indifference of beloved"],
+    imagery: ["night","sleep","eyes","shadow","heaviness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 62,
@@ -1235,9 +1235,9 @@ Mine own self-love quite contrary I read;
 Self so self-loving were iniquity.
 ’Tis thee,--myself,--that for myself I praise,
 Painting my age with beauty of thy days.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["transgressions","truth","old age"],
+    imagery: ["heart","face","mirror","wrinkles","painting"],
+    characters: ["Fair Youth"]
   },
   {
     number: 63,
@@ -1255,9 +1255,9 @@ That he shall never cut from memory
 My sweet love’s beauty, though my lover’s life:
 His beauty shall in these black lines be seen,
 And they shall live, and he in them still green.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["decay","old age","youth","theft","immortality through verse","mortality","passage of time"],
+    imagery: ["brow","morning","day","night","time of day","royalty","seasons","spring","treasure","knives","verse","black","green","blood"],
+    characters: ["Fair Youth"]
   },
   {
     number: 64,
@@ -1275,9 +1275,9 @@ Ruin hath taught me thus to ruminate--
 That Time will come and take my love away. 
 This thought is as a death which cannot choose
 But weep to have, that which it fears to lose.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["decay","passage of time","mortality","slavery","loss"],
+    imagery: ["hand","wealth","ocean","brass","edifices"],
+    characters: ["Fair Youth"]
   },
   {
     number: 65,
@@ -1295,9 +1295,9 @@ Or what strong hand can hold his swift foot back?
 Or who his spoil of beauty can forbid?
 O! none, unless this miracle have might,
 That in black ink my love may still shine bright.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["decay","passage of time","mortality","beauty","immortality through verse","immortality"],
+    imagery: ["black","flowers","summer","heat","honey","breathing","storms","rocks","brass","edifices","steel","lockbox","gems","hand","foot","brightness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 66,
@@ -1315,9 +1315,9 @@ And simple truth miscall’d simplicity,
 And captive good attending captain ill:
 Tir’d with all these, from these would I be gone,
 Save that, to die, I leave my love alone.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["mortality","penury","unfaithfulness","transgressions","shame","virtue","sexuality","disgrace","strength","weakness","injustice","writing","artificiality","tyranny","truth","disappointment","folly","grief","healing/medicine"],
+    imagery: ["clothing","gold"],
+    characters: ["Fair Youth"]
   },
   {
     number: 67,
@@ -1335,9 +1335,9 @@ For she hath no exchequer now but his,
 And proud of many, lives upon his gains.
 O! him she stores, to show what wealth she had
 In days long since, before these last so bad.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine","transgressions","artificiality","truth","lending/debt","decay","beauty","penury","the past"],
+    imagery: ["painting","steel","cheek","flowers","rose","blood","shadow","veins","legal system","wealth","colors"],
+    characters: ["Fair Youth"]
   },
   {
     number: 68,
@@ -1355,9 +1355,9 @@ Making no summer of another’s green,
 Robbing no old to dress his beauty new;
 And him as for a map doth Nature store,
 To show false Art what beauty was of yore.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["the past","beauty","artificiality","mortality","sacredness","truth","theft","old age","youth"],
+    imagery: ["cheek","flowers","gold","hair","grave/tomb","green","summer"],
+    characters: ["Fair Youth"]
   },
   {
     number: 69,
@@ -1375,9 +1375,9 @@ Then--churls--their thoughts, although their eyes were kind,
 To thy fair flower add the rank smell of weeds: 
 But why thy odour matcheth not thy show,
 The soil is this, that thou dost common grow.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","truth","transgressions","ill reputation"],
+    imagery: ["eyes","heart","tongues","flowers","weeds","odors"],
+    characters: ["Fair Youth"]
   },
   {
     number: 70,
@@ -1395,8 +1395,8 @@ Yet this thy praise cannot be so thy praise,
 To tie up envy, evermore enlarg’d,
 If some suspect of ill mask’d not thy show,
 Then thou alone kingdoms of hearts shouldst owe.`,
-    themes: [],
-    imagery: [],
+    themes: ["transgressions","ill reputation","beauty","possession"],
+    imagery: ["birds","heaven","canker","buds"],
     characters: []
   },
   {
@@ -1415,8 +1415,8 @@ Do not so much as my poor name rehearse;
 But let your love even with my life decay;
 Lest the wise world should look into your moan,
 And mock you with me after I am gone.`,
-    themes: [],
-    imagery: [],
+    themes: ["mortality","writing","forgetting","decay","ill reputation","grief","self-denigration"],
+    imagery: ["bell","sounds","worms","verse","hand","dirt/soil"],
     characters: []
   },
   {
@@ -1435,9 +1435,9 @@ My name be buried where my body is,
 And live no more to shame nor me nor you.
 For I am shamed by that which I bring forth,
 And so should you, to love things nothing worth.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["ill reputation","forgetting","mortality","falsehood","virtue","truth","self-denigration","requited love"],
+    imagery: ["grave/tomb"],
+    characters: ["Fair Youth"]
   },
   {
     number: 73,
@@ -1455,9 +1455,9 @@ As the death-bed, whereon it must expire,
 Consum’d with that which it was nourish’d by.
 This thou perceiv’st, which makes thy love more strong,
 To love that well, which thou must leave ere long.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["old age","mortality","youth","requited love","loss","passage of time"],
+    imagery: ["autumn","barrenness (trees)","seasons","leaves","yellow","cold","birds","night","sun","sunset","black","sleep","fire","ashes"],
+    characters: ["Fair Youth"]
   },
   {
     number: 74,
@@ -1475,8 +1475,8 @@ The coward conquest of a wretch’s knife,
 Too base of thee to be remembered.
 The worth of that is that which it contains,
 And that is this, and this with thee remains.`,
-    themes: [],
-    imagery: [],
+    themes: ["mortality","memory","immortality through verse","material vs. ideal world","requited love"],
+    imagery: ["verse","worms","knives"],
     characters: []
   },
   {
@@ -1495,9 +1495,9 @@ Possessing or pursuing no delight,
 Save what is had, or must from you be took.
 Thus do I pine and surfeit day by day,
 Or gluttoning on all, or all away.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["growth","vacillation of moods","theft","possession","jealousy","miserliness"],
+    imagery: ["rain","wealth","treasure","feasting"],
+    characters: ["Fair Youth"]
   },
   {
     number: 76,
@@ -1515,9 +1515,9 @@ So all my best is dressing old words new,
 Spending again what is already spent:
 For as the sun is daily new and old,
 So is my love still telling what is told.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["writing"],
+    imagery: ["verse","clothing","sun"],
+    characters: ["Fair Youth"]
   },
   {
     number: 77,
@@ -1535,8 +1535,8 @@ Those children nursed, deliver’d from thy brain,
 To take a new acquaintance of thy mind.
 These offices, so oft as thou wilt look,
 Shall profit thee and much enrich thy book.`,
-    themes: [],
-    imagery: [],
+    themes: ["beauty","passage of time","decay","old age","memory","theft"],
+    imagery: ["mirror","dial","books","paper","wrinkles","grave/tomb"],
     characters: []
   },
   {
@@ -1555,9 +1555,9 @@ In others’ works thou dost but mend the style,
 And arts with thy sweet graces graced be;
 But thou art all my art, and dost advance
 As high as learning, my rude ignorance.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","artificiality"],
+    imagery: ["verse","eyes","singing","feathers","flight"],
+    characters: ["Muse","Fair Youth","Rival Poet"]
   },
   {
     number: 79,
@@ -1575,9 +1575,9 @@ And found it in thy cheek: he can afford
 No praise to thee, but what in thee doth live. 
 Then thank him not for that which he doth say,
 Since what he owes thee, thou thyself dost pay.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["decay","yearning","unrequited love","self-denigration","theft","virtue","beauty","lending/debt","inadequacy of verse"],
+    imagery: ["verse","cheek"],
+    characters: ["Fair Youth","Muse","Rival Poet"]
   },
   {
     number: 80,
@@ -1595,9 +1595,9 @@ Or, being wrack’d, I am a worthless boat,
 He of tall building, and of goodly pride:
 Then if he thrive and I be cast away,
 The worst was this,--my love was my decay.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["writing","self-denigration","decay","unrequited love","inadequacy of verse"],
+    imagery: ["ocean","boats"],
+    characters: ["Fair Youth","Rival Poet"]
   },
   {
     number: 81,
@@ -1615,9 +1615,9 @@ And tongues to be, your being shall rehearse,
 When all the breathers of this world are dead;
 You still shall live,--such virtue hath my pen,--
 Where breath most breathes, even in the mouths of men.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["immortality through verse","memory","mortality","immortality","the future","decay"],
+    imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth"],
+    characters: ["Fair Youth"]
   },
   {
     number: 82,
@@ -1635,9 +1635,9 @@ Thou truly fair, wert truly sympathiz’d
 In true plain words, by thy true-telling friend;
 And their gross painting might be better us’d
 Where cheeks need blood; in thee it is abus’d.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","self-denigration","truth","artificiality","inadequacy of verse"],
+    imagery: ["books","verse","blood","painting"],
+    characters: ["Fair Youth","Muse","Rival Poet"]
   },
   {
     number: 83,
@@ -1655,9 +1655,9 @@ For I impair not beauty being mute,
 When others would give life, and bring a tomb.
 There lives more life in one of your fair eyes
 Than both your poets can in praise devise.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["artificiality","beauty","lending/debt","writing","inadequacy of verse"],
+    imagery: ["painting","pen","grave/tomb","eyes"],
+    characters: ["Fair Youth","Rival Poet"]
   },
   {
     number: 84,
@@ -1675,9 +1675,9 @@ And such a counterpart shall fame his wit,
 Making his style admired every where.
 You to your beauteous blessings add a curse,
 Being fond on praise, which makes your praises worse.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["penury","writing","beauty"],
+    imagery: ["pen","verse"],
+    characters: ["Fair Youth"]
   },
   {
     number: 85,
@@ -1695,9 +1695,9 @@ But that is in my thought, whose love to you,
 Though words come hindmost, holds his rank before.
 Then others, for the breath of words respect,
 Me for my dumb thoughts, speaking in effect.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["writing","muteness","truth"],
+    imagery: ["verse","gold"],
+    characters: ["Fair Youth","Muse","Rival Poet"]
   },
   {
     number: 86,
@@ -1715,9 +1715,9 @@ As victors of my silence cannot boast;
 I was not sick of any fear from thence:
 But when your countenance fill’d up his line,
 Then lacked I matter; that enfeebled mine.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["muteness","unrequited love"],
+    imagery: ["sails","verse","grave/tomb","womb","night"],
+    characters: ["Rival Poet","Fair Youth"]
   },
   {
     number: 87,
@@ -1735,9 +1735,9 @@ So thy great gift, upon misprision growing,
 Comes home again, on better judgement making.
 Thus have I had thee, as a dream doth flatter,
 In sleep a king, but waking no such matter.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["possession","loss","worth","unrequited love"],
+    imagery: ["legal system","wealth","dreams","royalty","sleep"],
+    characters: ["Fair Youth"]
   },
   {
     number: 88,
@@ -1755,9 +1755,9 @@ The injuries that to myself I do,
 Doing thee vantage, double-vantage me.
 Such is my love, to thee I so belong,
 That for thy right, myself will bear all wrong.`,
-    themes: [],
+    themes: ["self-denigration","ill reputation","transgressions","union of speaker and beloved","unrequited love"],
     imagery: [],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 89,
@@ -1775,9 +1775,9 @@ Lest I, too much profane, should do it wrong,
 And haply of our old acquaintance tell. 
 For thee, against my self I’ll vow debate,
 For I must ne’er love him whom thou dost hate.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["ill reputation","self-denigration","unrequited love"],
+    imagery: ["tongues"],
+    characters: ["Fair Youth"]
   },
   {
     number: 90,
@@ -1795,9 +1795,9 @@ But in the onset come: so shall I taste
 At first the very worst of fortune’s might;
 And other strains of woe, which now seem woe,
 Compar’d with loss of thee, will not seem so.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["ill reputation","unrequited love","disappointment","loss","fate/fortune"],
+    imagery: ["night","rain"],
+    characters: ["Fair Youth"]
   },
   {
     number: 91,
@@ -1815,9 +1815,9 @@ Of more delight than hawks and horses be;
 And having thee, of all men’s pride I boast:
 Wretched in this alone, that thou mayst take
 All this away, and me most wretchcd make.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["fate/fortune","pleasure","strength"],
+    imagery: ["wealth","clothing","beast of burden","animals"],
+    characters: ["Fair Youth"]
   },
   {
     number: 92,
@@ -1835,9 +1835,9 @@ O! what a happy title do I find,
 Happy to have thy love, happy to die!
 But what’s so blessed-fair that fears no blot?
 Thou mayst be false, and yet I know it not.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["loss","possession","misfortune","vacillation of moods","unrequited love","unfaithfulness","transgressions"],
+    imagery: ["legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 93,
@@ -1855,9 +1855,9 @@ Whate’er thy thoughts, or thy heart’s workings be,
 Thy looks should nothing thence, but sweetness tell.
 How like Eve’s apple doth thy beauty grow,
 If thy sweet virtue answer not thy show!`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["transgressions","unfaithfulness","unrequited love","deception","willful blindness"],
+    imagery: ["face","heart","body parts","eyes","wrinkles","apple","Eve","heaven","sweetness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 94,
@@ -1875,8 +1875,8 @@ But if that flower with base infection meet,
 The basest weed outbraves his dignity: 
 For sweetest things turn sourest by their deeds;
 Lilies that fester, smell far worse than weeds.`,
-    themes: [],
-    imagery: [],
+    themes: ["abundance"],
+    imagery: ["cold","rocks","heaven","face","body parts","flowers","summer","sweetness","weeds","sickness","sourness","lily"],
     characters: []
   },
   {
@@ -1895,9 +1895,9 @@ Where beauty’s veil doth cover every blot
 And all things turns to fair that eyes can see!
 Take heed, dear heart, of this large privilege;
 The hardest knife ill-us’d doth lose his edge.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["shame","transgressions","ill reputation","unfaithfulness"],
+    imagery: ["sweetness","rose","canker","flowers","house","veil","eyes","body parts","heart","knives","dullness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 96,
@@ -1915,9 +1915,9 @@ How many gazers mightst thou lead away,
 if thou wouldst use the strength of all thy state!
 But do not so; I love thee in such sort,
 As, thou being mine, mine is thy good report.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["youth","unfaithfulness","deception","beauty","union of speaker and beloved","strength"],
+    imagery: ["body parts","royalty","hand","throne","gems","animals","wolf","sheep"],
+    characters: ["Fair Youth"]
   },
   {
     number: 97,
@@ -1935,9 +1935,9 @@ For summer and his pleasures wait on thee,
 And, thou away, the very birds are mute:
 Or, if they sing, ’tis with so dull a cheer,
 That leaves look pale, dreading the winter’s near.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["separation","abundance","increase","pleasure","yearning","muteness"],
+    imagery: ["seasons","winter","cold","darkness","day","December","months","barrenness (trees)","summer","autumn","womb","widow","birds","singing","leaves"],
+    characters: ["Fair Youth"]
   },
   {
     number: 98,
@@ -1955,9 +1955,9 @@ They were but sweet, but figures of delight,
 Drawn after you, you pattern of all those.
 Yet seem’d it winter still, and you away,
 As with your shadow I with these did play.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["separation","youth","artificiality"],
+    imagery: ["spring","seasons","April","months","clothing","mythology","birds","animals","singing","odors","sweetness","colors","flowers","summer","white","lily","rose","red","shadow"],
+    characters: ["Fair Youth"]
   },
   {
     number: 99,
@@ -1976,9 +1976,9 @@ But, for his theft, in pride of all his growth
 A vengeful canker eat him up to death.
 More flowers I noted, yet I none could see,
 But sweet, or colour it had stol’n from thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["theft","transgressions","shame","disgrace","beauty"],
+    imagery: ["violet","flowers","odors","sweetness","purple","colors","cheek","veins","body parts","hand","lily","buds","marjoram","hair","rose","thorns","red","pink","canker worm","canker flower","dye"],
+    characters: ["Fair Youth"]
   },
   {
     number: 100,
@@ -1996,9 +1996,9 @@ If any, be a satire to decay,
 And make time’s spoils despised every where.
 Give my love fame faster than Time wastes life,
 So thou prevent’st his scythe and crooked knife.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["waste","forgetting","writing","passage of time","decay","fame","immortality through verse"],
+    imagery: ["darkness","brightness","verse","singing","ears","body parts","pen","face","wrinkles","scythe","knives"],
+    characters: ["Fair Youth","Muse"]
   },
   {
     number: 101,
@@ -2016,9 +2016,9 @@ To make him much outlive a gilded tomb
 And to be prais’d of ages yet to be.
 Then do thy office, Muse; I teach thee how
 To make him seem long hence as he shows now.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","truth","artificiality","muteness","the future","immortality through verse","mortality"],
+    imagery: ["colors","painting","grave/tomb","gold"],
+    characters: ["Fair Youth","Muse"]
   },
   {
     number: 102,
@@ -2036,9 +2036,9 @@ But that wild music burthens every bough,
 And sweets grown common lose their dear delight.
 Therefore like her, I sometime hold my tongue:
 Because I would not dull you with my song.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["muteness","speaking","artificiality"],
+    imagery: ["spring","seasons","verse","birds","nightingale","mythology","singing","summer","sweetness","dullness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 103,
@@ -2056,9 +2056,9 @@ For to no other pass my verses tend
 Than of your graces and your gifts to tell;
 And more, much more, than in my verse can sit,
 Your own glass shows you when you look in it.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["penury","muteness","disgrace","inadequacy of verse"],
+    imagery: ["face","body parts","mirror","dullness","verse"],
+    characters: ["Fair Youth","Muse"]
   },
   {
     number: 104,
@@ -2076,9 +2076,9 @@ So your sweet hue, which methinks still doth stand,
 Hath motion, and mine eye may be deceiv’d:
 For fear of which, hear this thou age unbred:
 Ere you were born was beauty’s summer dead.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","beauty","youth","deception","the future","mortality"],
+    imagery: ["eyes","body parts","cold","winter","trees","summer","seasons","autumn","spring","perfume","green","clock","colors"],
+    characters: ["Fair Youth"]
   },
   {
     number: 105,
@@ -2096,9 +2096,9 @@ And in this change is my invention spent,
 Three themes in one, which wondrous scope affords.
 Fair, kind, and true, have often liv’d alone,
 Which three till now, never kept seat in one.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","writing","virtue","truth"],
+    imagery: ["verse","singing"],
+    characters: ["Fair Youth"]
   },
   {
     number: 106,
@@ -2116,9 +2116,9 @@ And for they looked but with divining eyes,
 They had not skill enough your worth to sing:
 For we, which now behold these present days,
 Have eyes to wonder, but lack tongues to praise.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["the past","beauty","inadequacy of verse"],
+    imagery: ["body parts","hand","foot","lip","eyes","brow","pen"],
+    characters: ["Fair Youth"]
   },
   {
     number: 107,
@@ -2136,9 +2136,9 @@ Since, spite of him, I’ll live in this poor rime,
 While he insults o’er dull and speechless tribes:
 And thou in this shalt find thy monument,
 When tyrants’ crests and tombs of brass are spent.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["immortality through verse","mortality","muteness"],
+    imagery: ["dreams","legal system","moon","eclipse","crown","olives","brass","grave/tomb","monuments","dullness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 108,
@@ -2156,9 +2156,9 @@ Nor gives to necessary wrinkles place,
 But makes antiquity for aye his page;
 Finding the first conceit of love there bred,
 Where time and outward form would show it dead.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time"],
+    imagery: ["ink","brain","prayers","wrinkles"],
+    characters: ["Fair Youth"]
   },
   {
     number: 109,
@@ -2176,9 +2176,9 @@ That it could so preposterously be stain’d,
 To leave for nothing all thy sum of good;
 For nothing this wide universe I call,
 Save thou, my rose, in it thou art my all.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["separation","union of speaker and beloved","transgressions","unfaithfulness","falsehood"],
+    imagery: ["fire","water","flowers","rose"],
+    characters: ["Fair Youth"]
   },
   {
     number: 110,
@@ -2196,9 +2196,9 @@ On newer proof, to try an older friend,
 A god in love, to whom I am confin’d.
 Then give me welcome, next my heaven the best,
 Even to thy pure and most most loving breast.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["ill reputation","transgressions","unfaithfulness","truth","youth","worth"],
+    imagery: ["heart","heaven"],
+    characters: ["Fair Youth"]
   },
   {
     number: 111,
@@ -2216,9 +2216,9 @@ No bitterness that I will bitter think,
 Nor double penance, to correct correction.
 Pity me then, dear friend, and I assure ye,
 Even that your pity is enough to cure me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["fate/fortune","transgressions","ill reputation","healing/medicine"],
+    imagery: ["hand","body parts","bitterness","dye"],
+    characters: ["Fair Youth"]
   },
   {
     number: 112,
@@ -2236,9 +2236,9 @@ To critic and to flatterer stopped are.
 Mark how with my neglect I do dispense:
 You are so strongly in my purpose bred,
 That all the world besides methinks are dead.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["ill reputation","moral correction"],
+    imagery: ["green","animals","steel"],
+    characters: ["Fair Youth"]
   },
   {
     number: 113,
@@ -2256,9 +2256,9 @@ The mountain or the sea, the day or night:
 The crow, or dove, it shapes them to your feature.
 Incapable of more, replete with you,
 My most true mind thus maketh mine untrue.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["separation","material vs. ideal world","imagination","eye vs. heart"],
+    imagery: ["eyes","blindness","heart","birds","flowers","sweetness","mountain","ocean","day","night","crow","dove"],
+    characters: ["Fair Youth"]
   },
   {
     number: 114,
@@ -2276,9 +2276,9 @@ Mine eye well knows what with his gust is ’greeing,
 And to his palate doth prepare the cup:
 If it be poison’d, ’tis the lesser sin
 That mine eye loves it and doth first begin.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["eye vs. heart"],
+    imagery: ["crown","sickness","royalty","eyes","heart","alchemy","monsters","cherubim","sweetness","poison"],
+    characters: ["Fair Youth"]
   },
   {
     number: 115,
@@ -2296,9 +2296,9 @@ When I was certain o’er incertainty,
 Crowning the present, doubting of the rest?
 Love is a babe, then might I not say so,
 To give full growth to that which still doth grow?`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["inadequacy of verse","passage of time","beauty","tyranny"],
+    imagery: ["fire","royalty","dullness","crown"],
+    characters: ["Fair Youth"]
   },
   {
     number: 116,
@@ -2316,9 +2316,9 @@ Love alters not with his brief hours and weeks,
 But bears it out even to the edge of doom.
 If this be error and upon me prov’d,
 I never writ, nor no man ever lov’d.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","writing"],
+    imagery: ["mind","boats","stars","cheek","lip","rose","scythe","end of the world"],
+    characters: ["Fair Youth"]
   },
   {
     number: 117,
@@ -2336,9 +2336,9 @@ Bring me within the level of your frown,
 But shoot not at me in your waken’d hate;
 Since my appeal says I did strive to prove
 The constancy and virtue of your love.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["hate"],
+    imagery: ["mind","sails","wind","frown","accounting/tallying","legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 118,
@@ -2356,9 +2356,9 @@ And brought to medicine a healthful state
 Which, rank of goodness, would by ill be cur’d;
 But thence I learn and find the lesson true,
 Drugs poison him that so fell sick of you.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine"],
+    imagery: ["palate","sickness","sweetness","bitterness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 119,
@@ -2376,9 +2376,9 @@ And ruin’d love, when it is built anew,
 Grows fairer than at first, more strong, far greater.
 So I return rebuk’d to my content,
 And gain by ill thrice more than I have spent.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["transgressions","return"],
+    imagery: ["Sirens","mythology","hell","sickness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 120,
@@ -2396,9 +2396,9 @@ And soon to you, as you to me, then tender’d
 The humble salve, which wounded bosoms fits!
 But that your trespass now becomes a fee;
 Mine ransoms yours, and yours must ransom me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["transgressions","tyranny","healing/medicine","forgiveness"],
+    imagery: ["brass","steel","hell","night"],
+    characters: ["Fair Youth"]
   },
   {
     number: 121,
@@ -2416,8 +2416,8 @@ I may be straight though they themselves be bevel;
 By their rank thoughts, my deeds must not be shown;
 Unless this general evil they maintain,
 All men are bad and in their badness reign.`,
-    themes: [],
-    imagery: [],
+    themes: ["ill reputation","transgressions","unfaithfulness","worth"],
+    imagery: ["blood","eyes","accounting/tallying"],
     characters: []
   },
   {
@@ -2436,9 +2436,9 @@ Therefore to give them from me was I bold,
 To trust those tables that receive thee more:
 To keep an adjunct to remember thee
 Were to import forgetfulness in me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["memory","forgetting","gifts"],
+    imagery: ["brain","heart"],
+    characters: ["Fair Youth"]
   },
   {
     number: 123,
@@ -2456,8 +2456,8 @@ For thy records and what we see doth lie,
 Made more or less by thy continual haste.
 This I do vow and this shall ever be;
 I will be true despite thy scythe and thee.`,
-    themes: [],
-    imagery: [],
+    themes: ["passage of time","mortality","steadfastness"],
+    imagery: ["pyramids","scythe"],
     characters: []
   },
   {
@@ -2476,9 +2476,9 @@ But all alone stands hugely politic,
 That it nor grows with heat, nor drowns with showers.
 To this I witness call the fools of time,
 Which die for goodness, who have lived for crime.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["steadfastness","changefulness","fate/fortune"],
+    imagery: ["flowers","weeds","legal system"],
+    characters: ["Fair Youth"]
   },
   {
     number: 125,
@@ -2496,9 +2496,9 @@ Which is not mix’d with seconds, knows no art,
 But mutual render, only me for thee.
 Hence, thou suborned informer! a true soul
 When most impeach’d, stands least in thy control.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["gifts","immortality","truth"],
+    imagery: ["sky","sweetness"],
+    characters: ["Fair Youth"]
   },
   {
     number: 126,
@@ -2514,9 +2514,9 @@ Yet fear her, O thou minion of her pleasure!
 She may detain, but not still keep, her treasure:
 Her audit (though delayed) answered must be,
 And her quietus is to render thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["passage of time","mortality","growth"],
+    imagery: ["mirror","treasure","legal system","accounting/tallying","hourglass"],
+    characters: ["Fair Youth"]
   },
   {
     number: 127,
@@ -2534,9 +2534,9 @@ At such who, not born fair, no beauty lack,
 Sland’ring creation with a false esteem:
 Yet so they mourn becoming of their woe,
 That every tongue says beauty should look so.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["beauty","shame","artificiality","mourning"],
+    imagery: ["colors","black","hand","raven","birds"],
+    characters: ["Dark Lady"]
   },
   {
     number: 128,
@@ -2554,9 +2554,9 @@ O’er whom thy fingers walk with gentle gait,
 Making dead wood more bless’d than living lips.
 Since saucy jacks so happy are in this,
 Give them thy fingers, me thy lips to kiss.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["sacredness","appreciation"],
+    imagery: ["music","musical instruments","fingers","hand","lip","harvest","blushing","walking","sweetness","harmony","kissing","wire"],
+    characters: ["Dark Lady"]
   },
   {
     number: 129,
@@ -2574,8 +2574,8 @@ A bliss in proof,-- and prov’d, a very woe;
 Before, a joy propos’d; behind a dream.
 All this the world well knows; yet none knows well
 To shun the heaven that leads men to this hell.`,
-    themes: [],
-    imagery: [],
+    themes: ["shame","lust","sexuality","waste","falsehood","evil","hate","possession","pleasure","moral correction","disappointment","disgrace","transgressions","vacillation of moods","weakness","cruelty"],
+    imagery: ["heaven","hell","dreams","blood"],
     characters: []
   },
   {
@@ -2594,9 +2594,9 @@ I grant I never saw a goddess go,--
 My mistress, when she walks, treads on the ground:
 And yet by heaven, I think my love as rare,
 As any she belied with false compare.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["speaking","appreciation","beauty"],
+    imagery: ["eyes","sun","coral","colors","lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","odors","perfume","breathing","music","god","heaven"],
+    characters: ["Dark Lady"]
   },
   {
     number: 131,
@@ -2614,9 +2614,9 @@ One on another’s neck, do witness bear
 Thy black is fairest in my judgment’s place.
 In nothing art thou black save in thy deeds,
 And thence this slander, as I think, proceeds.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["tyranny","cruelty","beauty","pride","truth","falsehood","transgressions","ill reputation"],
+    imagery: ["heart","gems","face"],
+    characters: ["Dark Lady"]
   },
   {
     number: 132,
@@ -2634,9 +2634,9 @@ To mourn for me since mourning doth thee grace,
 And suit thy pity like in every part.
 Then will I swear beauty herself is black,
 And all they foul that thy complexion lack.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["torture","mourning","eye vs. heart","pity","beauty"],
+    imagery: ["eyes","colors","black","morning","sun","heaven","gray","cheek","sunset","heart"],
+    characters: ["Dark Lady"]
   },
   {
     number: 133,
@@ -2654,9 +2654,9 @@ Whoe’er keeps me, let my heart be his guard;
 Thou canst not then use rigour in my jail:
 And yet thou wilt; for I, being pent in thee,
 Perforce am thine, and all that is in me.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["castigation","torture","slavery","union of speaker and beloved"],
+    imagery: ["groan","heart","wound","sweetness","eyes","prison","steel","legal system"],
+    characters: ["Dark Lady","Fair Youth"]
   },
   {
     number: 134,
@@ -2674,9 +2674,9 @@ And sue a friend came debtor for my sake;
 So him I lose through my unkind abuse.
 Him have I lost; thou hast both him and me:
 He pays the whole, and yet am I not free.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["union of speaker and beloved","possession","jealousy","writing","lending/debt"],
+    imagery: ["legal system"],
+    characters: ["Dark Lady","Fair Youth"]
   },
   {
     number: 135,
@@ -2694,9 +2694,9 @@ So thou, being rich in ’Will,’ add to thy ’Will’
 One will of mine, to make thy large will more.
 Let no unkind ’No’ fair beseechers kill;
 Think all but one, and me in that one ’Will.’`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["abundance","union of speaker and beloved","possession"],
+    imagery: ["rain","ocean","water"],
+    characters: ["Dark Lady"]
   },
   {
     number: 136,
@@ -2715,8 +2715,8 @@ That nothing me, a something sweet to thee:
 Make but my name thy love, and love that still,
 And then thou lov’st me for my name is ’Will.’`,
     themes: [],
-    imagery: [],
-    characters: []
+    imagery: ["blindness","treasure","Will","sweetness"],
+    characters: ["Dark Lady"]
   },
   {
     number: 137,
@@ -2734,8 +2734,8 @@ Or mine eyes, seeing this, say this is not,
 To put fair truth upon so foul a face?
 In things right true my heart and eyes have err’d,
 And to this false plague are they now transferr’d.`,
-    themes: [],
-    imagery: [],
+    themes: ["eye vs. heart","self-deception","truth"],
+    imagery: ["blindness","plague"],
     characters: []
   },
   {
@@ -2754,9 +2754,9 @@ O! love’s best habit is in seeming trust,
 And age in love, loves not to have years told:
 Therefore I lie with her, and she with me,
 And in our faults by lies we flatter’d be.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["youth","self-deception","unfaithfulness","old age","truth","deception"],
+    imagery: ["clothing"],
+    characters: ["Dark Lady"]
   },
   {
     number: 139,
@@ -2774,9 +2774,9 @@ And therefore from my face she turns my foes,
 That they elsewhere might dart their injuries:
 Yet do not so; but since I am near slain, 
 Kill me outright with looks, and rid my pain.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unfaithfulness","transgressions","unrequited love"],
+    imagery: ["tongues","heart"],
+    characters: ["Dark Lady"]
   },
   {
     number: 140,
@@ -2794,9 +2794,9 @@ Now this ill-wresting world is grown so bad,
 Mad slanderers by mad ears believed be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["cruelty","wisdom","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
+    imagery: ["sickness","eyes","ears","tongues"],
+    characters: ["Dark Lady"]
   },
   {
     number: 141,
@@ -2814,9 +2814,9 @@ Who leaves unsway’d the likeness of a man,
 Thy proud heart’s slave and vassal wretch to be:
 Only my plague thus far I count my gain,
 That she that makes me sin awards me pain.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["plainness of looks","eye vs. heart","slavery","pain","sin"],
+    imagery: ["eyes","heart","ears","tongues","music","touch","tastes","odors"],
+    characters: ["Dark Lady"]
   },
   {
     number: 142,
@@ -2834,9 +2834,9 @@ Root pity in thy heart, that, when it grows,
 Thy pity may deserve to pitied be.
 If thou dost seek to have what thou dost hide,
 By self-example mayst thou be denied!`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["sin","hate","virtue","unfaithfulness","unrequited love","pity"],
+    imagery: ["lip","red"],
+    characters: ["Dark Lady"]
   },
   {
     number: 143,
@@ -2854,9 +2854,9 @@ But if thou catch thy hope, turn back to me,
 And play the mother’s part, kiss me, be kind;
 So will I pray that thou mayst have thy ’Will,’
 If thou turn back and my loud crying still.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["unrequited love","indifference of beloved"],
+    imagery: ["baby","birds","Will"],
+    characters: ["Dark Lady"]
   },
   {
     number: 144,
@@ -2874,9 +2874,9 @@ But being both from me, both to each friend,
 I guess one angel in another’s hell:
 Yet this shall I ne’er know, but live in doubt, 
 Till my bad angel fire my good one out.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["pride","evil","sin","temptation","unfaithfulness"],
+    imagery: ["angels","hell","fire"],
+    characters: ["Dark Lady","Fair Youth"]
   },
   {
     number: 145,
@@ -2894,9 +2894,9 @@ Doth follow night, who like a fiend
 From heaven to hell is flown away.
 ’I hate’, from hate away she threw,
 And sav’d my life, saying ’not you’.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["speaking","redemption"],
+    imagery: ["lip","hand","breathing","tongues","day","night","heaven","hell"],
+    characters: ["Dark Lady"]
   },
   {
     number: 146,
@@ -2914,8 +2914,8 @@ Buy terms divine in selling hours of dross;
 Within be fed, without be rich no more:
 So shall thou feed on Death, that feeds on men,
 And Death once dead, there’s no more dying then.`,
-    themes: [],
-    imagery: [],
+    themes: ["sin","material vs. ideal world","artificiality","excess","immortality","mortality"],
+    imagery: ["earth","worms","house","eating","military"],
     characters: []
   },
   {
@@ -2934,9 +2934,9 @@ My thoughts and my discourse as madmen’s are,
 At random from the truth vainly express’d;
 For I have sworn thee fair, and thought thee bright,
 Who art as black as hell, as dark as night.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine","madness","truth","transgressions"],
+    imagery: ["sickness","eating","physician","hell","black","darkness","night"],
+    characters: ["Dark Lady"]
   },
   {
     number: 148,
@@ -2954,8 +2954,8 @@ No marvel then, though I mistake my view;
 The sun itself sees not, till heaven clears.
 O cunning Love! with tears thou keep’st me blind,
 Lest eyes well-seeing thy foul faults should find.`,
-    themes: [],
-    imagery: [],
+    themes: ["falsehood"],
+    imagery: ["eyes","blindness","tears","sun","clouds","heaven"],
     characters: []
   },
   {
@@ -2974,9 +2974,9 @@ When all my best doth worship thy defect,
 Commanded by the motion of thine eyes?
 But, love, hate on, for now I know thy mind;
 Those that can see thou lov’st, and I am blind.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["falsehood","hate","unrequited love","tyranny","control"],
+    imagery: ["frown","eyes","blindness"],
+    characters: ["Dark Lady"]
   },
   {
     number: 150,
@@ -2994,9 +2994,9 @@ O! though I love what others do abhor,
 With others thou shouldst not abhor my state:
 If thy unworthiness rais’d love in me,
 More worthy I to be belov’d of thee.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["self-deception","truth","tyranny","hate","control"],
+    imagery: ["brightness","day"],
+    characters: ["Dark Lady"]
   },
   {
     number: 151,
@@ -3014,9 +3014,9 @@ He is contented thy poor drudge to be,
 To stand in thy affairs, fall by thy side.
 No want of conscience hold it that I call
 Her ’love,’ for whose dear love I rise and fall.`,
-    themes: [],
+    themes: ["unfaithfulness","slavery","material vs. ideal world","pride","sexuality","control"],
     imagery: [],
-    characters: []
+    characters: ["Dark Lady"]
   },
   {
     number: 152,
@@ -3034,8 +3034,8 @@ And, to enlighten thee, gave eyes to blindness,
 Or made them swear against the thing they see;
 For I have sworn thee fair; more perjur’d I,
 To swear against the truth so foul a lie!`,
-    themes: [],
-    imagery: [],
+    themes: ["unfaithfulness","hate","self-deception","falsehood","truth"],
+    imagery: ["blindness"],
     characters: []
   },
   {
@@ -3054,9 +3054,9 @@ I, sick withal, the help of bath desired,
 And thither hied, a sad distemper’d guest,
 But found no cure, the bath for my help lies
 Where Cupid got new fire; my mistress’ eyes.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine"],
+    imagery: ["Cupid","Diana","mythology","fire","cold","sickness","eyes","brand","sleep"],
+    characters: ["Dark Lady"]
   },
   {
     number: 154,
@@ -3074,9 +3074,9 @@ Growing a bath and healthful remedy,
 For men diseas’d; but I, my mistress’ thrall,
 Came there for cure and this by that I prove, 
 Love’s fire heats water, water cools not love.`,
-    themes: [],
-    imagery: [],
-    characters: []
+    themes: ["healing/medicine","yearning"],
+    imagery: ["Cupid","brand","fire","nymph","heart","sleep","military","water","heat"],
+    characters: ["Dark Lady"]
   }
 ];
 
