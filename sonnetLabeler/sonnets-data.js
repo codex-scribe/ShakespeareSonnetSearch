@@ -202,18 +202,18 @@ That beauty still may live in thine or thee.`,
   {
     number: 11,
     text: `As fast as thou shalt wane, so fast thou grow’st,
-In one of thine, from that which thou departest;
-And that fresh blood which youngly thou bestow’st,
-Thou mayst call thine when thou from youth convertest,
-Herein lives wisdom, beauty, and increase;
-Without this folly, age, and cold decay:
-If all were minded so, the times should cease
+In one of thine, from that which thou departest,
+And that fresh blood which youngly thou bestow’st
+Thou mayst call thine, when thou from youth convertest:
+Herein lives wisdom, beauty, and increase,
+Without this, folly, age, and cold decay;
+If all were minded so, the times should cease,
 And threescore year would make the world away.
-Let those whom nature hath not made for store,
+Let those whom Nature hath not made for store,
 Harsh, featureless, and rude, barrenly perish:
-Look, whom she best endow’d, she gave thee more;
+Look, whom she best endowed she gave the more;
 Which bounteous gift thou shouldst in bounty cherish:
-She carv’d thee for her seal, and meant thereby,
+She carved thee for her seal, and meant thereby
 Thou shouldst print more, not let that copy die.`,
     themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality","increase"],
     imagery: ["blood","cold","printing"],
@@ -222,59 +222,59 @@ Thou shouldst print more, not let that copy die.`,
   {
     number: 12,
     text: `When I do count the clock that tells the time,
-And see the brave day sunk in hideous night;
+And see the brave day sunk in hideous night,
 When I behold the violet past prime,
-And sable curls, all silvered o’er with white;
+And sable curls all silvered o’er with white;
 When lofty trees I see barren of leaves,
 Which erst from heat did canopy the herd,
-And summer’s green all girded up in sheaves,
-Borne on the bier with white and bristly beard,
-Then of thy beauty do I question make,
+And summer’s green all girded up in sheaves
+Borne on the bier with white and bristly beard:
+Then of thy beauty do I question make
 That thou among the wastes of time must go,
 Since sweets and beauties do themselves forsake
-And die as fast as they see others grow;
+And die as fast as they see others grow,
 And nothing ’gainst Time’s scythe can make defense
-Save breed, to brave him when he takes thee hence.`,
+Save breed to brave him, when he takes thee hence.`,
     themes: ["passage of time","abundance","beauty","mortality","imperative to procreation"],
     imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barrenness (trees)","heat","summer","seasons","animals","crops","body parts","hair","gray","black","green","white","silver","farming","colors"],
     characters: ["Fair Youth"]
   },
   {
     number: 13,
-    text: `O! that you were your self; but, love you are
-No longer yours, than you your self here live:
+    text: `O that you were your self! but, love, you are
+No longer yours than you yourself here live;
 Against this coming end you should prepare,
 And your sweet semblance to some other give:
 So should that beauty which you hold in lease
 Find no determination; then you were
-Yourself again, after yourself’s decease,
+Your self again after yourself’s decease,
 When your sweet issue your sweet form should bear.
 Who lets so fair a house fall to decay,
-Which husbandry in honour might uphold,
+Which husbandry in honor might uphold
 Against the stormy gusts of winter’s day
 And barren rage of death’s eternal cold?
-O! none but unthrifts. Dear my love, you know,
-You had a father: let your son say so.`,
+O none but unthrifts:  dear my love, you know
+You had a father, let your son say so.`,
     themes: ["mortality","imperative to procreation","beauty","lending/debt","waste"],
     imagery: ["house","cold","winter","weather","storms"],
     characters: ["Fair Youth"]
   },
   {
     number: 14,
-    text: `Not from the stars do I my judgement pluck;
+    text: `Not from the stars do I my judgement pluck,
 And yet methinks I have astronomy,
 But not to tell of good or evil luck,
 Of plagues, of dearths, or seasons’ quality;
 Nor can I fortune to brief minutes tell,
-Pointing to each his thunder, rain and wind,
+Pointing to each his thunder, rain, and wind,
 Or say with princes if it shall go well
 By oft predict that I in heaven find:
 But from thine eyes my knowledge I derive,
-And constant stars in them I read such art
-As ’Truth and beauty shall together thrive,
-If from thyself, to store thou wouldst convert’;
-Or else of thee this I prognosticate:
-’Thy end is truth’s and beauty’s doom and date.’`,
+And, constant stars, in them I read such art
+As truth and beauty shall together thrive
+If from thy self to store thou wouldst convert:
+Or else of thee this I prognosticate,
+Thy end is truth’s and beauty’s doom and date.`,
     themes: ["abundance","fate/fortune","imperative to procreation","immortality","truth","mortality"],
     imagery: ["farming","rain","royalty","weather","eyes","body parts","face","stars","storms"],
     characters: ["Fair Youth"]
@@ -286,15 +286,15 @@ Holds in perfection but a little moment,
 That this huge stage presenteth nought but shows
 Whereon the stars in secret influence comment;
 When I perceive that men as plants increase,
-Cheered and checked even by the self-same sky,
+Cheerèd and checked even by the selfsame sky,
 Vaunt in their youthful sap, at height decrease,
-And wear their brave state out of memory;
+And wear their brave state out of memory:
 Then the conceit of this inconstant stay
 Sets you most rich in youth before my sight,
-Where wasteful Time debateth with decay
+Where wasteful Time debateth with Decay
 To change your day of youth to sullied night,
 And all in war with Time for love of you,
-As he takes from you, I engraft you new.`,
+As he takes from you, I ingraft you new.`,
     themes: ["abundance","passage of time","old age","youth","decay","increase","growth","fate/fortune"],
     imagery: ["stars","day","night","war"],
     characters: ["Fair Youth"]
@@ -302,39 +302,39 @@ As he takes from you, I engraft you new.`,
   {
     number: 16,
     text: `But wherefore do not you a mightier way
-Make war upon this bloody tyrant, Time?
-And fortify your self in your decay
-With means more blessed than my barren rhyme?
+Make war upon this bloody tyrant Time?
+And fortify yourself in your decay
+With means more blessèd than my barren rhyme?
 Now stand you on the top of happy hours,
 And many maiden gardens, yet unset,
-With virtuous wish would bear you living flowers,
+With virtuous wish would bear your living flowers,
 Much liker than your painted counterfeit:
-So should the lines of life that life repair,
-Which this, Time’s pencil, or my pupil pen,
+So should the lines of life that life repair
+Which this time’s pencil or my pupil pen
 Neither in inward worth nor outward fair,
-Can make you live your self in eyes of men.
-To give away yourself, keeps yourself still,
-And you must live, drawn by your own sweet skill.`,
+Can make you live yourself in eyes of men:
+To give away yourself keeps yourself still,
+And you must live drawn by your own sweet skill.`,
     themes: ["passage of time","decay","immortality","youth","growth","imperative to procreation"],
     imagery: ["war","verse","flowers","eyes","painting"],
     characters: ["Fair Youth"]
   },
   {
     number: 17,
-    text: `Who will believe my verse in time to come,
-If it were fill’d with your most high deserts?
+    text: `Who will believe my verse in time to come
+If it were filled with your most high deserts?
 Though yet heaven knows it is but as a tomb
 Which hides your life, and shows not half your parts.
 If I could write the beauty of your eyes,
 And in fresh numbers number all your graces,
-The age to come would say ’This poet lies;
-Such heavenly touches ne’er touch’d earthly faces.’
-So should my papers, yellow’d with their age,
-Be scorn’d, like old men of less truth than tongue,
-And your true rights be term’d a poet’s rage
-And stretched metre of an antique song:
+The age to come would say, “This poet lies;
+Such heavenly touches ne’er touched earthly faces.”
+So should my papers (yellowed with their age)
+Be scorned, like old men of less truth than tongue,
+And your true rights be termed a poet’s rage
+And stretchèd meter of an antique song:
 But were some child of yours alive that time,
-You should live twice,--in it, and in my rhyme.`,
+You should live twice, in it and in my rhyme.`,
     themes: ["beauty","old age","imperative to procreation","decay","the future"],
     imagery: ["verse","grave/tomb","body parts","eyes","face","yellow","heaven"],
     characters: ["Fair Youth"]
@@ -344,16 +344,16 @@ You should live twice,--in it, and in my rhyme.`,
     text: `Shall I compare thee to a summer’s day?
 Thou art more lovely and more temperate:
 Rough winds do shake the darling buds of May,
-And summer’s lease hath all too short a date:
+And summer’s lease hath all too short a date;
 Sometime too hot the eye of heaven shines,
-And often is his gold complexion dimm’d,
+And often is his gold complexion dimmed;
 And every fair from fair sometime declines,
-By chance, or nature’s changing course untrimm’d:
+By chance or nature’s changing course untrimmed:
 But thy eternal summer shall not fade,
 Nor lose possession of that fair thou ow’st,
-Nor shall death brag thou wander’st in his shade,
-When in eternal lines to time thou grow’st,
-So long as men can breathe, or eyes can see,
+Nor shall Death brag thou wande’rest in his shade,
+When in eternal lines to time thou grow’st.
+So long as men can breathe or eyes can see,
 So long lives this, and this gives life to thee.`,
     themes: ["beauty","immortality","decay","mortality","possession"],
     imagery: ["weather","seasons","summer","wind","May","sun","gold","verse","buds","heat"],
@@ -362,18 +362,18 @@ So long lives this, and this gives life to thee.`,
   {
     number: 19,
     text: `Devouring Time, blunt thou the lion’s paws,
-And make the earth devour her own sweet brood;
+And make the earth devour her own sweet brood,
 Pluck the keen teeth from the fierce tiger’s jaws,
-And burn the long-liv’d phoenix, in her blood;
-Make glad and sorry seasons as thou fleets,
+And burn the long-lived phoenix in her blood,
+Make glad and sorry seasons as thou fleet’st,
 And do whate’er thou wilt, swift-footed Time,
-To the wide world and all her fading sweets;
-But I forbid thee one most heinous crime:
-O! carve not with thy hours my love’s fair brow,
+To the wide world and all her fading sweets:
+But I forbid thee one most heinous crime,
+O carve not with thy hours my love’s fair brow,
 Nor draw no lines there with thine antique pen;
 Him in thy course untainted do allow
 For beauty’s pattern to succeeding men.
-Yet, do thy worst old Time: despite thy wrong,
+Yet do thy worst, old Time: despite thy wrong,
 My love shall in my verse ever live young.`,
     themes: ["decay","passage of time","mortality","old age","crime","beauty","immortality"],
     imagery: ["lion","animals","tiger","phoenix","blood","teeth","wrinkles","face","brow","pen","verse"],
