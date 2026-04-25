@@ -56,7 +56,7 @@ Despite of wrinkles, this thy golden time.
 But if thou live rememb'red not to be,
 Die single, and thine image dies with thee.`,
     themes: ["imperative to procreation","mortality","beauty","passage of time","old age"],
-    imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts","farming","grave/tomb"],
+    imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts","farming","grave/tomb","motherhood"],
     characters: ["Fair Youth"]
   },
   {
@@ -215,7 +215,7 @@ Look, whom she best endowed she gave the more;
 Which bounteous gift thou shouldst in bounty cherish:
 She carved thee for her seal, and meant thereby
 Thou shouldst print more, not let that copy die.`,
-    themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality","increase"],
+    themes: ["passage of time","imperative to procreation","youth","old age","beauty","wisdom","decay","folly","mortality","increase","growth"],
     imagery: ["blood","cold","printing"],
     characters: ["Fair Youth"]
   },
@@ -335,7 +335,7 @@ And your true rights be termed a poet’s rage
 And stretchèd meter of an antique song:
 But were some child of yours alive that time,
 You should live twice, in it and in my rhyme.`,
-    themes: ["beauty","old age","imperative to procreation","decay","the future"],
+    themes: ["beauty","old age","imperative to procreation","decay","the future","writing"],
     imagery: ["verse","grave/tomb","body parts","eyes","face","yellow","heaven"],
     characters: ["Fair Youth"]
   },
@@ -415,8 +415,8 @@ As any mother’s child, though not so bright
 As those gold candles fix’d in heaven’s air:
 Let them say more that like of hearsay well;
 I will not praise that purpose not to sell.`,
-    themes: ["beauty","artificiality"],
-    imagery: ["verse","heaven","April","months","moon","gems","stars","gold"],
+    themes: ["beauty","artificiality","writing","truth"],
+    imagery: ["verse","heaven","April","months","moon","gems","stars","gold","painting","sun","earth","ocean","flowers","sky","motherhood"],
     characters: ["Rival Poet","Fair Youth","Muse"]
   },
   {
@@ -435,8 +435,8 @@ Bearing thy heart, which I will keep so chary
 As tender nurse her babe from faring ill.
 Presume not on thy heart when mine is slain,
 Thou gav’st me thine not to give back again.`,
-    themes: ["passage of time","youth","old age","beauty","mortality"],
-    imagery: ["mirror","wrinkles","heart","clothing"],
+    themes: ["passage of time","youth","old age","beauty","mortality","union of speaker and beloved","safe-keeping"],
+    imagery: ["mirror","wrinkles","heart","clothing","baby","sickness"],
     characters: ["Fair Youth"]
   },
   {
@@ -455,8 +455,8 @@ Who plead for love, and look for recompense,
 More than that tongue that more hath more express’d.
 O! learn to read what silent love hath writ:
 To hear with eyes belongs to love’s fine wit.`,
-    themes: ["drama","speaking"],
-    imagery: ["gaze"],
+    themes: ["drama","speaking","fear","muteness"],
+    imagery: ["gaze","eyes"],
     characters: ["Fair Youth"]
   },
   {
@@ -475,8 +475,8 @@ Are windows to my breast, where-through the sun
 Delights to peep, to gaze therein on thee; 
 Yet eyes this cunning want to grace their art,
 They draw but what they see, know not the heart.`,
-    themes: [],
-    imagery: ["painting","face","eyes","body parts","sun"],
+    themes: ["beauty"],
+    imagery: ["painting","face","eyes","body parts","sun","drawing","windows"],
     characters: ["Fair Youth"]
   },
   {
@@ -496,7 +496,7 @@ And all the rest forgot for which he toil’d:
 Then happy I, that love and am belov’d,
 Where I may not remove nor be remov’d.`,
     themes: ["fate/fortune","fame"],
-    imagery: ["stars","flowers","marigold","sun"],
+    imagery: ["stars","flowers","marigold","sun","royalty","frown"],
     characters: ["Fair Youth"]
   },
   {
@@ -515,7 +515,7 @@ And puts apparel on my tatter’d loving,
 To show me worthy of thy sweet respect:
 Then may I dare to boast how I do love thee;
 Till then, not show my head where thou mayst prove me.`,
-    themes: ["fate/fortune","duty/subservience"],
+    themes: ["fate/fortune","duty/subservience","writing","inadequacy of verse","worth"],
     imagery: ["stars","clothing"],
     characters: ["Fair Youth"]
   },
@@ -536,7 +536,7 @@ Makes black night beauteous, and her old face new.
 Lo! thus, by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
     themes: ["travail","imagination"],
-    imagery: ["night","darkness","gems","black","colors"],
+    imagery: ["night","darkness","gems","black","colors","sleep","eyes","face"],
     characters: ["Fair Youth"]
   },
   {
