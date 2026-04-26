@@ -601,20 +601,20 @@ All losses are restored, and sorrows end.`,
   },
   {
     number: 31,
-    text: `Thy bosom is endeared with all hearts,
-Which I by lacking have supposed dead;
-And there reigns Love, and all Love’s loving parts,
-And all those friends which I thought buried.
+    text: `Thy bosom is endearèd with all hearts,
+Which I by lacking have supposèd dead,
+And there reigns love and all love’s loving parts,
+And all those friends which I thought burièd.
 How many a holy and obsequious tear
 Hath dear religious love stol’n from mine eye,
 As interest of the dead, which now appear
-But things remov’d that hidden in thee lie!
+But things removed that hidden in thee lie.
 Thou art the grave where buried love doth live,
 Hung with the trophies of my lovers gone,
-Who all their parts of me to thee did give,
-That due of many now is thine alone:
-Their images I lov’d, I view in thee,
-And thou--all they--hast all the all of me.`,
+Who all their parts of me to thee did give;
+That due of many now is thine alone.
+Their images I loved I view in thee,
+And thou (all they) hast all the all of me.`,
     themes: ["theft","possession","unrequited love","union of speaker and beloved"],
     imagery: ["weeping","grave/tomb","eyes","heart","tears"],
     characters: ["Fair Youth"]
@@ -622,22 +622,22 @@ And thou--all they--hast all the all of me.`,
   {
     number: 32,
     text: `If thou survive my well-contented day,
-When that churl Death my bones with dust shall cover
+When that churl Death my bones with dust shall cover,
 And shalt by fortune once more re-survey
-These poor rude lines of thy deceased lover,
+These poor rude lines of thy deceasèd lover,
 Compare them with the bett’ring of the time,
-And though they be outstripp’d by every pen,
+And though they be outstripped by every pen,
 Reserve them for my love, not for their rhyme,
 Exceeded by the height of happier men.
-O! then vouchsafe me but this loving thought:
-’Had my friend’s Muse grown with this growing age,
-A dearer birth than this his love had brought,
+O then vouchsafe me but this loving thought:
+“Had my friend’s Muse grown with this growing age,
+A dearer birth than this his love had brought 
 To march in ranks of better equipage:
 But since he died and poets better prove,
-Theirs for their style I’ll read, his for his love’.`,
+Theirs for their style I’ll read, his for his love”.`,
     themes: ["mortality","passage of time","self-denigration","writing","inadequacy of verse"],
     imagery: ["verse","bones"],
-    characters: ["Rival Poet","Fair Youth"]
+    characters: ["Rival Poet","Fair Youth","Muse"]
   },
   {
     number: 33,
@@ -649,12 +649,12 @@ Anon permit the basest clouds to ride
 With ugly rack on his celestial face,
 And from the forlorn world his visage hide,
 Stealing unseen to west with this disgrace: 
-Even so my sun one early morn did shine,
-With all triumphant splendour on my brow;
-But out! alack! he was but one hour mine,
-The region cloud hath mask’d him from me now.
-Yet him for this my love no whit disdaineth;
-Suns of the world may stain when heaven’s sun staineth.`,
+Even so my sun one early morn did shine
+With all triumphant splendor on my brow;
+But out alack, he was but one hour mine,
+The region cloud hath masked him from me now.
+Yet him for this my love no whit disdaineth,
+Suns of the world may stain, when heaven’s sun staineth.`,
     themes: ["passage of time","disappointment","unrequited love","redemption","theft"],
     imagery: ["time of day","sun","weather","gold","face","green","colors","meadows","nature","clouds","brow","heaven","morning","mountain","alchemy","darkness"],
     characters: ["Fair Youth"]
@@ -664,7 +664,7 @@ Suns of the world may stain when heaven’s sun staineth.`,
     text: `Why didst thou promise such a beauteous day,
 And make me travel forth without my cloak,
 To let base clouds o’ertake me in my way,
-Hiding thy bravery in their rotten smoke?
+Hiding thy brav’ry in their rotten smoke?
 ’Tis not enough that through the cloud thou break,
 To dry the rain on my storm-beaten face,
 For no man well of such a salve can speak,
@@ -672,28 +672,28 @@ That heals the wound, and cures not the disgrace:
 Nor can thy shame give physic to my grief;
 Though thou repent, yet I have still the loss:
 The offender’s sorrow lends but weak relief
-To him that bears the strong offence’s cross. 
-Ah! but those tears are pearl which thy love sheds,
+To him that bears the strong offense’s cross. 
+Ah, but those tears are pearl which thy love sheds,
 And they are rich and ransom all ill deeds.`,
-    themes: ["disappointment","healing/medicine","disgrace","redemption","unrequited love","beauty","grief","transgressions","ill reputation"],
+    themes: ["disappointment","healing/medicine","disgrace","redemption","unrequited love","beauty","grief","transgressions","ill reputation","forgiveness"],
     imagery: ["clothing","clouds","weather","face","rain","storms","tears","pearls"],
     characters: ["Fair Youth"]
   },
   {
     number: 35,
-    text: `No more be griev’d at that which thou hast done:
-Roses have thorns, and silver fountains mud:
+    text: `No more be grieved at that which thou hast done:
+Roses have thorns, and silver fountains mud,
 Clouds and eclipses stain both moon and sun,
 And loathsome canker lives in sweetest bud.
 All men make faults, and even I in this,
 Authorizing thy trespass with compare,
-Myself corrupting, salving thy amiss,
-Excusing thy sins more than thy sins are;
-For to thy sensual fault I bring in sense,--
-Thy adverse party is thy advocate,--
+My self corrupting salving thy amiss,
+Excusing thy sins more than their sins are;
+For to thy sensual fault I bring in sense—
+Thy adverse party is thy advocate—
 And ’gainst myself a lawful plea commence:
-Such civil war is in my love and hate,
-That I an accessary needs must be,
+Such civil war is in my love and hate
+That I an accessary needs must be
 To that sweet thief which sourly robs from me.`,
     themes: ["forgiveness","hate","theft","transgressions"],
     imagery: ["silver","mud","clouds","eclipse","buds","moon","sun","war","thorns","water","legal system","flowers","rose","canker worm","sourness","sweetness"],
@@ -710,10 +710,10 @@ Though in our lives a separable spite,
 Which though it alter not love’s sole effect,
 Yet doth it steal sweet hours from love’s delight.
 I may not evermore acknowledge thee,
-Lest my bewailed guilt should do thee shame,
-Nor thou with public kindness honour me,
-Unless thou take that honour from thy name:
-But do not so, I love thee in such sort,
+Lest my bewailèd guilt should do thee shame,
+Nor thou with public kindness honor me,
+Unless thou take that honor from thy name:
+But do not so; I love thee in such sort,
 As thou being mine, mine is thy good report.`,
     themes: ["transgressions","separation","forgiveness","self-denigration","ill reputation","union of speaker and beloved"],
     imagery: [],
@@ -727,33 +727,33 @@ So I, made lame by Fortune’s dearest spite,
 Take all my comfort of thy worth and truth; 
 For whether beauty, birth, or wealth, or wit,
 Or any of these all, or all, or more,
-Entitled in thy parts, do crowned sit,
-I make my love engrafted, to this store:
-So then I am not lame, poor, nor despis’d,
+Intitled in thy parts, do crownèd sit,
+I make my love ingrafted to this store:
+So then I am not lame, poor, nor despised,
 Whilst that this shadow doth such substance give
-That I in thy abundance am suffic’d,
-And by a part of all thy glory live.
-Look what is best, that best I wish in thee:
-This wish I have; then ten times happy me!`,
+That I in thy abundance am sufficed,
+And by a part of all thy glory live:
+Look what is best, that best I wish in thee;
+This wish I have, then ten times happy me.`,
     themes: ["youth","fate/fortune","disgrace","beauty","unrequited love","abundance","old age","union of speaker and beloved","self-denigration"],
     imagery: ["fatherhood","wealth","shadow","royalty","child","crown"],
     characters: ["Fair Youth"]
   },
   {
     number: 38,
-    text: `How can my muse want subject to invent,
+    text: `How can my Muse want subject to invent
 While thou dost breathe, that pour’st into my verse
 Thine own sweet argument, too excellent
 For every vulgar paper to rehearse?
-O! give thy self the thanks, if aught in me
-Worthy perusal stand against thy sight;
+O! give thy self the thanks if aught in me
+Worthy perusal stand against thy sight,
 For who’s so dumb that cannot write to thee,
-When thou thy self dost give invention light? 
+When thou thyself dost give invention light? 
 Be thou the tenth Muse, ten times more in worth
-Than those old nine which rhymers invocate;
+Than those old nine which rhymers invocate,
 And he that calls on thee, let him bring forth
 Eternal numbers to outlive long date.
-If my slight muse do please these curious days,
+If my slight Muse do please these curious days,
 The pain be mine, but thine shall be the praise.`,
     themes: ["writing","immortality","self-denigration","muteness","immortality through verse"],
     imagery: ["breathing","verse","mythology","paper"],
@@ -761,38 +761,38 @@ The pain be mine, but thine shall be the praise.`,
   },
   {
     number: 39,
-    text: `O! how thy worth with manners may I sing,
+    text: `O how thy worth with manners may I sing,
 When thou art all the better part of me?
-What can mine own praise to mine own self bring?
+What can mine own praise to mine own self bring,
 And what is’t but mine own when I praise thee?
 Even for this, let us divided live,
 And our dear love lose name of single one,
 That by this separation I may give
 That due to thee which thou deserv’st alone.
-O absence! what a torment wouldst thou prove,
-Were it not thy sour leisure gave sweet leave,
+O absence, what a torment wouldst thou prove,
+Were it not thy sour leisure gave sweet leave
 To entertain the time with thoughts of love,
-Which time and thoughts so sweetly doth deceive, 
+Which time and thoughts so sweetly doth deceive; 
 And that thou teachest how to make one twain,
 By praising him here who doth hence remain.`,
     themes: ["self-denigration","separation","union of speaker and beloved","distance"],
-    imagery: [],
+    imagery: ["sweetness","sourness"],
     characters: ["Fair Youth"]
   },
   {
     number: 40,
     text: `Take all my loves, my love, yea take them all;
 What hast thou then more than thou hadst before?
-No love, my love, that thou mayst true love call;
+No love, my love, that thou mayst true love call,
 All mine was thine, before thou hadst this more.
-Then, if for my love, thou my love receivest,
+Then if for my love thou my love receivest,
 I cannot blame thee, for my love thou usest;
-But yet be blam’d, if thou thy self deceivest
+But yet be blamed, if thou this self deceivest
 By wilful taste of what thyself refusest.
-I do forgive thy robbery, gentle thief,
-Although thou steal thee all my poverty:
-And yet, love knows it is a greater grief
-To bear love’s wrong, than hate’s known injury.
+I do forgive thy robb’ry, gentle thief,
+Although thou steal thee all my poverty;
+And yet love knows it is a greater grief
+To bear love’s wrong than hate’s known injury.
 Lascivious grace, in whom all ill well shows,
 Kill me with spites yet we must not be foes.`,
     themes: ["theft","union of speaker and beloved","transgressions","unrequited love"],
