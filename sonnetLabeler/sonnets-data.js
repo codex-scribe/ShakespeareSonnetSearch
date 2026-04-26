@@ -456,7 +456,7 @@ More than that tongue that more hath more expressed.
 O learn to read what silent love hath writ:
 To hear with eyes belongs to love’s fine wit.`,
     themes: ["drama","speaking","fear","muteness"],
-    imagery: ["gaze","eyes"],
+    imagery: ["gaze","eyes","tongues","heart"],
     characters: ["Fair Youth"]
   },
   {
@@ -555,8 +555,8 @@ So flatter I the swart-complexioned night,
 When sparkling stars twire not thou gild’st the even:
 But day doth daily draw my sorrows longer,
 And night doth nightly make grief’s strength seem stronger.`,
-    themes: ["travail"],
-    imagery: ["day","night","stars"],
+    themes: ["travail","torture","distance"],
+    imagery: ["day","night","stars","sleep","clouds","darkness","time of day"],
     characters: ["Fair Youth"]
   },
   {
@@ -576,7 +576,7 @@ From sullen earth) sings hymns at heaven’s gate,
 For thy sweet love remembered such wealth brings
 That then I scorn to change my state with kings.`,
     themes: ["fate/fortune","memory","redemption"],
-    imagery: ["weeping","heaven","birds","animals","lark","dawn","kings","wealth","singing"],
+    imagery: ["weeping","heaven","birds","animals","lark","dawn","kings","wealth","singing","royalty"],
     characters: ["Fair Youth"]
   },
   {
@@ -596,7 +596,7 @@ Which I new pay as if not paid before.
 But if the while I think on thee (dear friend)
 All losses are restored, and sorrows end.`,
     themes: ["memory","waste","mortality","passage of time","grief","redemption"],
-    imagery: ["weeping","night","legal system"],
+    imagery: ["weeping","night","legal system","accounting/tallying"],
     characters: ["Fair Youth"]
   },
   {
@@ -615,8 +615,8 @@ Who all their parts of me to thee did give,
 That due of many now is thine alone:
 Their images I lov’d, I view in thee,
 And thou--all they--hast all the all of me.`,
-    themes: ["theft","possession","unrequited love"],
-    imagery: ["weeping","grave/tomb","eyes"],
+    themes: ["theft","possession","unrequited love","union of speaker and beloved"],
+    imagery: ["weeping","grave/tomb","eyes","heart","tears"],
     characters: ["Fair Youth"]
   },
   {
@@ -635,8 +635,8 @@ A dearer birth than this his love had brought,
 To march in ranks of better equipage:
 But since he died and poets better prove,
 Theirs for their style I’ll read, his for his love’.`,
-    themes: ["mortality","passage of time","self-denigration"],
-    imagery: ["verse"],
+    themes: ["mortality","passage of time","self-denigration","writing","inadequacy of verse"],
+    imagery: ["verse","bones"],
     characters: ["Rival Poet","Fair Youth"]
   },
   {
@@ -655,8 +655,8 @@ But out! alack! he was but one hour mine,
 The region cloud hath mask’d him from me now.
 Yet him for this my love no whit disdaineth;
 Suns of the world may stain when heaven’s sun staineth.`,
-    themes: ["passage of time","disappointment","unrequited love","redemption"],
-    imagery: ["time of day","sun","weather","eyes","gold","face","green","colors","meadows","nature","clouds","brow","heaven"],
+    themes: ["passage of time","disappointment","unrequited love","redemption","theft"],
+    imagery: ["time of day","sun","weather","gold","face","green","colors","meadows","nature","clouds","brow","heaven","morning","mountain","alchemy","darkness"],
     characters: ["Fair Youth"]
   },
   {
@@ -675,7 +675,7 @@ The offender’s sorrow lends but weak relief
 To him that bears the strong offence’s cross. 
 Ah! but those tears are pearl which thy love sheds,
 And they are rich and ransom all ill deeds.`,
-    themes: ["disappointment","healing/medicine","disgrace","redemption","unrequited love","beauty","grief"],
+    themes: ["disappointment","healing/medicine","disgrace","redemption","unrequited love","beauty","grief","transgressions","ill reputation"],
     imagery: ["clothing","clouds","weather","face","rain","storms","tears","pearls"],
     characters: ["Fair Youth"]
   },
@@ -695,8 +695,8 @@ And ’gainst myself a lawful plea commence:
 Such civil war is in my love and hate,
 That I an accessary needs must be,
 To that sweet thief which sourly robs from me.`,
-    themes: ["unfaithfulness","unrequited love","forgiveness","hate","theft"],
-    imagery: ["silver","mud","clouds","eclipse","buds","canker","moon","sun","war","thorns","water","legal system"],
+    themes: ["forgiveness","hate","theft","transgressions"],
+    imagery: ["silver","mud","clouds","eclipse","buds","moon","sun","war","thorns","water","legal system","flowers","rose","canker worm","sourness","sweetness"],
     characters: ["Fair Youth"]
   },
   {
@@ -715,7 +715,7 @@ Nor thou with public kindness honour me,
 Unless thou take that honour from thy name:
 But do not so, I love thee in such sort,
 As thou being mine, mine is thy good report.`,
-    themes: ["transgressions","separation","forgiveness","self-denigration"],
+    themes: ["transgressions","separation","forgiveness","self-denigration","ill reputation","union of speaker and beloved"],
     imagery: [],
     characters: ["Fair Youth"]
   },
@@ -735,8 +735,8 @@ That I in thy abundance am suffic’d,
 And by a part of all thy glory live.
 Look what is best, that best I wish in thee:
 This wish I have; then ten times happy me!`,
-    themes: ["youth","fate/fortune","disgrace","beauty","unrequited love","abundance","self-denigration"],
-    imagery: ["fatherhood","wealth","shadow","royalty"],
+    themes: ["youth","fate/fortune","disgrace","beauty","unrequited love","abundance","old age","union of speaker and beloved","self-denigration"],
+    imagery: ["fatherhood","wealth","shadow","royalty","child","crown"],
     characters: ["Fair Youth"]
   },
   {
@@ -755,7 +755,7 @@ And he that calls on thee, let him bring forth
 Eternal numbers to outlive long date.
 If my slight muse do please these curious days,
 The pain be mine, but thine shall be the praise.`,
-    themes: ["writing","immortality","self-denigration"],
+    themes: ["writing","immortality","self-denigration","muteness","immortality through verse"],
     imagery: ["breathing","verse","mythology","paper"],
     characters: ["Muse","Fair Youth"]
   },
@@ -775,7 +775,7 @@ To entertain the time with thoughts of love,
 Which time and thoughts so sweetly doth deceive, 
 And that thou teachest how to make one twain,
 By praising him here who doth hence remain.`,
-    themes: ["self-denigration","separation"],
+    themes: ["self-denigration","separation","union of speaker and beloved","distance"],
     imagery: [],
     characters: ["Fair Youth"]
   },
@@ -795,7 +795,7 @@ And yet, love knows it is a greater grief
 To bear love’s wrong, than hate’s known injury.
 Lascivious grace, in whom all ill well shows,
 Kill me with spites yet we must not be foes.`,
-    themes: ["theft","unrequited love"],
+    themes: ["theft","union of speaker and beloved","transgressions","unrequited love"],
     imagery: [],
     characters: ["Fair Youth"]
   },
@@ -1076,7 +1076,7 @@ Of their sweet deaths, are sweetest odours made:
 And so of you, beauteous and lovely youth,
 When that shall vade, by verse distills your truth.`,
     themes: ["beauty","truth","virtue","youth","immortality through verse"],
-    imagery: ["flowers","rose","canker","perfume","thorns","odors","verse"],
+    imagery: ["flowers","rose","perfume","thorns","odors","verse","canker flower"],
     characters: ["Fair Youth"]
   },
   {
@@ -1396,7 +1396,7 @@ To tie up envy, evermore enlarg’d,
 If some suspect of ill mask’d not thy show,
 Then thou alone kingdoms of hearts shouldst owe.`,
     themes: ["transgressions","ill reputation","beauty","possession"],
-    imagery: ["birds","heaven","canker","buds"],
+    imagery: ["birds","heaven","buds","canker worm"],
     characters: []
   },
   {
@@ -1896,7 +1896,7 @@ And all things turns to fair that eyes can see!
 Take heed, dear heart, of this large privilege;
 The hardest knife ill-us’d doth lose his edge.`,
     themes: ["shame","transgressions","ill reputation","unfaithfulness"],
-    imagery: ["sweetness","rose","canker","flowers","house","veil","eyes","body parts","heart","knives","dullness"],
+    imagery: ["sweetness","rose","flowers","house","veil","eyes","body parts","heart","knives","dullness","canker worm"],
     characters: ["Fair Youth"]
   },
   {
