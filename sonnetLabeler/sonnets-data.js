@@ -401,19 +401,19 @@ Mine be thy love, and thy love’s use their treasure.`,
   },
   {
     number: 21,
-    text: `So is it not with me as with that Muse,
-Stirr’d by a painted beauty to his verse,
-Who heaven itself for ornament doth use
+    text: `So is it not with me as with that Muse
+Stirred by a painted beauty to his verse,
+Who heaven itself for ornament doth use,
 And every fair with his fair doth rehearse,
-Making a couplement of proud compare’
+Making a couplement of proud compare
 With sun and moon, with earth and sea’s rich gems,
-With April’s first-born flowers, and all things rare,
+With April’s first-born flowers, and all things rare
 That heaven’s air in this huge rondure hems.
-O! let me, true in love, but truly write,
+O let me true in love but truly write,
 And then believe me, my love is as fair
 As any mother’s child, though not so bright
-As those gold candles fix’d in heaven’s air:
-Let them say more that like of hearsay well;
+As those gold candles fixed in heaven’s air:
+Let them say more that like of hearsay well,
 I will not praise that purpose not to sell.`,
     themes: ["beauty","artificiality","writing","truth"],
     imagery: ["verse","heaven","April","months","moon","gems","stars","gold","painting","sun","earth","ocean","flowers","sky","motherhood"],
@@ -422,18 +422,18 @@ I will not praise that purpose not to sell.`,
   {
     number: 22,
     text: `My glass shall not persuade me I am old,
-So long as youth and thou are of one date;
+So long as youth and thou are of one date,
 But when in thee time’s furrows I behold,
-Then look I death my days should expiate.
-For all that beauty that doth cover thee,
+Then look I death my days should expiate:
+For all that beauty that doth cover thee
 Is but the seemly raiment of my heart,
 Which in thy breast doth live, as thine in me:
 How can I then be elder than thou art?
-O! therefore love, be of thyself so wary
-As I, not for myself, but for thee will;
+O therefore, love, be of thyself so wary
+As I not for myself but for thee will,
 Bearing thy heart, which I will keep so chary
-As tender nurse her babe from faring ill.
-Presume not on thy heart when mine is slain,
+As tender nurse her babe from faring ill:
+Presume not on thy heart when mine is slain;
 Thou gav’st me thine not to give back again.`,
     themes: ["passage of time","youth","old age","beauty","mortality","union of speaker and beloved","safe-keeping"],
     imagery: ["mirror","wrinkles","heart","clothing","baby","sickness"],
@@ -442,18 +442,18 @@ Thou gav’st me thine not to give back again.`,
   {
     number: 23,
     text: `As an unperfect actor on the stage,
-Who with his fear is put beside his part,
+Who with his fear is put besides his part,
 Or some fierce thing replete with too much rage,
 Whose strength’s abundance weakens his own heart;
 So I, for fear of trust, forget to say
 The perfect ceremony of love’s rite,
 And in mine own love’s strength seem to decay,
-O’ercharg’d with burthen of mine own love’s might. 
-O! let my looks be then the eloquence
+O’ercharged with burthen of mine own love’s might: 
+O let my looks be then the eloquence
 And dumb presagers of my speaking breast,
 Who plead for love, and look for recompense,
-More than that tongue that more hath more express’d.
-O! learn to read what silent love hath writ:
+More than that tongue that more hath more expressed.
+O learn to read what silent love hath writ:
 To hear with eyes belongs to love’s fine wit.`,
     themes: ["drama","speaking","fear","muteness"],
     imagery: ["gaze","eyes"],
@@ -461,18 +461,18 @@ To hear with eyes belongs to love’s fine wit.`,
   },
   {
     number: 24,
-    text: `Mine eye hath play’d the painter and hath stell’d,
+    text: `Mine eye hath played the painter and hath stelled
 Thy beauty’s form in table of my heart;
 My body is the frame wherein ’tis held,
 And perspective it is best painter’s art.
-For through the painter must you see his skill,
-To find where your true image pictur’d lies,
+For through the painter must you see his skill
+To find where your true image pictured lies,
 Which in my bosom’s shop is hanging still,
-That hath his windows glazed with thine eyes.
+That hath his windows glazèd with thine eyes.
 Now see what good turns eyes for eyes have done:
 Mine eyes have drawn thy shape, and thine for me
-Are windows to my breast, where-through the sun
-Delights to peep, to gaze therein on thee; 
+Are windows to my breast, wherethrough the sun
+Delights to peep, to gaze therein on thee. 
 Yet eyes this cunning want to grace their art,
 They draw but what they see, know not the heart.`,
     themes: ["beauty"],
@@ -481,20 +481,20 @@ They draw but what they see, know not the heart.`,
   },
   {
     number: 25,
-    text: `Let those who are in favour with their stars
-Of public honour and proud titles boast,
-Whilst I, whom fortune of such triumph bars
-Unlook’d for joy in that I honour most.
-Great princes’ favourites their fair leaves spread
+    text: `Let those who are in favor with their stars
+Of public honor and proud titles boast,
+Whilst I whom fortune of such triumph bars
+Unlooked for joy in that I honor most.
+Great princes’ favorites their fair leaves spread
 But as the marigold at the sun’s eye,
-And in themselves their pride lies buried,
+And in themselves their pride lies burièd,
 For at a frown they in their glory die.
-The painful warrior famoused for fight,
-After a thousand victories once foil’d,
-Is from the book of honour razed quite,
-And all the rest forgot for which he toil’d:
-Then happy I, that love and am belov’d,
-Where I may not remove nor be remov’d.`,
+The painful warrior famousèd for fight,
+After a thousand victories once foiled,
+Is from the book of honor razèd quite,
+And all the rest forgot for which he toiled:
+Then happy I that love and am belovèd
+Where I may not remove, nor be removèd.`,
     themes: ["fate/fortune","fame"],
     imagery: ["stars","flowers","marigold","sun","royalty","frown"],
     characters: ["Fair Youth"]
@@ -503,17 +503,17 @@ Where I may not remove nor be remov’d.`,
     number: 26,
     text: `Lord of my love, to whom in vassalage
 Thy merit hath my duty strongly knit,
-To thee I send this written embassage,
-To witness duty, not to show my wit:
+To thee I send this written ambassage
+To witness duty, not to show my wit;
 Duty so great, which wit so poor as mine
 May make seem bare, in wanting words to show it,
 But that I hope some good conceit of thine
-In thy soul’s thought, all naked, will bestow it:
-Till whatsoever star that guides my moving,
+In thy soul’s thought (all naked) will bestow it,
+Till whatsoever star that guides my moving
 Points on me graciously with fair aspect,
-And puts apparel on my tatter’d loving,
+And puts apparel on my tattered loving,
 To show me worthy of thy sweet respect:
-Then may I dare to boast how I do love thee;
+Then may I dare to boast how I do love thee,
 Till then, not show my head where thou mayst prove me.`,
     themes: ["fate/fortune","duty/subservience","writing","inadequacy of verse","worth"],
     imagery: ["stars","clothing"],
@@ -522,18 +522,18 @@ Till then, not show my head where thou mayst prove me.`,
   {
     number: 27,
     text: `Weary with toil, I haste me to my bed,
-The dear respose for limbs with travel tir’d;
+The dear repose for limbs with travel tired,
 But then begins a journey in my head
-To work my mind, when body’s work’s expired: 
-For then my thoughts--from far where I abide--
+To work my mind, when body’s work’s expired; 
+For then my thoughts (from far where I abide)
 Intend a zealous pilgrimage to thee,
 And keep my drooping eyelids open wide,
 Looking on darkness which the blind do see:
 Save that my soul’s imaginary sight
 Presents thy shadow to my sightless view,
-Which, like a jewel (hung in ghastly night,
+Which like a jewel (hung in ghastly night)
 Makes black night beauteous, and her old face new.
-Lo! thus, by day my limbs, by night my mind,
+Lo thus by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
     themes: ["travail","imagination"],
     imagery: ["night","darkness","gems","black","colors","sleep","eyes","face"],
@@ -541,39 +541,39 @@ For thee, and for myself, no quiet find.`,
   },
   {
     number: 28,
-    text: `How can I then return in happy plight,
-That am debarre’d the benefit of rest?
-When day’s oppression is not eas’d by night,
-But day by night and night by day oppress’d,
-And each, though enemies to either’s reign,
+    text: `How can I then return in happy plight
+That am debarred the benefit of rest?
+When day’s oppression is not eased by night,
+But day by night and night by day oppressed;
+And each (though enemies to either’s reign)
 Do in consent shake hands to torture me,
 The one by toil, the other to complain
 How far I toil, still farther off from thee. 
-I tell the day, to please him thou art bright,
-And dost him grace when clouds do blot the heaven:
-So flatter I the swart-complexion’d night,
-When sparkling stars twire not thou gild’st the even.
+I tell the day to please him thou art bright,
+And dost him grace when clouds do blot the heaven;
+So flatter I the swart-complexioned night,
+When sparkling stars twire not thou gild’st the even:
 But day doth daily draw my sorrows longer,
-And night doth nightly make grief’s length seem stronger.`,
+And night doth nightly make grief’s strength seem stronger.`,
     themes: ["travail"],
     imagery: ["day","night","stars"],
     characters: ["Fair Youth"]
   },
   {
     number: 29,
-    text: `When in disgrace with fortune and men’s eyes
+    text: `When in disgrace with Fortune and men’s eyes,
 I all alone beweep my outcast state,
 And trouble deaf heaven with my bootless cries,
-And look upon myself, and curse my fate,
+And look upon myself and curse my fate,
 Wishing me like to one more rich in hope,
-Featur’d like him, like him with friends possess’d,
+Featured like him, like him with friends possessed,
 Desiring this man’s art, and that man’s scope,
 With what I most enjoy contented least;
-Yet in these thoughts my self almost despising,
-Haply I think on thee,-- and then my state,
-Like to the lark at break of day arising
-From sullen earth, sings hymns at heaven’s gate;
-For thy sweet love remember’d such wealth brings
+Yet in these thoughts myself almost despising,
+Haply I think on thee, and then my state
+(Like to the lark at break of day arising
+From sullen earth) sings hymns at heaven’s gate,
+For thy sweet love remembered such wealth brings
 That then I scorn to change my state with kings.`,
     themes: ["fate/fortune","memory","redemption"],
     imagery: ["weeping","heaven","birds","animals","lark","dawn","kings","wealth","singing"],
@@ -584,17 +584,17 @@ That then I scorn to change my state with kings.`,
     text: `When to the sessions of sweet silent thought
 I summon up remembrance of things past,
 I sigh the lack of many a thing I sought,
-And with old woes new wail my dear time’s waste:
-Then can I drown an eye, unused to flow,
+And with old woes new wail my dear time’s waste;
+Then can I drown an eye (unused to flow)
 For precious friends hid in death’s dateless night,
-And weep afresh love’s long since cancell’d woe,
-And moan the expense of many a vanish’’d sight:
+And weep afresh love’s long since cancelled woe,
+And moan th’expense of many a vanished sight.
 Then can I grieve at grievances foregone,
 And heavily from woe to woe tell o’er
-The sad account of fore-bemoaned moan,
+The sad account of fore-bemoanèd moan,
 Which I new pay as if not paid before.
-But if the while I think on thee, dear friend,
-All losses are restor’d and sorrows end.`,
+But if the while I think on thee (dear friend)
+All losses are restored, and sorrows end.`,
     themes: ["memory","waste","mortality","passage of time","grief","redemption"],
     imagery: ["weeping","night","legal system"],
     characters: ["Fair Youth"]
