@@ -351,7 +351,7 @@ And every fair from fair sometime declines,
 By chance or nature’s changing course untrimmed:
 But thy eternal summer shall not fade,
 Nor lose possession of that fair thou ow’st,
-Nor shall Death brag thou wande’rest in his shade,
+Nor shall Death brag thou wand’rest in his shade,
 When in eternal lines to time thou grow’st.
 So long as men can breathe or eyes can see,
 So long lives this, and this gives life to thee.`,
@@ -535,7 +535,7 @@ Which like a jewel (hung in ghastly night)
 Makes black night beauteous, and her old face new.
 Lo thus by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
-    themes: ["travail","imagination"],
+    themes: ["travail","imagination","torture"],
     imagery: ["night","darkness","gems","black","colors","sleep","eyes","face"],
     characters: ["Fair Youth"]
   },
@@ -555,7 +555,7 @@ So flatter I the swart-complexioned night,
 When sparkling stars twire not thou gild’st the even:
 But day doth daily draw my sorrows longer,
 And night doth nightly make grief’s strength seem stronger.`,
-    themes: ["travail","torture","distance"],
+    themes: ["travail","torture","distance","bargaining"],
     imagery: ["day","night","stars","sleep","clouds","darkness","time of day"],
     characters: ["Fair Youth"]
   },
