@@ -801,39 +801,39 @@ Kill me with spites yet we must not be foes.`,
   },
   {
     number: 41,
-    text: `Those pretty wrongs that liberty commits,
+    text: `Those pretty wrongs that liberty commits
 When I am sometime absent from thy heart,
-Thy beauty, and thy years full well befits,
+Thy beauty, and thy years, full well befits,
 For still temptation follows where thou art.
 Gentle thou art, and therefore to be won,
-Beauteous thou art, therefore to be assail’d;
+Beauteous thou art, therefore to be assailed;
 And when a woman woos, what woman’s son
-Will sourly leave her till he have prevail’d?
-Ay me! but yet thou mightst my seat forbear,
+Will sourly leave her till he have prevailed?
+Ay me, but yet thou mightst my seat forbear,
 And chide thy beauty and thy straying youth,
 Who lead thee in their riot even there
-Where thou art forced to break a twofold truth:--
+Where thou art forced to break a twofold truth:
 Hers by thy beauty tempting her to thee,
-Thine by thy beauty being false to me.`,
+Thine, by thy beauty being false to me.`,
     themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love"],
     imagery: [],
     characters: ["Fair Youth"]
   },
   {
     number: 42,
-    text: `That thou hast her it is not all my grief,
+    text: `That thou hast her, it is not all my grief,
 And yet it may be said I loved her dearly;
 That she hath thee is of my wailing chief,
 A loss in love that touches me more nearly. 
-Loving offenders thus I will excuse ye:
-Thou dost love her, because thou know’st I love her;
+Loving offenders, thus I will excuse ye:
+Thou dost love her, because thou know’st I love her,
 And for my sake even so doth she abuse me,
 Suffering my friend for my sake to approve her.
 If I lose thee, my loss is my love’s gain,
-And losing her, my friend hath found that loss;
+And losing her, my friend hath found that loss,
 Both find each other, and I lose both twain,
-And both for my sake lay on me this cross:
-But here’s the joy; my friend and I are one;
+And both for my sake lay on me this cross.
+But here’s the joy, my friend and I are one:
 Sweet flattery! then she loves but me alone.`,
     themes: ["yearning","unrequited love","union of speaker and beloved","indifference of beloved","loss"],
     imagery: ["weeping"],
@@ -841,15 +841,15 @@ Sweet flattery! then she loves but me alone.`,
   },
   {
     number: 43,
-    text: `When most I wink, then do mine eyes best see,
-For all the day they view things unrespected;
+    text: `When most I wink then do mine eyes best see,
+For all the day they view things unrespected,
 But when I sleep, in dreams they look on thee,
 And darkly bright, are bright in dark directed.
 Then thou, whose shadow shadows doth make bright,
 How would thy shadow’s form form happy show
 To the clear day with thy much clearer light,
-When to unseeing eyes thy shade shines so! 
-How would, I say, mine eyes be blessed made
+When to unseeing eyes thy shade shines so!
+How would, I say, mine eyes be blessèd made,
 By looking on thee in the living day,
 When in dead night thy fair imperfect shade
 Through heavy sleep on sightless eyes doth stay!
@@ -862,18 +862,18 @@ And nights bright days when dreams do show thee me.`,
   {
     number: 44,
     text: `If the dull substance of my flesh were thought,
-Injurious distance should not stop my way;
+Injurious distance should not stop my way,
 For then despite of space I would be brought,
 From limits far remote, where thou dost stay.
 No matter then although my foot did stand
-Upon the farthest earth remov’d from thee;
-For nimble thought can jump both sea and land,
+Upon the farthest earth removed from thee,
+For nimble thought can jump both sea and land
 As soon as think the place where he would be.
-But, ah! thought kills me that I am not thought,
+But ah, thought kills me that I am not thought,
 To leap large lengths of miles when thou art gone,
-But that so much of earth and water wrought,
-I must attend time’s leisure with my moan;
-Receiving nought by elements so slow
+But that, so much of earth and water wrought,
+I must attend time’s leisure with my moan,
+Receiving naught by elements so slow
 But heavy tears, badges of either’s woe.`,
     themes: ["material vs. ideal world","distance","imagination"],
     imagery: ["tears"],
@@ -881,20 +881,20 @@ But heavy tears, badges of either’s woe.`,
   },
   {
     number: 45,
-    text: `The other two, slight air, and purging fire
+    text: `The other two, slight air and purging fire,
 Are both with thee, wherever I abide;
 The first my thought, the other my desire,
 These present-absent with swift motion slide.
 For when these quicker elements are gone
 In tender embassy of love to thee,
 My life, being made of four, with two alone
-Sinks down to death, oppress’d with melancholy;
-Until life’s composition be recur’d
-By those swift messengers return’d from thee,
-Who even but now come back again, assur’d,
-Of thy fair health, recounting it to me:
-This told, I joy; but then no longer glad,
-I send them back again, and straight grow sad.`,
+Sinks down to death, oppressed with melancholy,
+Until life’s composition be recured
+By those swift messengers returned from thee,
+Who even but now come back again assured
+Of thy fair health, recounting it to me.
+This told, I joy, but then no longer glad,
+I send them back again and straight grow sad.`,
     themes: ["material vs. ideal world","distance"],
     imagery: [],
     characters: ["Fair Youth"]
@@ -902,19 +902,19 @@ I send them back again, and straight grow sad.`,
   {
     number: 46,
     text: `Mine eye and heart are at a mortal war,
-How to divide the conquest of thy sight;
+How to divide the conquest of thy sight:
 Mine eye my heart thy picture’s sight would bar,
 My heart mine eye the freedom of that right.
-My heart doth plead that thou in him dost lie,--
-A closet never pierc’d with crystal eyes--
+My heart doth plead that thou in him dost lie
+(A closet never pierced with crystal eyes),
 But the defendant doth that plea deny,
 And says in him thy fair appearance lies.
-To side this title is impannelled
-A quest of thoughts, all tenants to the heart;
-And by their verdict is determined
-The clear eye’s moiety, and the dear heart’s part:
-As thus; mine eye’s due is thy outward part,
-And my heart’s right, thy inward love of heart.`,
+To 'cide this title is impanellèd
+A quest of thoughts, all tenants to the heart,
+And by their verdict is determinèd
+The clear eye’s moiety and the dear heart’s part,
+As thus: mine eye’s due is thy outward part,
+And my heart’s right thy inward love of heart.`,
     themes: ["immortality","possession","beauty"],
     imagery: ["eyes","heart","war","legal system"],
     characters: ["Fair Youth"]
@@ -923,18 +923,18 @@ And my heart’s right, thy inward love of heart.`,
     number: 47,
     text: `Betwixt mine eye and heart a league is took,
 And each doth good turns now unto the other:
-When that mine eye is famish’d for a look,
+When that mine eye is famished for a look,
 Or heart in love with sighs himself doth smother,
 With my love’s picture then my eye doth feast,
 And to the painted banquet bids my heart;
 Another time mine eye is my heart’s guest,
-And in his thoughts of love doth share a part:
-So, either by thy picture or my love,
-Thy self away, art present still with me;
+And in his thoughts of love doth share a part.
+So either by thy picture or my love,
+Thyself, away, are present still with me,
 For thou not farther than my thoughts canst move,
 And I am still with them, and they with thee;
-Or, if they sleep, thy picture in my sight
-Awakes my heart, to heart’s and eye’s delight.`,
+Or if they sleep, thy picture in my sight
+Awakes my heart to heart’s and eye’s delight.`,
     themes: ["distance","imagination"],
     imagery: ["feasting","eyes","heart","sleep","dreams"],
     characters: []
@@ -943,17 +943,17 @@ Awakes my heart, to heart’s and eye’s delight.`,
     number: 48,
     text: `How careful was I when I took my way,
 Each trifle under truest bars to thrust,
-That to my use it might unused stay
+That to my use it might unusèd stay
 From hands of falsehood, in sure wards of trust!
 But thou, to whom my jewels trifles are,
 Most worthy comfort, now my greatest grief,
 Thou best of dearest, and mine only care,
 Art left the prey of every vulgar thief. 
-Thee have I not lock’d up in any chest,
+Thee have I not locked up in any chest,
 Save where thou art not, though I feel thou art,
 Within the gentle closure of my breast,
 From whence at pleasure thou mayst come and part;
-And even thence thou wilt be stol’n I fear,
+And even thence thou wilt be stol’n, I fear,
 For truth proves thievish for a prize so dear.`,
     themes: ["possession","grief","unrequited love","theft"],
     imagery: ["lockbox","gems"],
@@ -961,17 +961,17 @@ For truth proves thievish for a prize so dear.`,
   },
   {
     number: 49,
-    text: `Against that time, if ever that time come,
+    text: `Against that time (if ever that time come)
 When I shall see thee frown on my defects,
 When as thy love hath cast his utmost sum,
-Call’d to that audit by advis’d respects;
+Called to that audit by advised respects;
 Against that time when thou shalt strangely pass,
-And scarcely greet me with that sun, thine eye,
-When love, converted from the thing it was,
-Shall reasons find of settled gravity;
-Against that time do I ensconce me here,
+And scarcely greet me with that sun thine eye,
+When love converted from the thing it was
+Shall reasons find of settled gravity:
+Against that time do I ensconce me here
 Within the knowledge of mine own desert,
-And this my hand, against my self uprear,
+And this my hand against myself uprear,
 To guard the lawful reasons on thy part: 
 To leave poor me thou hast the strength of laws,
 Since why to love I can allege no cause.`,
@@ -984,17 +984,17 @@ Since why to love I can allege no cause.`,
     text: `How heavy do I journey on the way,
 When what I seek, my weary travel’s end,
 Doth teach that ease and that repose to say,
-’Thus far the miles are measured from thy friend!’
+“Thus far the miles are measured from thy friend.”
 The beast that bears me, tired with my woe,
 Plods dully on, to bear that weight in me,
 As if by some instinct the wretch did know
-His rider lov’d not speed, being made from thee:
+His rider loved not speed being made from thee:
 The bloody spur cannot provoke him on,
 That sometimes anger thrusts into his hide,
 Which heavily he answers with a groan,
 More sharp to me than spurring to his side;
-For that same groan doth put this in my mind,
-My grief lies onward, and my joy behind.`,
+For that same groan doth put this in my mind:
+My grief lies onward and my joy behind.`,
     themes: ["travail","distance","yearning"],
     imagery: ["beast of burden","blood"],
     characters: ["Fair Youth"]
