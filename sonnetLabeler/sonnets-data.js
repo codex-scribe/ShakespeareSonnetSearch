@@ -813,9 +813,9 @@ Ay me, but yet thou mightst my seat forbear,
 And chide thy beauty and thy straying youth,
 Who lead thee in their riot even there
 Where thou art forced to break a twofold truth:
-Hers by thy beauty tempting her to thee,
+Hers, by thy beauty tempting her to thee,
 Thine, by thy beauty being false to me.`,
-    themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love"],
+    themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love","feigned acceptance","truth"],
     imagery: [],
     characters: ["Fair Youth"]
   },
@@ -835,7 +835,7 @@ Both find each other, and I lose both twain,
 And both for my sake lay on me this cross.
 But here’s the joy, my friend and I are one:
 Sweet flattery! then she loves but me alone.`,
-    themes: ["yearning","unrequited love","union of speaker and beloved","indifference of beloved","loss"],
+    themes: ["yearning","unrequited love","union of speaker and beloved","indifference of beloved","loss","feigned acceptance"],
     imagery: ["weeping"],
     characters: ["Fair Youth","Other Female"]
   },
@@ -855,7 +855,7 @@ When in dead night thy fair imperfect shade
 Through heavy sleep on sightless eyes doth stay!
 All days are nights to see till I see thee,
 And nights bright days when dreams do show thee me.`,
-    themes: [],
+    themes: ["imagination","yearning"],
     imagery: ["sleep","dreams","day","night","time of day","darkness","shadow","brightness"],
     characters: ["Fair Youth"]
   },
@@ -876,7 +876,7 @@ I must attend time’s leisure with my moan,
 Receiving naught by elements so slow
 But heavy tears, badges of either’s woe.`,
     themes: ["material vs. ideal world","distance","imagination"],
-    imagery: ["tears"],
+    imagery: ["tears","earth","foot","ocean"],
     characters: ["Fair Youth"]
   },
   {
@@ -895,8 +895,8 @@ Who even but now come back again assured
 Of thy fair health, recounting it to me.
 This told, I joy, but then no longer glad,
 I send them back again and straight grow sad.`,
-    themes: ["material vs. ideal world","distance"],
-    imagery: [],
+    themes: ["material vs. ideal world","distance","vacillation of moods"],
+    imagery: ["fire"],
     characters: ["Fair Youth"]
   },
   {
@@ -915,7 +915,7 @@ And by their verdict is determinèd
 The clear eye’s moiety and the dear heart’s part,
 As thus: mine eye’s due is thy outward part,
 And my heart’s right thy inward love of heart.`,
-    themes: ["immortality","possession","beauty"],
+    themes: ["immortality","possession","beauty","eye vs. heart"],
     imagery: ["eyes","heart","war","legal system"],
     characters: ["Fair Youth"]
   },
@@ -935,9 +935,9 @@ For thou not farther than my thoughts canst move,
 And I am still with them, and they with thee;
 Or if they sleep, thy picture in my sight
 Awakes my heart to heart’s and eye’s delight.`,
-    themes: ["distance","imagination"],
-    imagery: ["feasting","eyes","heart","sleep","dreams"],
-    characters: []
+    themes: ["distance","imagination","eye vs. heart","pleasure","yearning"],
+    imagery: ["feasting","eyes","heart","sleep","dreams","painting"],
+    characters: ["Fair Youth"]
   },
   {
     number: 48,
@@ -955,8 +955,8 @@ Within the gentle closure of my breast,
 From whence at pleasure thou mayst come and part;
 And even thence thou wilt be stol’n, I fear,
 For truth proves thievish for a prize so dear.`,
-    themes: ["possession","grief","unrequited love","theft"],
-    imagery: ["lockbox","gems"],
+    themes: ["possession","grief","unrequited love","theft","safe-keeping","loss","indifference of beloved"],
+    imagery: ["lockbox","gems","hand","body parts"],
     characters: ["Fair Youth"]
   },
   {
@@ -975,8 +975,8 @@ And this my hand against myself uprear,
 To guard the lawful reasons on thy part: 
 To leave poor me thou hast the strength of laws,
 Since why to love I can allege no cause.`,
-    themes: ["unrequited love"],
-    imagery: ["legal system","eyes","sun"],
+    themes: ["unrequited love","indifference of beloved","self-denigration","loss"],
+    imagery: ["legal system","eyes","sun","accounting/tallying","face","body parts","hand"],
     characters: ["Fair Youth"]
   },
   {
@@ -995,7 +995,7 @@ Which heavily he answers with a groan,
 More sharp to me than spurring to his side;
 For that same groan doth put this in my mind:
 My grief lies onward and my joy behind.`,
-    themes: ["travail","distance","yearning"],
+    themes: ["travail","distance","yearning","cruelty","separation"],
     imagery: ["beast of burden","blood"],
     characters: ["Fair Youth"]
   },
@@ -1015,8 +1015,8 @@ Shall neigh--no dull flesh--in his fiery race;
 But love, for love, thus shall excuse my jade,--
 ’Since from thee going, he went wilful-slow,
 Towards thee I’ll run, and give him leave to go.’`,
-    themes: ["distance"],
-    imagery: ["beast of burden"],
+    themes: ["distance","travail","imagination"],
+    imagery: ["beast of burden","wind","animals"],
     characters: ["Fair Youth"]
   },
   {
