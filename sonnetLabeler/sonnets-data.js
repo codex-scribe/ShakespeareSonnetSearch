@@ -35,7 +35,7 @@ Shall sum my count, and make my old excuse,”
 Proving his beauty by succession thine.
 This were to be new made when thou art old,
 And see thy blood warm when thou feel’st it cold.`,
-    themes: ["beauty","imperative to procreation","immortality","youth","old age"],
+    themes: ["beauty","imperative to procreation","immortality","youth","old age","the future"],
     imagery: ["winter","seasons","brow","face","clothing","eyes","blood","body parts","wrinkles","heat","cold"],
     characters: ["Fair Youth"]
   },
@@ -53,7 +53,7 @@ Thou art thy mother’s glass, and she in thee
 Calls back the lovely April of her prime;
 So thou through windows of thine age shalt see,
 Despite of wrinkles, this thy golden time.
-But if thou live rememb'red not to be,
+But if thou live remembered not to be,
 Die single, and thine image dies with thee.`,
     themes: ["imperative to procreation","mortality","beauty","passage of time","old age"],
     imagery: ["mirror","face","months","April","spring","seasons","gold","wrinkles","body parts","farming","grave/tomb","motherhood"],
@@ -88,7 +88,7 @@ And that unfair which fairly doth excel;
 For never-resting time leads summer on
 To hideous winter and confounds him there,
 Sap checked with frost and lusty leaves quite gone,
-Beauty o’ersnowed and bareness every where:
+Beauty o’ersnowed and bareness everywhere:
 Then were not summer’s distillation left
 A liquid prisoner pent in walls of glass,
 Beauty’s effect with beauty were bereft,
@@ -131,7 +131,7 @@ Yet mortal looks adore his beauty still,
 Attending on his golden pilgrimage:
 But when from highmost pitch, with weary car
 Like feeble age he reeleth from the day,
-The eyes (fore duteous) now converted are
+The eyes, 'fore duteous, now converted are
 From his low tract and look another way:
 So thou, thyself outgoing in thy noon,
 Unlooked on diest unless thou get a son.`,
@@ -233,7 +233,7 @@ Then of thy beauty do I question make
 That thou among the wastes of time must go,
 Since sweets and beauties do themselves forsake
 And die as fast as they see others grow,
-And nothing ’gainst Time’s scythe can make defense
+And nothing ’gainst Time’s scythe can make defence
 Save breed to brave him, when he takes thee hence.`,
     themes: ["passage of time","abundance","beauty","mortality","imperative to procreation"],
     imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barrenness (trees)","heat","summer","seasons","animals","crops","body parts","hair","gray","black","green","white","silver","farming","colors","scythe"],
@@ -335,7 +335,7 @@ And your true rights be termed a poet’s rage
 And stretchèd meter of an antique song:
 But were some child of yours alive that time,
 You should live twice, in it and in my rhyme.`,
-    themes: ["beauty","old age","imperative to procreation","decay","the future","inadequacy of verse","writing","immortality through verse","truth"],
+    themes: ["beauty","old age","imperative to procreation","decay","the future","inadequacy of verse","writing","immortality through verse","truth","passage of time"],
     imagery: ["verse","grave/tomb","body parts","eyes","face","yellow","heaven","colors","tongues"],
     characters: ["Fair Youth"]
   },
@@ -495,7 +495,7 @@ Is from the book of honor razèd quite,
 And all the rest forgot for which he toiled:
 Then happy I that love and am belovèd
 Where I may not remove, nor be removèd.`,
-    themes: ["fate/fortune","fame"],
+    themes: ["fate/fortune","fame","requited love"],
     imagery: ["stars","flowers","marigold","sun","royalty","frown"],
     characters: ["Fair Youth"]
   },
@@ -536,7 +536,7 @@ Makes black night beauteous, and her old face new.
 Lo thus by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
     themes: ["travail","imagination","torture"],
-    imagery: ["night","darkness","gems","black","colors","sleep","eyes","face"],
+    imagery: ["night","darkness","gems","black","colors","sleep","eyes"],
     characters: ["Fair Youth"]
   },
   {
@@ -570,12 +570,12 @@ Featured like him, like him with friends possessed,
 Desiring this man’s art, and that man’s scope,
 With what I most enjoy contented least;
 Yet in these thoughts myself almost despising,
-Haply I think on thee, and then my state
-(Like to the lark at break of day arising
-From sullen earth) sings hymns at heaven’s gate,
+Haply I think on thee, and then my state,
+Like to the lark at break of day arising
+From sullen earth, sings hymns at heaven’s gate,
 For thy sweet love remembered such wealth brings
 That then I scorn to change my state with kings.`,
-    themes: ["fate/fortune","memory","redemption"],
+    themes: ["fate/fortune","memory","redemption","ill reputation","disgrace"],
     imagery: ["weeping","heaven","birds","animals","lark","dawn","kings","wealth","singing","royalty"],
     characters: ["Fair Youth"]
   },
@@ -585,7 +585,7 @@ That then I scorn to change my state with kings.`,
 I summon up remembrance of things past,
 I sigh the lack of many a thing I sought,
 And with old woes new wail my dear time’s waste;
-Then can I drown an eye (unused to flow)
+Then can I drown an eye, unused to flow,
 For precious friends hid in death’s dateless night,
 And weep afresh love’s long since cancelled woe,
 And moan th’expense of many a vanished sight.
@@ -593,9 +593,9 @@ Then can I grieve at grievances foregone,
 And heavily from woe to woe tell o’er
 The sad account of fore-bemoanèd moan,
 Which I new pay as if not paid before.
-But if the while I think on thee (dear friend)
+But if the while I think on thee, dear friend,
 All losses are restored, and sorrows end.`,
-    themes: ["memory","waste","mortality","passage of time","grief","redemption"],
+    themes: ["memory","waste","mortality","passage of time","grief","redemption","the past"],
     imagery: ["weeping","night","legal system","accounting/tallying"],
     characters: ["Fair Youth"]
   },
@@ -635,7 +635,7 @@ A dearer birth than this his love had brought
 To march in ranks of better equipage:
 But since he died and poets better prove,
 Theirs for their style I’ll read, his for his love”.`,
-    themes: ["mortality","passage of time","self-denigration","writing","inadequacy of verse"],
+    themes: ["mortality","passage of time","self-denigration","writing","inadequacy of verse","the future"],
     imagery: ["verse","bones"],
     characters: ["Rival Poet","Fair Youth","Muse"]
   },
@@ -672,7 +672,7 @@ That heals the wound, and cures not the disgrace:
 Nor can thy shame give physic to my grief;
 Though thou repent, yet I have still the loss:
 The offender’s sorrow lends but weak relief
-To him that bears the strong offense’s cross. 
+To him that bears the strong offence’s cross. 
 Ah, but those tears are pearl which thy love sheds,
 And they are rich and ransom all ill deeds.`,
     themes: ["disappointment","healing/medicine","disgrace","redemption","unrequited love","beauty","grief","transgressions","ill reputation","forgiveness"],
@@ -735,7 +735,7 @@ That I in thy abundance am sufficed,
 And by a part of all thy glory live:
 Look what is best, that best I wish in thee;
 This wish I have, then ten times happy me.`,
-    themes: ["youth","fate/fortune","disgrace","beauty","unrequited love","abundance","old age","union of speaker and beloved","self-denigration"],
+    themes: ["youth","fate/fortune","disgrace","beauty","unrequited love","abundance","old age","union of speaker and beloved","self-denigration","decay"],
     imagery: ["fatherhood","wealth","shadow","royalty","child","crown"],
     characters: ["Fair Youth"]
   },
@@ -788,7 +788,7 @@ All mine was thine, before thou hadst this more.
 Then if for my love thou my love receivest,
 I cannot blame thee, for my love thou usest;
 But yet be blamed, if thou this self deceivest
-By wilful taste of what thyself refusest.
+By willful taste of what thyself refusest.
 I do forgive thy robb’ry, gentle thief,
 Although thou steal thee all my poverty;
 And yet love knows it is a greater grief
@@ -815,8 +815,8 @@ Who lead thee in their riot even there
 Where thou art forced to break a twofold truth:
 Hers, by thy beauty tempting her to thee,
 Thine, by thy beauty being false to me.`,
-    themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love","feigned acceptance","truth"],
-    imagery: [],
+    themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love","feigned acceptance","truth","temptation"],
+    imagery: ["sourness"],
     characters: ["Fair Youth"]
   },
   {
@@ -1002,200 +1002,200 @@ My grief lies onward and my joy behind.`,
   {
     number: 51,
     text: `Thus can my love excuse the slow offence
-Of my dull bearer when from thee I speed:
-From where thou art why should I haste me thence?
+Of my dull bearer, when from thee I speed:
+From where thou art, why should I haste me thence?
 Till I return, of posting is no need.
-O! what excuse will my poor beast then find,
+O what excuse will my poor beast then find,
 When swift extremity can seem but slow?
-Then should I spur, though mounted on the wind,
-In winged speed no motion shall I know,
+Then should I spur though mounted on the wind,
+In wingèd speed no motion shall I know:
 Then can no horse with my desire keep pace;
-Therefore desire, of perfect’st love being made,
-Shall neigh--no dull flesh--in his fiery race;
-But love, for love, thus shall excuse my jade,--
-’Since from thee going, he went wilful-slow,
-Towards thee I’ll run, and give him leave to go.’`,
+Therefore desire (of perfect’st love being made)
+Shall weigh no dull flesh in his fiery race;
+But love, for love, thus shall excuse my jade,
+Since from thee going, he went willful slow,
+Towards thee I’ll run, and give him leave to go.`,
     themes: ["distance","travail","imagination"],
     imagery: ["beast of burden","wind","animals"],
     characters: ["Fair Youth"]
   },
   {
     number: 52,
-    text: `So am I as the rich, whose blessed key,
-Can bring him to his sweet up-locked treasure,
+    text: `So am I as the rich, whose blessèd key
+Can bring him to his sweet up-lockèd treasure,
 The which he will not every hour survey,
-For blunting the fine point of seldom pleasure. 
+For blunting the fine point of seldom pleasure.
 Therefore are feasts so solemn and so rare,
-Since, seldom coming in that long year set,
-Like stones of worth they thinly placed are,
+Since, seldom coming in the long year set,
+Like stones of worth they thinly placèd are,
 Or captain jewels in the carcanet.
 So is the time that keeps you as my chest,
 Or as the wardrobe which the robe doth hide,
-To make some special instant special-blest,
-By new unfolding his imprison’d pride.
-Blessed are you whose worthiness gives scope,
-Being had, to triumph; being lacked, to hope.`,
-    themes: ["possession"],
-    imagery: ["wealth","lockbox","treasure","feasting","gems","clothing","prison"],
+To make some special instant special blest,
+By new unfolding his imprisoned pride.
+Blessèd are you whose worthiness gives scope,
+Being had, to triumph, being lacked, to hope.`,
+    themes: ["possession","safe-keeping","yearning","pleasure"],
+    imagery: ["wealth","lockbox","treasure","feasting","gems","clothing","prison","sharpness"],
     characters: ["Fair Youth"]
   },
   {
     number: 53,
     text: `What is your substance, whereof are you made,
 That millions of strange shadows on you tend?
-Since every one, hath every one, one shade,
-And you but one, can every shadow lend.
+Since every one hath, every one, one shade,
+And you, but one, can every shadow lend:
 Describe Adonis, and the counterfeit
 Is poorly imitated after you;
 On Helen’s cheek all art of beauty set,
-And you in Grecian tires are painted new: 
-Speak of the spring, and foison of the year,
+And you in Grecian tires are painted new; 
+Speak of the spring and foison of the year:
 The one doth shadow of your beauty show,
-The other as your bounty doth appear;
-And you in every blessed shape we know.
+The other as your bounty doth appear,
+And you in every blessèd shape we know.
 In all external grace you have some part,
 But you like none, none you, for constant heart.`,
-    themes: ["beauty","abundance","faithfulness","virtue"],
+    themes: ["beauty","abundance","faithfulness","virtue","material vs. ideal world"],
     imagery: ["mythology","shadow","seasons","spring","heart","cheek","clothing"],
     characters: ["Fair Youth"]
   },
   {
     number: 54,
-    text: `O! how much more doth beauty beauteous seem
-By that sweet ornament which truth doth give.
+    text: `O how much more doth beauty beauteous seem
+By that sweet ornament which truth doth give!
 The rose looks fair, but fairer we it deem
 For that sweet odour, which doth in it live.
 The canker blooms have full as deep a dye
-As the perfumed tincture of the roses.
-Hang on such thorns, and play as wantonly
-When summer’s breath their masked buds discloses:
-But, for their virtue only is their show,
-They live unwoo’d, and unrespected fade;
-Die to themselves. Sweet roses do not so;
-Of their sweet deaths, are sweetest odours made: 
+As the perfumèd tincture of the roses,
+Hang on such thorns, and play as wantonly,
+When summer’s breath their maskèd buds discloses;
+But for their virtue only is their show,
+They live unwooed, and unrespected fade,
+Die to themselves.  Sweet roses do not so,
+Of their sweet deaths are sweetest odours made: 
 And so of you, beauteous and lovely youth,
-When that shall vade, by verse distills your truth.`,
-    themes: ["beauty","truth","virtue","youth","immortality through verse"],
-    imagery: ["flowers","rose","perfume","thorns","odors","verse","canker flower"],
+When that shall vade, my verse distills your truth.`,
+    themes: ["beauty","truth","virtue","youth","immortality through verse","mortality"],
+    imagery: ["flowers","rose","perfume","thorns","odors","verse","canker flower","dye"],
     characters: ["Fair Youth"]
   },
   {
     number: 55,
-    text: `Not marble, nor the gilded monuments
-Of princes, shall outlive this powerful rhyme;
-But you shall shine more bright in these contents
-Than unswept stone, besmear’d with sluttish time.
+    text: `Not marble nor the gilded monuments
+Of princes shall outlive this powerful rhyme,
+But you shall shine more bright in these contènts
+Than unswept stone, besmeared with sluttish time.
 When wasteful war shall statues overturn,
 And broils root out the work of masonry,
-Nor Mars his sword, nor war’s quick fire shall burn
+Nor Mars his sword nor war’s quick fire shall burn
 The living record of your memory.
-’Gainst death, and all-oblivious enmity
+’Gainst death and all oblivious enmity
 Shall you pace forth; your praise shall still find room
 Even in the eyes of all posterity
 That wear this world out to the ending doom.
-So, till the judgment that yourself arise,
+So, till the Judgment that your self arise,
 You live in this, and dwell in lovers’ eyes.`,
-    themes: ["immortality through verse","immortality","mortality","passage of time","decay","the future"],
-    imagery: ["royalty","verse","brightness","war","statues","fire","mythology","eyes","end of the world","swords"],
+    themes: ["immortality through verse","immortality","mortality","passage of time","decay","the future","world in decline","memory"],
+    imagery: ["royalty","verse","brightness","war","statues","fire","mythology","eyes","end of the world","swords","marble","monuments"],
     characters: ["Fair Youth"]
   },
   {
     number: 56,
-    text: `Sweet love, renew thy force; be it not said
+    text: `Sweet love, renew thy force, be it not said
 Thy edge should blunter be than appetite,
-Which but to-day by feeding is allay’d,
-To-morrow sharpened in his former might:
-So, love, be thou, although to-day thou fill
-Thy hungry eyes, even till they wink with fulness,
-To-morrow see again, and do not kill
-The spirit of love, with a perpetual dulness.
+Which but today by feeding is allayed,
+Tomorrow sharpened in his former might.
+So, love, be thou:  although today thou fill
+Thy hungry eyes even till they wink with fulless,
+Tomorrow see again, and do not kill
+The spirit of love with a perpetual dullness:
 Let this sad interim like the ocean be
 Which parts the shore, where two contracted new
 Come daily to the banks, that when they see
 Return of love, more blest may be the view;
-Or call it winter, which being full of care,
+As call it winter, which being full of care,
 Makes summer’s welcome, thrice more wished, more rare.`,
-    themes: ["separation"],
-    imagery: ["eyes","feasting","ocean","winter","seasons","summer","swords"],
+    themes: ["separation","distance"],
+    imagery: ["eyes","feasting","ocean","winter","seasons","summer","swords","sharpness"],
     characters: ["Fair Youth"]
   },
   {
     number: 57,
-    text: `Being your slave what should I do but tend,
-Upon the hours, and times of your desire?
-I have no precious time at all to spend;
-Nor services to do, till you require. 
-Nor dare I chide the world-without-end hour,
+    text: `Being your slave, what should I do but tend
+Upon the hours and times of your desire?
+I have no precious time at all to spend,
+Nor services to do till you require.
+Nor dare I chide the world-without-end hour
 Whilst I, my sovereign, watch the clock for you,
-Nor think the bitterness of absence sour,
-When you have bid your servant once adieu;
+Nor think the bitterness of absence sour
+When you have bid your servant once adieu.
 Nor dare I question with my jealous thought
 Where you may be, or your affairs suppose,
 But, like a sad slave, stay and think of nought
-Save, where you are, how happy you make those.
-So true a fool is love, that in your will,
+Save where you are how happy you make those.
+So true a fool is love that in your will,
 Though you do anything, he thinks no ill.`,
-    themes: ["unrequited love","self-denigration","yearning","duty/subservience","slavery","separation"],
-    imagery: ["tastes"],
+    themes: ["unrequited love","self-denigration","yearning","duty/subservience","slavery","separation","jealousy","abnegation of wants"],
+    imagery: ["tastes","sourness","bitterness","clock"],
     characters: ["Fair Youth"]
   },
   {
     number: 58,
     text: `That god forbid, that made me first your slave,
 I should in thought control your times of pleasure,
-Or at your hand the account of hours to crave,
-Being your vassal, bound to stay your leisure!
-O! let me suffer, being at your beck,
-The imprison’d absence of your liberty;
+Or at your hand th'account of hours to crave,
+Being your vassal bound to stay your leisure.
+O let me suffer, being at your beck,
+Th'imprisoned absence of your liberty,
 And patience, tame to sufferance, bide each check,
-Without accusing you of injury. 
+Without accusing you of injury.
 Be where you list, your charter is so strong
-That you yourself may privilage your time
+That you yourself may privilege your time
 To what you will; to you it doth belong
 Yourself to pardon of self-doing crime.
 I am to wait, though waiting so be hell,
-Not blame your pleasure be it ill or well.`,
-    themes: ["slavery","duty/subservience","transgressions"],
+Not blame your pleasure, be it ill or well.`,
+    themes: ["slavery","duty/subservience","transgressions","abnegation of wants","jealousy"],
     imagery: ["prison","god","hell"],
     characters: ["Fair Youth"]
   },
   {
     number: 59,
     text: `If there be nothing new, but that which is
-Hath been before, how are our brains beguil’d,
-Which labouring for invention bear amiss
+Hath been before, how are our brains beguiled,
+Which, labouring for invention, bear amiss
 The second burthen of a former child!
-O! that record could with a backward look,
+O that recórd could with a backward look,
 Even of five hundred courses of the sun,
 Show me your image in some antique book,
-Since mind at first in character was done!
+Since mind at first in character was done,
 That I might see what the old world could say
-To this composed wonder of your frame;
-Wh’r we are mended, or wh’r better they,
+To this composèd wonder of your frame:
+Whether we are mended, or whe’er better they,
 Or whether revolution be the same. 
-O! sure I am the wits of former days,
+O sure I am the wits of former days
 To subjects worse have given admiring praise.`,
-    themes: ["writing","beauty"],
-    imagery: ["books","verse","sun"],
+    themes: ["writing","beauty","the past"],
+    imagery: ["books","verse","sun","child"],
     characters: ["Fair Youth"]
   },
   {
     number: 60,
     text: `Like as the waves make towards the pebbled shore,
-So do our minutes hasten to their end;
+So do our minutes hasten to their end,
 Each changing place with that which goes before,
 In sequent toil all forwards do contend.
 Nativity, once in the main of light,
-Crawls to maturity, wherewith being crown’d,
-Crooked eclipses ’gainst his glory fight,
+Crawls to maturity, wherewith being crowned,
+Crookèd eclipses ’gainst his glory fight,
 And Time that gave doth now his gift confound.
-Time doth transfix the flourish set on youth
+Time doth transfix the flourish set on youth,
 And delves the parallels in beauty’s brow,
 Feeds on the rarities of nature’s truth,
-And nothing stands but for his scythe to mow:
-And yet to times in hope, my verse shall stand.
+And nothing stands but for his scythe to mow.
+And yet to times in hope my verse shall stand
 Praising thy worth, despite his cruel hand.`,
-    themes: ["mortality","passage of time","possession","loss","youth","immortality through verse"],
+    themes: ["mortality","passage of time","possession","loss","youth","immortality through verse","decay","growth"],
     imagery: ["ocean","birth","wrinkles","brow","scythe","verse","rocks"],
     characters: ["Fair Youth"]
   },
