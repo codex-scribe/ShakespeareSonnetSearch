@@ -211,7 +211,7 @@ If all were minded so, the times should cease,
 And threescore year would make the world away.
 Let those whom Nature hath not made for store,
 Harsh, featureless, and rude, barrenly perish:
-Look, whom she best endowed she gave the more;
+Look whom she best endowed she gave the more;
 Which bounteous gift thou shouldst in bounty cherish:
 She carved thee for her seal, and meant thereby
 Thou shouldst print more, not let that copy die.`,
@@ -241,7 +241,7 @@ Save breed to brave him, when he takes thee hence.`,
   },
   {
     number: 13,
-    text: `O that you were your self! but, love, you are
+    text: `O that you were your self, but, love, you are
 No longer yours than you yourself here live;
 Against this coming end you should prepare,
 And your sweet semblance to some other give:
@@ -253,7 +253,7 @@ Who lets so fair a house fall to decay,
 Which husbandry in honor might uphold
 Against the stormy gusts of winter’s day
 And barren rage of death’s eternal cold?
-O none but unthrifts:  dear my love, you know
+O none but unthrifts: dear my love, you know
 You had a father, let your son say so.`,
     themes: ["mortality","imperative to procreation","beauty","lending/debt","waste"],
     imagery: ["house","cold","winter","weather","storms","wind"],
@@ -286,7 +286,7 @@ Holds in perfection but a little moment,
 That this huge stage presenteth nought but shows
 Whereon the stars in secret influence comment;
 When I perceive that men as plants increase,
-Cheerèd and checked even by the selfsame sky,
+Cheered and checked even by the selfsame sky,
 Vaunt in their youthful sap, at height decrease,
 And wear their brave state out of memory:
 Then the conceit of this inconstant stay
@@ -294,7 +294,7 @@ Sets you most rich in youth before my sight,
 Where wasteful Time debateth with Decay
 To change your day of youth to sullied night,
 And all in war with Time for love of you,
-As he takes from you, I ingraft you new.`,
+As he takes from you, I engraft you new.`,
     themes: ["abundance","passage of time","old age","youth","decay","growth","fate/fortune","immortality through verse"],
     imagery: ["stars","day","night","war","sap","time of day"],
     characters: ["Fair Youth"]
@@ -329,7 +329,7 @@ If I could write the beauty of your eyes,
 And in fresh numbers number all your graces,
 The age to come would say, “This poet lies;
 Such heavenly touches ne’er touched earthly faces.”
-So should my papers (yellowed with their age)
+So should my papers, yellowed with their age,
 Be scorned, like old men of less truth than tongue,
 And your true rights be termed a poet’s rage
 And stretchèd meter of an antique song:
@@ -368,7 +368,7 @@ And burn the long-lived phoenix in her blood,
 Make glad and sorry seasons as thou fleet’st,
 And do whate’er thou wilt, swift-footed Time,
 To the wide world and all her fading sweets:
-But I forbid thee one most heinous crime,
+But I forbid thee one most heinous crime:
 O carve not with thy hours my love’s fair brow,
 Nor draw no lines there with thine antique pen;
 Him in thy course untainted do allow
@@ -395,7 +395,7 @@ And by addition me of thee defeated,
 By adding one thing to my purpose nothing.
 But since she pricked thee out for women’s pleasure,
 Mine be thy love, and thy love’s use their treasure.`,
-    themes: ["theft","deception","sexuality","possession","beauty"],
+    themes: ["theft","deception","sexuality","possession","beauty","changefulness"],
     imagery: ["body parts","face","heart","eyes","gaze","painting","hand","treasure"],
     characters: ["Fair Youth"]
   },
@@ -996,7 +996,7 @@ More sharp to me than spurring to his side;
 For that same groan doth put this in my mind:
 My grief lies onward and my joy behind.`,
     themes: ["travail","distance","yearning","cruelty","separation"],
-    imagery: ["beast of burden","blood"],
+    imagery: ["beast of burden","blood","heaviness"],
     characters: ["Fair Youth"]
   },
   {
@@ -1071,7 +1071,7 @@ Hang on such thorns, and play as wantonly,
 When summer’s breath their maskèd buds discloses;
 But for their virtue only is their show,
 They live unwooed, and unrespected fade,
-Die to themselves.  Sweet roses do not so,
+Die to themselves. Sweet roses do not so,
 Of their sweet deaths are sweetest odours made: 
 And so of you, beauteous and lovely youth,
 When that shall vade, my verse distills your truth.`,
@@ -1105,7 +1105,7 @@ You live in this, and dwell in lovers’ eyes.`,
 Thy edge should blunter be than appetite,
 Which but today by feeding is allayed,
 Tomorrow sharpened in his former might.
-So, love, be thou:  although today thou fill
+So, love, be thou: although today thou fill
 Thy hungry eyes even till they wink with fulless,
 Tomorrow see again, and do not kill
 The spirit of love with a perpetual dullness:
@@ -1201,7 +1201,7 @@ Praising thy worth, despite his cruel hand.`,
   },
   {
     number: 61,
-    text: `Is it thy will, thy image should keep open
+    text: `Is it thy will thy image should keep open
 My heavy eyelids to the weary night?
 Dost thou desire my slumbers should be broken,
 While shadows like to thee do mock my sight?
@@ -1209,10 +1209,10 @@ Is it thy spirit that thou send’st from thee
 So far from home into my deeds to pry,
 To find out shames and idle hours in me,
 The scope and tenure of thy jealousy?
-O, no! thy love, though much, is not so great:
-It is my love that keeps mine eye awake:
+O no, thy love, though much, is not so great;
+It is my love that keeps mine eye awake,
 Mine own true love that doth my rest defeat,
-To play the watchman ever for thy sake:
+To play the watchman ever for thy sake.
 For thee watch I, whilst thou dost wake elsewhere,
 From me far off, with others all too near.`,
     themes: ["distance","unrequited love","yearning","indifference of beloved"],
@@ -1221,19 +1221,19 @@ From me far off, with others all too near.`,
   },
   {
     number: 62,
-    text: `Sin of self-love possesseth all mine eye
+    text: `Sin of self-love possesseth all mine eye,
 And all my soul, and all my every part;
 And for this sin there is no remedy,
 It is so grounded inward in my heart.
 Methinks no face so gracious is as mine,
-No shape so true, no truth of such account;
+No shape so true, no truth of such account,
 And for myself mine own worth do define,
 As I all other in all worths surmount.
-But when my glass shows me myself indeed
-Beated and chopp’d with tanned antiquity,
+But when my glass shows me myself indeed,
+Beated and chopped with tanned antiquity,
 Mine own self-love quite contrary I read;
 Self so self-loving were iniquity.
-’Tis thee,--myself,--that for myself I praise,
+’Tis thee (my self) that for myself I praise,
 Painting my age with beauty of thy days.`,
     themes: ["transgressions","truth","old age"],
     imagery: ["heart","face","mirror","wrinkles","painting"],
@@ -1242,17 +1242,17 @@ Painting my age with beauty of thy days.`,
   {
     number: 63,
     text: `Against my love shall be as I am now,
-With Time’s injurious hand crush’d and o’erworn;
-When hours have drain’d his blood and fill’d his brow
-With lines and wrinkles; when his youthful morn
-Hath travell’d on to age’s steepy night;
+With Time’s injurious hand crushed and o’erworn;
+When hours have drained his blood and filled his brow
+With lines and wrinkles, when his youthful morn
+Hath travelled on to Age’s steepy night,
 And all those beauties whereof now he’s king
 Are vanishing, or vanished out of sight,
 Stealing away the treasure of his spring; 
 For such a time do I now fortify
 Against confounding age’s cruel knife,
 That he shall never cut from memory
-My sweet love’s beauty, though my lover’s life:
+My sweet love’s beauty, though my lover’s life.
 His beauty shall in these black lines be seen,
 And they shall live, and he in them still green.`,
     themes: ["decay","old age","youth","theft","immortality through verse","mortality","passage of time"],
@@ -1261,20 +1261,20 @@ And they shall live, and he in them still green.`,
   },
   {
     number: 64,
-    text: `When I have seen by Time’s fell hand defac’d
-The rich-proud cost of outworn buried age;
-When sometime lofty towers I see down-raz’d,
+    text: `When I have seen by Time’s fell hand defaced
+The rich proud cost of outworn buried age,
+When sometime lofty towers I see down razed,
 And brass eternal slave to mortal rage;
 When I have seen the hungry ocean gain
 Advantage on the kingdom of the shore,
 And the firm soil win of the watery main,
 Increasing store with loss, and loss with store;
 When I have seen such interchange of state,
-Or state itself confounded, to decay;
-Ruin hath taught me thus to ruminate--
+Or state itself confounded to decay,
+Ruin hath taught me thus to ruminate
 That Time will come and take my love away. 
 This thought is as a death which cannot choose
-But weep to have, that which it fears to lose.`,
+But weep to have that which it fears to lose.`,
     themes: ["decay","passage of time","mortality","slavery","loss"],
     imagery: ["hand","wealth","ocean","brass","edifices"],
     characters: ["Fair Youth"]
@@ -1285,15 +1285,15 @@ But weep to have, that which it fears to lose.`,
 But sad mortality o’ersways their power,
 How with this rage shall beauty hold a plea,
 Whose action is no stronger than a flower?
-O! how shall summer’s honey breath hold out,
-Against the wrackful siege of battering days,
+O how shall summer’s honey breath hold out
+Against the wrackful siege of batt’ring days,
 When rocks impregnable are not so stout,
-Nor gates of steel so strong but Time decays?
-O fearful meditation! where, alack,
+Nor gates of steel so strong, but Time decays?
+O fearful meditation: where, alack,
 Shall Time’s best jewel from Time’s chest lie hid?
 Or what strong hand can hold his swift foot back?
 Or who his spoil of beauty can forbid?
-O! none, unless this miracle have might,
+O none, unless this miracle have might,
 That in black ink my love may still shine bright.`,
     themes: ["decay","passage of time","mortality","beauty","immortality through verse","immortality"],
     imagery: ["black","flowers","summer","heat","honey","breathing","storms","rocks","brass","edifices","steel","lockbox","gems","hand","foot","brightness"],
@@ -1301,39 +1301,39 @@ That in black ink my love may still shine bright.`,
   },
   {
     number: 66,
-    text: `Tired with all these, for restful death I cry,
+    text: `Tired with all these, for restful death I cry:
 As to behold desert a beggar born,
-And needy nothing trimm’d in jollity,
+And needy nothing trimmed in jollity,
 And purest faith unhappily forsworn,
-And gilded honour shamefully misplac’d,
+And gilded honour shamefully misplaced,
 And maiden virtue rudely strumpeted,
-And right perfection wrongfully disgrac’d,
-And strength by limping sway disabled
+And right perfection wrongfully disgraced,
+And strength by limping sway disablèd,
 And art made tongue-tied by authority,
-And folly--doctor-like--controlling skill,
-And simple truth miscall’d simplicity,
+And folly, doctor-like, controlling skill,
+And simple truth miscalled simplicity,
 And captive good attending captain ill:
-Tir’d with all these, from these would I be gone,
-Save that, to die, I leave my love alone.`,
+Tired with all these, from these would I be gone,
+Save that to die, I leave my love alone.`,
     themes: ["mortality","penury","unfaithfulness","transgressions","shame","virtue","sexuality","disgrace","strength","weakness","injustice","writing","artificiality","tyranny","truth","disappointment","folly","grief","healing/medicine"],
     imagery: ["clothing","gold"],
     characters: ["Fair Youth"]
   },
   {
     number: 67,
-    text: `Ah! wherefore with infection should he live,
+    text: `Ah wherefore with infection should he live,
 And with his presence grace impiety,
 That sin by him advantage should achieve,
 And lace itself with his society? 
 Why should false painting imitate his cheek,
-And steel dead seeming of his living hue?
+And steal dead seeming of his living hue?
 Why should poor beauty indirectly seek
 Roses of shadow, since his rose is true?
 Why should he live, now Nature bankrupt is,
-Beggar’d of blood to blush through lively veins?
+Beggared of blood to blush through lively veins,
 For she hath no exchequer now but his,
-And proud of many, lives upon his gains.
-O! him she stores, to show what wealth she had
+And, ’priv’d of money, lives upon his gains?
+O him she stores, to show what wealth she had
 In days long since, before these last so bad.`,
     themes: ["healing/medicine","transgressions","artificiality","truth","lending/debt","decay","beauty","penury","the past"],
     imagery: ["painting","steel","cheek","flowers","rose","blood","shadow","veins","legal system","wealth","colors"],
@@ -1343,12 +1343,12 @@ In days long since, before these last so bad.`,
     number: 68,
     text: `Thus is his cheek the map of days outworn,
 When beauty lived and died as flowers do now,
-Before these bastard signs of fair were born,
+Before these bastard signs of fair were borne,
 Or durst inhabit on a living brow;
 Before the golden tresses of the dead,
 The right of sepulchres, were shorn away,
 To live a second life on second head;
-Ere beauty’s dead fleece made another gay: 
+Ere beauty’s dead fleece made another gay:
 In him those holy antique hours are seen,
 Without all ornament, itself and true,
 Making no summer of another’s green,
@@ -1363,15 +1363,15 @@ To show false Art what beauty was of yore.`,
     number: 69,
     text: `Those parts of thee that the world’s eye doth view
 Want nothing that the thought of hearts can mend;
-All tongues--the voice of souls--give thee that due,
+All tongues, the voice of souls, give thee that due,
 Uttering bare truth, even so as foes commend.
-Thy outward thus with outward praise is crown’d;
-But those same tongues, that give thee so thine own,
+Thy outward thus with outward praise is crowned;
+But those same tongues that give thee so thine own,
 In other accents do this praise confound
 By seeing farther than the eye hath shown.
 They look into the beauty of thy mind,
 And that in guess they measure by thy deeds;
-Then--churls--their thoughts, although their eyes were kind,
+Then, churls, their thoughts, although their eyes were kind,
 To thy fair flower add the rank smell of weeds: 
 But why thy odour matcheth not thy show,
 The soil is this, that thou dost common grow.`,
@@ -1381,19 +1381,19 @@ The soil is this, that thou dost common grow.`,
   },
   {
     number: 70,
-    text: `That thou art blam’d shall not be thy defect,
+    text: `That thou art blamed shall not be thy defect,
 For slander’s mark was ever yet the fair;
 The ornament of beauty is suspect,
 A crow that flies in heaven’s sweetest air.
 So thou be good, slander doth but approve
-Thy worth the greater being woo’d of time;
+Thy worth the greater being wooed of time,
 For canker vice the sweetest buds doth love,
-And thou present’st a pure unstained prime.
-Thou hast passed by the ambush of young days
-Either not assail’d, or victor being charg’d;
-Yet this thy praise cannot be so thy praise,
-To tie up envy, evermore enlarg’d,
-If some suspect of ill mask’d not thy show,
+And thou present’st a pure unstainèd prime.
+Thou hast passed by the ambush of young days,
+Either not assailed, or victor being charged,
+Yet this thy praise cannot be so thy praise
+To tie up envy, evermore enlarged:
+If some suspect of ill masked not thy show,
 Then thou alone kingdoms of hearts shouldst owe.`,
     themes: ["transgressions","ill reputation","beauty","possession"],
     imagery: ["birds","heaven","buds","canker worm"],
