@@ -442,7 +442,7 @@ Thou gav’st me thine not to give back again.`,
   {
     number: 23,
     text: `As an unperfect actor on the stage,
-Who with his fear is put besides his part,
+Who with his fear is put beside his part,
 Or some fierce thing replete with too much rage,
 Whose strength’s abundance weakens his own heart;
 So I, for fear of trust, forget to say
@@ -482,10 +482,10 @@ They draw but what they see, know not the heart.`,
   {
     number: 25,
     text: `Let those who are in favor with their stars
-Of public honor and proud titles boast,
+Of public honour and proud titles boast,
 Whilst I whom fortune of such triumph bars
-Unlooked for joy in that I honor most.
-Great princes’ favorites their fair leaves spread
+Unlooked for joy in that I honour most.
+Great princes’ favourites their fair leaves spread
 But as the marigold at the sun’s eye,
 And in themselves their pride lies burièd,
 For at a frown they in their glory die.
@@ -508,7 +508,7 @@ To witness duty, not to show my wit;
 Duty so great, which wit so poor as mine
 May make seem bare, in wanting words to show it,
 But that I hope some good conceit of thine
-In thy soul’s thought (all naked) will bestow it,
+In thy soul’s thought, all naked, will bestow it,
 Till whatsoever star that guides my moving
 Points on me graciously with fair aspect,
 And puts apparel on my tattered loving,
@@ -525,13 +525,13 @@ Till then, not show my head where thou mayst prove me.`,
 The dear repose for limbs with travel tired,
 But then begins a journey in my head
 To work my mind, when body’s work’s expired; 
-For then my thoughts (from far where I abide)
+For then my thoughts, from far where I abide,
 Intend a zealous pilgrimage to thee,
 And keep my drooping eyelids open wide,
 Looking on darkness which the blind do see:
 Save that my soul’s imaginary sight
 Presents thy shadow to my sightless view,
-Which like a jewel (hung in ghastly night)
+Which, like a jewel hung in ghastly night,
 Makes black night beauteous, and her old face new.
 Lo thus by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
@@ -567,7 +567,7 @@ And trouble deaf heaven with my bootless cries,
 And look upon myself and curse my fate,
 Wishing me like to one more rich in hope,
 Featured like him, like him with friends possessed,
-Desiring this man’s art, and that man’s scope,
+Desiring this man’s art and that man’s scope,
 With what I most enjoy contented least;
 Yet in these thoughts myself almost despising,
 Haply I think on thee, and then my state,
@@ -1404,15 +1404,15 @@ Then thou alone kingdoms of hearts shouldst owe.`,
     text: `No longer mourn for me when I am dead
 Than you shall hear the surly sullen bell
 Give warning to the world that I am fled
-From this vile world with vilest worms to dwell:
+From this vile world with vilest worms to dwell;
 Nay, if you read this line, remember not
 The hand that writ it, for I love you so,
 That I in your sweet thoughts would be forgot,
 If thinking on me then should make you woe.
-O! if,--I say you look upon this verse,
+O if, I say, you look upon this verse,
 When I perhaps compounded am with clay,
-Do not so much as my poor name rehearse;
-But let your love even with my life decay;
+Do not so much as my poor name rehearse,
+But let your love even with my life decay,
 Lest the wise world should look into your moan,
 And mock you with me after I am gone.`,
     themes: ["mortality","writing","forgetting","decay","ill reputation","grief","self-denigration"],
@@ -1421,18 +1421,18 @@ And mock you with me after I am gone.`,
   },
   {
     number: 72,
-    text: `O! lest the world should task you to recite
-What merit lived in me, that you should love
-After my death,--dear love, forget me quite,
+    text: `O lest the world should task you to recite
+What merit lived in me that you should love,
+After my death, dear love, forget me quite,
 For you in me can nothing worthy prove;
-Unless you would devise some virtuous lie,
+Unless you would devise some virtuous lie
 To do more for me than mine own desert,
-And hang more praise upon deceased I
+And hang more praise upon deceasèd I
 Than niggard truth would willingly impart:
-O! lest your true love may seem false in this
+O lest your true love may seem false in this,
 That you for love speak well of me untrue,
 My name be buried where my body is,
-And live no more to shame nor me nor you.
+And live no more to shame nor me nor you:
 For I am shamed by that which I bring forth,
 And so should you, to love things nothing worth.`,
     themes: ["ill reputation","forgetting","mortality","falsehood","virtue","truth","self-denigration","requited love"],
@@ -1444,15 +1444,15 @@ And so should you, to love things nothing worth.`,
     text: `That time of year thou mayst in me behold
 When yellow leaves, or none, or few, do hang
 Upon those boughs which shake against the cold,
-Bare ruin’d choirs, where late the sweet birds sang.
-In me thou see’st the twilight of such day
-As after sunset fadeth in the west;
+Bare ruined choirs where late the sweet birds sang.
+In me thou seest the twilight of such day
+As after sunset fadeth in the west,
 Which by and by black night doth take away,
 Death’s second self, that seals up all in rest. 
-In me thou see’st the glowing of such fire,
+In me thou seest the glowing of such fire
 That on the ashes of his youth doth lie,
-As the death-bed, whereon it must expire,
-Consum’d with that which it was nourish’d by.
+As the death-bed whereon it must expire,
+Consumed with that which it was nourished by.
 This thou perceiv’st, which makes thy love more strong,
 To love that well, which thou must leave ere long.`,
     themes: ["old age","mortality","youth","requited love","loss","passage of time"],
@@ -1461,18 +1461,18 @@ To love that well, which thou must leave ere long.`,
   },
   {
     number: 74,
-    text: `But be contented: when that fell arrest
+    text: `But be contented when that fell arrest
 Without all bail shall carry me away,
 My life hath in this line some interest,
 Which for memorial still with thee shall stay.
 When thou reviewest this, thou dost review
 The very part was consecrate to thee:
 The earth can have but earth, which is his due;
-My spirit is thine, the better part of me:
+My spirit is thine, the better part of me.
 So then thou hast but lost the dregs of life,
-The prey of worms, my body being dead;
+The prey of worms, my body being dead,
 The coward conquest of a wretch’s knife,
-Too base of thee to be remembered.
+Too base of thee to be rememberèd:
 The worth of that is that which it contains,
 And that is this, and this with thee remains.`,
     themes: ["mortality","memory","immortality through verse","material vs. ideal world","requited love"],
@@ -1482,16 +1482,16 @@ And that is this, and this with thee remains.`,
   {
     number: 75,
     text: `So are you to my thoughts as food to life,
-Or as sweet-season’d showers are to the ground;
+Or as sweet-seasoned showers are to the ground;
 And for the peace of you I hold such strife
-As ’twixt a miser and his wealth is found.
+As ’twixt a miser and his wealth is found:
 Now proud as an enjoyer, and anon
 Doubting the filching age will steal his treasure;
 Now counting best to be with you alone,
-Then better’d that the world may see my pleasure:
+Then bettered that the world may see my pleasure:
 Sometime all full with feasting on your sight,
-And by and by clean starved for a look;
-Possessing or pursuing no delight,
+And by and by clean starvèd for a look;
+Possessing or pursuing no delight
 Save what is had, or must from you be took.
 Thus do I pine and surfeit day by day,
 Or gluttoning on all, or all away.`,
@@ -1509,7 +1509,7 @@ Why write I still all one, ever the same,
 And keep invention in a noted weed,
 That every word doth almost tell my name,
 Showing their birth, and where they did proceed?
-O! know sweet love I always write of you,
+O know, sweet love, I always write of you,
 And you and love are still my argument;
 So all my best is dressing old words new,
 Spending again what is already spent:
@@ -1523,15 +1523,15 @@ So is my love still telling what is told.`,
     number: 77,
     text: `Thy glass will show thee how thy beauties wear,
 Thy dial how thy precious minutes waste;
-These vacant leaves thy mind’s imprint will bear,
-And of this book, this learning mayst thou taste. 
+The vacant leaves thy mind’s imprint will bear,
+And of this book, this learning mayst thou taste: 
 The wrinkles which thy glass will truly show
-Of mouthed graves will give thee memory;
+Of mouthèd graves will give thee memory,
 Thou by thy dial’s shady stealth mayst know
 Time’s thievish progress to eternity.
-Look! what thy memory cannot contain,
+Look what thy memory cannot contain
 Commit to these waste blanks, and thou shalt find
-Those children nursed, deliver’d from thy brain,
+Those children nursed, delivered from thy brain,
 To take a new acquaintance of thy mind.
 These offices, so oft as thou wilt look,
 Shall profit thee and much enrich thy book.`,
@@ -1542,17 +1542,17 @@ Shall profit thee and much enrich thy book.`,
   {
     number: 78,
     text: `So oft have I invoked thee for my Muse,
-And found such fair assistance in my verse
-As every alien pen hath got my use
+And found such fair assistance in my verse,
+As every alien pen hath got my use,
 And under thee their poesy disperse.
-Thine eyes, that taught the dumb on high to sing
+Thine eyes, that taught the dumb on high to sing,
 And heavy ignorance aloft to fly,
-Have added feathers to the learned’s wing
+Have added feathers to the learnèd’s wing,
 And given grace a double majesty.
 Yet be most proud of that which I compile,
 Whose influence is thine, and born of thee:
 In others’ works thou dost but mend the style,
-And arts with thy sweet graces graced be;
+And arts with thy sweet graces gracèd be;
 But thou art all my art, and dost advance
 As high as learning, my rude ignorance.`,
     themes: ["beauty","artificiality"],
@@ -1562,17 +1562,17 @@ As high as learning, my rude ignorance.`,
   {
     number: 79,
     text: `Whilst I alone did call upon thy aid,
-My verse alone had all thy gentle grace;
-But now my gracious numbers are decay’d,
-And my sick Muse doth give an other place.
+My verse alone had all thy gentle grace,
+But now my gracious numbers are decayed,
+And my sick Muse doth give another place.
 I grant, sweet love, thy lovely argument
-Deserves the travail of a worthier pen;
+Deserves the travail of a worthier pen,
 Yet what of thee thy poet doth invent
-He robs thee of, and pays it thee again.
+He robs thee of, and pays it thee again:
 He lends thee virtue, and he stole that word
 From thy behaviour; beauty doth he give,
-And found it in thy cheek: he can afford
-No praise to thee, but what in thee doth live. 
+And found it in thy cheek; he can afford
+No praise to thee but what in thee doth live. 
 Then thank him not for that which he doth say,
 Since what he owes thee, thou thyself dost pay.`,
     themes: ["decay","yearning","unrequited love","self-denigration","theft","virtue","beauty","lending/debt","inadequacy of verse"],
@@ -1581,20 +1581,20 @@ Since what he owes thee, thou thyself dost pay.`,
   },
   {
     number: 80,
-    text: `O! how I faint when I of you do write,
+    text: `O how I faint when I of you do write,
 Knowing a better spirit doth use your name,
 And in the praise thereof spends all his might,
-To make me tongue-tied speaking of your fame!
-But since your worth--wide as the ocean is,--
+To make me tongue-tied speaking of your fame.
+But since your worth, wide as the ocean is,
 The humble as the proudest sail doth bear,
 My saucy bark, inferior far to his,
-On your broad main doth wilfully appear.
+On your broad main doth willfully appear.
 Your shallowest help will hold me up afloat,
-Whilst he upon your soundless deep doth ride;
-Or, being wrack’d, I am a worthless boat,
-He of tall building, and of goodly pride:
+Whilst he upon your soundless deep doth ride,
+Or, being wracked, I am a worthless boat,
+He of tall building, and of goodly pride.
 Then if he thrive and I be cast away,
-The worst was this,--my love was my decay.`,
+The worst was this: my love was my decay.`,
     themes: ["writing","self-denigration","decay","unrequited love","inadequacy of verse"],
     imagery: ["ocean","boats"],
     characters: ["Fair Youth","Rival Poet"]
