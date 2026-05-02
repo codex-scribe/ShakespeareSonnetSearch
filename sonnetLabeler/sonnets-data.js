@@ -1615,8 +1615,8 @@ And tongues to be, your being shall rehearse,
 When all the breathers of this world are dead;
 You still shall live,--such virtue hath my pen,--
 Where breath most breathes, even in the mouths of men.`,
-    themes: ["immortality through verse","memory","mortality","immortality","the future","decay"],
-    imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth"],
+    themes: ["immortality through verse","memory","mortality","immortality","the future","decay","separation","strength"],
+    imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth","earth","tongues"],
     characters: ["Fair Youth"]
   },
   {
@@ -1635,8 +1635,8 @@ Thou truly fair, wert truly sympathiz’d
 In true plain words, by thy true-telling friend;
 And their gross painting might be better us’d
 Where cheeks need blood; in thee it is abus’d.`,
-    themes: ["beauty","self-denigration","truth","artificiality","inadequacy of verse"],
-    imagery: ["books","verse","blood","painting"],
+    themes: ["beauty","self-denigration","truth","artificiality","inadequacy of verse","writing","wisdom","worth"],
+    imagery: ["books","verse","blood","painting","paleness"],
     characters: ["Fair Youth","Muse","Rival Poet"]
   },
   {
@@ -1655,7 +1655,7 @@ For I impair not beauty being mute,
 When others would give life, and bring a tomb.
 There lives more life in one of your fair eyes
 Than both your poets can in praise devise.`,
-    themes: ["artificiality","beauty","lending/debt","writing","inadequacy of verse"],
+    themes: ["artificiality","beauty","lending/debt","writing","inadequacy of verse","worth","muteness","sin"],
     imagery: ["painting","pen","grave/tomb","eyes"],
     characters: ["Fair Youth","Rival Poet"]
   },
@@ -1675,7 +1675,7 @@ And such a counterpart shall fame his wit,
 Making his style admired every where.
 You to your beauteous blessings add a curse,
 Being fond on praise, which makes your praises worse.`,
-    themes: ["penury","writing","beauty"],
+    themes: ["penury","writing","beauty","pride"],
     imagery: ["pen","verse"],
     characters: ["Fair Youth"]
   },
@@ -1696,7 +1696,7 @@ Though words come hindmost, holds his rank before.
 Then others, for the breath of words respect,
 Me for my dumb thoughts, speaking in effect.`,
     themes: ["writing","muteness","truth"],
-    imagery: ["verse","gold"],
+    imagery: ["verse","gold","pen","breathing"],
     characters: ["Fair Youth","Muse","Rival Poet"]
   },
   {
@@ -1715,8 +1715,8 @@ As victors of my silence cannot boast;
 I was not sick of any fear from thence:
 But when your countenance fill’d up his line,
 Then lacked I matter; that enfeebled mine.`,
-    themes: ["muteness","unrequited love"],
-    imagery: ["sails","verse","grave/tomb","womb","night"],
+    themes: ["muteness","unrequited love","writing"],
+    imagery: ["sails","verse","grave/tomb","womb","night","boats","sickness","face"],
     characters: ["Rival Poet","Fair Youth"]
   },
   {
@@ -1735,7 +1735,7 @@ So thy great gift, upon misprision growing,
 Comes home again, on better judgement making.
 Thus have I had thee, as a dream doth flatter,
 In sleep a king, but waking no such matter.`,
-    themes: ["possession","loss","worth","unrequited love"],
+    themes: ["possession","loss","worth","unrequited love","gifts"],
     imagery: ["legal system","wealth","dreams","royalty","sleep"],
     characters: ["Fair Youth"]
   },
@@ -1755,7 +1755,7 @@ The injuries that to myself I do,
 Doing thee vantage, double-vantage me.
 Such is my love, to thee I so belong,
 That for thy right, myself will bear all wrong.`,
-    themes: ["self-denigration","ill reputation","transgressions","union of speaker and beloved","unrequited love"],
+    themes: ["self-denigration","ill reputation","transgressions","union of speaker and beloved","unrequited love","falsehood","weakness","possession"],
     imagery: [],
     characters: ["Fair Youth"]
   },
@@ -1775,7 +1775,7 @@ Lest I, too much profane, should do it wrong,
 And haply of our old acquaintance tell. 
 For thee, against my self I’ll vow debate,
 For I must ne’er love him whom thou dost hate.`,
-    themes: ["ill reputation","self-denigration","unrequited love"],
+    themes: ["ill reputation","self-denigration","unrequited love","weakness","hate"],
     imagery: ["tongues"],
     characters: ["Fair Youth"]
   },
@@ -1795,8 +1795,8 @@ But in the onset come: so shall I taste
 At first the very worst of fortune’s might;
 And other strains of woe, which now seem woe,
 Compar’d with loss of thee, will not seem so.`,
-    themes: ["ill reputation","unrequited love","disappointment","loss","fate/fortune"],
-    imagery: ["night","rain"],
+    themes: ["ill reputation","unrequited love","disappointment","loss","fate/fortune","hate","pain"],
+    imagery: ["night","rain","heart","wind","tastes"],
     characters: ["Fair Youth"]
   },
   {
