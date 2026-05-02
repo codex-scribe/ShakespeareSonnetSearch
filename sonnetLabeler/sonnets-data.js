@@ -1415,7 +1415,7 @@ Do not so much as my poor name rehearse,
 But let your love even with my life decay,
 Lest the wise world should look into your moan,
 And mock you with me after I am gone.`,
-    themes: ["mortality","writing","forgetting","decay","ill reputation","grief","self-denigration"],
+    themes: ["mortality","writing","forgetting","decay","ill reputation","grief","self-denigration","mourning"],
     imagery: ["bell","sounds","worms","verse","hand","dirt/soil"],
     characters: ["Fair Youth"]
   },
@@ -1435,7 +1435,7 @@ My name be buried where my body is,
 And live no more to shame nor me nor you:
 For I am shamed by that which I bring forth,
 And so should you, to love things nothing worth.`,
-    themes: ["ill reputation","forgetting","mortality","falsehood","virtue","truth","self-denigration","requited love"],
+    themes: ["ill reputation","forgetting","mortality","falsehood","self-denigration","requited love","worth"],
     imagery: ["grave/tomb"],
     characters: ["Fair Youth"]
   },
@@ -1475,9 +1475,9 @@ The coward conquest of a wretch’s knife,
 Too base of thee to be rememberèd:
 The worth of that is that which it contains,
 And that is this, and this with thee remains.`,
-    themes: ["mortality","memory","immortality through verse","material vs. ideal world","requited love"],
+    themes: ["mortality","memory","immortality through verse","material vs. ideal world","requited love","union of speaker and beloved"],
     imagery: ["verse","worms","knives"],
-    characters: []
+    characters: ["Fair Youth"]
   },
   {
     number: 75,
@@ -1495,8 +1495,8 @@ Possessing or pursuing no delight
 Save what is had, or must from you be took.
 Thus do I pine and surfeit day by day,
 Or gluttoning on all, or all away.`,
-    themes: ["growth","vacillation of moods","theft","possession","jealousy","miserliness"],
-    imagery: ["rain","wealth","treasure","feasting"],
+    themes: ["growth","vacillation of moods","theft","possession","jealousy","miserliness","pleasure","yearning","excess"],
+    imagery: ["rain","wealth","treasure","feasting","sweetness"],
     characters: ["Fair Youth"]
   },
   {
@@ -1536,8 +1536,8 @@ To take a new acquaintance of thy mind.
 These offices, so oft as thou wilt look,
 Shall profit thee and much enrich thy book.`,
     themes: ["beauty","passage of time","decay","old age","memory","theft"],
-    imagery: ["mirror","dial","books","paper","wrinkles","grave/tomb"],
-    characters: []
+    imagery: ["mirror","dial","books","paper","wrinkles","grave/tomb","clock"],
+    characters: ["Fair Youth"]
   },
   {
     number: 78,
@@ -1555,8 +1555,8 @@ In others’ works thou dost but mend the style,
 And arts with thy sweet graces gracèd be;
 But thou art all my art, and dost advance
 As high as learning, my rude ignorance.`,
-    themes: ["beauty","artificiality"],
-    imagery: ["verse","eyes","singing","feathers","flight"],
+    themes: ["beauty","artificiality","muteness","virtue"],
+    imagery: ["verse","eyes","singing","feathers","flight","pen"],
     characters: ["Muse","Fair Youth","Rival Poet"]
   },
   {
@@ -1575,8 +1575,8 @@ And found it in thy cheek; he can afford
 No praise to thee but what in thee doth live. 
 Then thank him not for that which he doth say,
 Since what he owes thee, thou thyself dost pay.`,
-    themes: ["decay","yearning","unrequited love","self-denigration","theft","virtue","beauty","lending/debt","inadequacy of verse"],
-    imagery: ["verse","cheek"],
+    themes: ["yearning","unrequited love","self-denigration","theft","virtue","beauty","lending/debt","inadequacy of verse","decay","travail","writing"],
+    imagery: ["verse","cheek","pen"],
     characters: ["Fair Youth","Muse","Rival Poet"]
   },
   {
@@ -1595,7 +1595,7 @@ Or, being wracked, I am a worthless boat,
 He of tall building, and of goodly pride.
 Then if he thrive and I be cast away,
 The worst was this: my love was my decay.`,
-    themes: ["writing","self-denigration","decay","unrequited love","inadequacy of verse"],
+    themes: ["writing","self-denigration","decay","unrequited love","inadequacy of verse","muteness","worth"],
     imagery: ["ocean","boats"],
     characters: ["Fair Youth","Rival Poet"]
   },
