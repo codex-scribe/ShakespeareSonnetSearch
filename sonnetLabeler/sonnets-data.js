@@ -483,7 +483,7 @@ They draw but what they see, know not the heart.`,
     number: 25,
     text: `Let those who are in favor with their stars
 Of public honour and proud titles boast,
-Whilst I whom fortune of such triumph bars
+Whilst I, whom fortune of such triumph bars,
 Unlooked for joy in that I honour most.
 Great princes’ favourites their fair leaves spread
 But as the marigold at the sun’s eye,
@@ -524,11 +524,11 @@ Till then, not show my head where thou mayst prove me.`,
     text: `Weary with toil, I haste me to my bed,
 The dear repose for limbs with travel tired,
 But then begins a journey in my head
-To work my mind, when body’s work’s expired; 
+To work my mind, when body’s work’s expired: 
 For then my thoughts, from far where I abide,
 Intend a zealous pilgrimage to thee,
 And keep my drooping eyelids open wide,
-Looking on darkness which the blind do see:
+Looking on darkness which the blind do see,
 Save that my soul’s imaginary sight
 Presents thy shadow to my sightless view,
 Which, like a jewel hung in ghastly night,
@@ -545,14 +545,14 @@ For thee, and for myself, no quiet find.`,
 That am debarred the benefit of rest?
 When day’s oppression is not eased by night,
 But day by night and night by day oppressed;
-And each (though enemies to either’s reign)
+And each, though enemies to either’s reign,
 Do in consent shake hands to torture me,
 The one by toil, the other to complain
 How far I toil, still farther off from thee. 
 I tell the day to please him thou art bright,
 And dost him grace when clouds do blot the heaven;
-So flatter I the swart-complexioned night,
-When sparkling stars twire not thou gild’st the even:
+So flatter I the swart-complexioned night:
+When sparkling stars twire not thou gild’st the even.
 But day doth daily draw my sorrows longer,
 And night doth nightly make grief’s strength seem stronger.`,
     themes: ["travail","torture","distance","bargaining"],
@@ -1093,7 +1093,7 @@ The living record of your memory.
 Shall you pace forth; your praise shall still find room
 Even in the eyes of all posterity
 That wear this world out to the ending doom.
-So, till the Judgment that your self arise,
+So, till the Judgement that your self arise,
 You live in this, and dwell in lovers’ eyes.`,
     themes: ["immortality through verse","immortality","mortality","passage of time","decay","the future","world in decline","memory"],
     imagery: ["royalty","verse","brightness","war","statues","fire","mythology","eyes","end of the world","swords","marble","monuments"],
@@ -1602,18 +1602,18 @@ The worst was this: my love was my decay.`,
   {
     number: 81,
     text: `Or I shall live your epitaph to make,
-Or you survive when I in earth am rotten;
+Or you survive when I in earth am rotten,
 From hence your memory death cannot take,
 Although in me each part will be forgotten.
 Your name from hence immortal life shall have,
-Though I, once gone, to all the world must die:
+Though I, once gone, to all the world must die;
 The earth can yield me but a common grave,
-When you entombed in men’s eyes shall lie.
+When you entombèd in men’s eyes shall lie:
 Your monument shall be my gentle verse,
-Which eyes not yet created shall o’er-read;
-And tongues to be, your being shall rehearse,
+Which eyes not yet created shall o’er-read,
+And tongues to be your being shall rehearse,
 When all the breathers of this world are dead;
-You still shall live,--such virtue hath my pen,--
+You still shall live (such virtue hath my pen)
 Where breath most breathes, even in the mouths of men.`,
     themes: ["immortality through verse","memory","mortality","immortality","the future","decay","separation","strength"],
     imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth","earth","tongues"],
@@ -1626,15 +1626,15 @@ And therefore mayst without attaint o’erlook
 The dedicated words which writers use
 Of their fair subject, blessing every book. 
 Thou art as fair in knowledge as in hue,
-Finding thy worth a limit past my praise;
+Finding thy worth a limit past my praise,
 And therefore art enforced to seek anew
 Some fresher stamp of the time-bettering days.
-And do so, love; yet when they have devis’d,
-What strained touches rhetoric can lend,
-Thou truly fair, wert truly sympathiz’d
-In true plain words, by thy true-telling friend;
-And their gross painting might be better us’d
-Where cheeks need blood; in thee it is abus’d.`,
+And do so, love; yet when they have devised
+What strainèd touches rhetoric can lend,
+Thou, truly fair, wert truly sympathised
+In true plain words by thy true-telling friend;
+And their gross painting might be better used
+Where cheeks need blood; in thee it is abused.`,
     themes: ["beauty","self-denigration","truth","artificiality","inadequacy of verse","writing","wisdom","worth"],
     imagery: ["books","verse","blood","painting","paleness"],
     characters: ["Fair Youth","Muse","Rival Poet"]
@@ -1662,13 +1662,13 @@ Than both your poets can in praise devise.`,
   {
     number: 84,
     text: `Who is it that says most, which can say more,
-Than this rich praise,--that you alone, are you?
-In whose confine immured is the store
-Which should example where your equal grew.
+Than this rich praise, that you alone are you?
+In whose confine immurèd is the store
+Which should example where your equal grew?
 Lean penury within that pen doth dwell
-That to his subject lends not some small glory;
+That to his subject lends not some small glory,
 But he that writes of you, if he can tell
-That you are you, so dignifies his story,
+That you are you, so dignifies his story:
 Let him but copy what in you is writ,
 Not making worse what nature made so clear,
 And such a counterpart shall fame his wit,
@@ -1682,18 +1682,18 @@ Being fond on praise, which makes your praises worse.`,
   {
     number: 85,
     text: `My tongue-tied Muse in manners holds her still,
-While comments of your praise richly compil’d,
-Reserve their character with golden quill,
-And precious phrase by all the Muses fil’d.
+While comments of your praise, richly compiled,
+Reserve their character with golden quill
+And precious phrase by all the Muses filed.
 I think good thoughts, whilst others write good words,
-And like unlettered clerk still cry ’Amen’
-To every hymn that able spirit affords,
-In polish’d form of well-refined pen.
-Hearing you praised, I say ’’tis so, ’tis true,’
+And like unlettered clerk still cry “Amen”
+To every hymn that able spirit affords
+In polished form of well-refinèd pen.
+Hearing you praised, I say, “’Tis so, ’tis true,”
 And to the most of praise add something more;
 But that is in my thought, whose love to you,
 Though words come hindmost, holds his rank before.
-Then others, for the breath of words respect,
+Then others for the breath of words respect;
 Me for my dumb thoughts, speaking in effect.`,
     themes: ["writing","muteness","truth"],
     imagery: ["verse","gold","pen","breathing"],
@@ -1705,15 +1705,15 @@ Me for my dumb thoughts, speaking in effect.`,
 Bound for the prize of all too precious you,
 That did my ripe thoughts in my brain inhearse,
 Making their tomb the womb wherein they grew?
-Was it his spirit, by spirits taught to write,
+Was it his spirit, by spirits taught to write
 Above a mortal pitch, that struck me dead?
 No, neither he, nor his compeers by night
-Giving him aid, my verse astonished.
+Giving him aid, my verse astonishèd.
 He, nor that affable familiar ghost
 Which nightly gulls him with intelligence,
 As victors of my silence cannot boast;
-I was not sick of any fear from thence:
-But when your countenance fill’d up his line,
+I was not sick of any fear from thence.
+But when your countenance filled up his line,
 Then lacked I matter; that enfeebled mine.`,
     themes: ["muteness","unrequited love","writing"],
     imagery: ["sails","verse","grave/tomb","womb","night","boats","sickness","face"],
@@ -1721,11 +1721,11 @@ Then lacked I matter; that enfeebled mine.`,
   },
   {
     number: 87,
-    text: `Farewell! thou art too dear for my possessing,
-And like enough thou know’st thy estimate,
+    text: `Farewell, thou art too dear for my possessing,
+And like enough thou know’st thy estimate;
 The charter of thy worth gives thee releasing;
 My bonds in thee are all determinate.
-For how do I hold thee but by thy granting?
+For how do I hold thee but by thy granting,
 And for that riches where is my deserving?
 The cause of this fair gift in me is wanting,
 And so my patent back again is swerving.
@@ -1733,7 +1733,7 @@ Thy self thou gav’st, thy own worth then not knowing,
 Or me to whom thou gav’st it, else mistaking;
 So thy great gift, upon misprision growing,
 Comes home again, on better judgement making.
-Thus have I had thee, as a dream doth flatter,
+Thus have I had thee as a dream doth flatter,
 In sleep a king, but waking no such matter.`,
     themes: ["possession","loss","worth","unrequited love","gifts"],
     imagery: ["legal system","wealth","dreams","royalty","sleep"],
@@ -1741,20 +1741,20 @@ In sleep a king, but waking no such matter.`,
   },
   {
     number: 88,
-    text: `When thou shalt be dispos’d to set me light,
+    text: `When thou shalt be disposed to set me light,
 And place my merit in the eye of scorn,
-Upon thy side, against myself I’ll fight,
-And prove thee virtuous, though thou art forsworn.
-With mine own weakness, being best acquainted,
+Upon thy side against myself I’ll fight,
+And prove thee virtuous, though thou art forsworn:
+With mine own weakness being best acquainted,
 Upon thy part I can set down a story
-Of faults conceal’d, wherein I am attainted;
-That thou in losing me shalt win much glory: 
-And I by this will be a gainer too;
+Of faults concealed wherein I am attainted,
+That thou in losing me shalt win much glory; 
+And I by this will be a gainer too,
 For bending all my loving thoughts on thee,
 The injuries that to myself I do,
 Doing thee vantage, double-vantage me.
 Such is my love, to thee I so belong,
-That for thy right, myself will bear all wrong.`,
+That for thy right myself will bear all wrong.`,
     themes: ["self-denigration","ill reputation","transgressions","union of speaker and beloved","unrequited love","falsehood","weakness","possession"],
     imagery: [],
     characters: ["Fair Youth"]
@@ -1762,18 +1762,18 @@ That for thy right, myself will bear all wrong.`,
   {
     number: 89,
     text: `Say that thou didst forsake me for some fault,
-And I will comment upon that offence:
-Speak of my lameness, and I straight will halt,
+And I will comment upon that offence;
+Speak of my lameness and I straight will halt,
 Against thy reasons making no defence.
-Thou canst not love disgrace me half so ill,
+Thou canst not, love, disgrace me half so ill,
 To set a form upon desired change,
 As I’ll myself disgrace; knowing thy will,
-I will acquaintance strangle, and look strange;
+I will acquaintance strangle, and look strange,
 Be absent from thy walks; and in my tongue
-Thy sweet beloved name no more shall dwell,
+Thy sweet belovèd name no more shall dwell,
 Lest I, too much profane, should do it wrong,
-And haply of our old acquaintance tell. 
-For thee, against my self I’ll vow debate,
+And haply of our old acquaintance tell.
+For thee against my self I’ll vow debate,
 For I must ne’er love him whom thou dost hate.`,
     themes: ["ill reputation","self-denigration","unrequited love","weakness","hate"],
     imagery: ["tongues"],
@@ -1781,20 +1781,20 @@ For I must ne’er love him whom thou dost hate.`,
   },
   {
     number: 90,
-    text: `Then hate me when thou wilt; if ever, now;
-Now, while the world is bent my deeds to cross,
+    text: `Then hate me when thou wilt; if ever, now,
+Now while the world is bent my deeds to cross,
 Join with the spite of fortune, make me bow,
-And do not drop in for an after-loss:
-Ah! do not, when my heart hath ’scap’d this sorrow,
-Come in the rearward of a conquer’d woe;
+And do not drop in for an after-loss.
+Ah do not, when my heart hath ’scaped this sorrow,
+Come in the rearward of a conquered woe;
 Give not a windy night a rainy morrow,
-To linger out a purpos’d overthrow.
+To linger out a purposed overthrow.
 If thou wilt leave me, do not leave me last,
 When other petty griefs have done their spite,
 But in the onset come: so shall I taste
-At first the very worst of fortune’s might;
-And other strains of woe, which now seem woe,
-Compar’d with loss of thee, will not seem so.`,
+At first the very worst of Fortune’s might;
+And other strains of woe which now seem woe,
+Compared with loss of thee, will not seem so.`,
     themes: ["ill reputation","unrequited love","disappointment","loss","fate/fortune","hate","pain"],
     imagery: ["night","rain","heart","wind","tastes"],
     characters: ["Fair Youth"]
@@ -1803,18 +1803,18 @@ Compar’d with loss of thee, will not seem so.`,
     number: 91,
     text: `Some glory in their birth, some in their skill,
 Some in their wealth, some in their body’s force,
-Some in their garments though new-fangled ill;
+Some in their garments, though newfangled ill,
 Some in their hawks and hounds, some in their horse;
 And every humour hath his adjunct pleasure,
-Wherein it finds a joy above the rest:
-But these particulars are not my measure,
+Wherein it finds a joy above the rest;
+But these particulars are not my measure:
 All these I better in one general best.
 Thy love is better than high birth to me,
-Richer than wealth, prouder than garments’ costs,
+Richer than wealth, prouder than garments’ cost,
 Of more delight than hawks and horses be;
 And having thee, of all men’s pride I boast:
 Wretched in this alone, that thou mayst take
-All this away, and me most wretchcd make.`,
+All this away, and me most wretched make.`,
     themes: ["fate/fortune","pleasure","strength"],
     imagery: ["wealth","clothing","beast of burden","animals"],
     characters: ["Fair Youth"]
@@ -1822,18 +1822,18 @@ All this away, and me most wretchcd make.`,
   {
     number: 92,
     text: `But do thy worst to steal thyself away,
-For term of life thou art assured mine;
+For term of life thou art assurèd mine,
 And life no longer than thy love will stay,
 For it depends upon that love of thine. 
 Then need I not to fear the worst of wrongs,
-When in the least of them my life hath end.
+When in the least of them my life hath end;
 I see a better state to me belongs
-Than that which on thy humour doth depend:
+Than that which on thy humour doth depend.
 Thou canst not vex me with inconstant mind,
-Since that my life on thy revolt doth lie.
-O! what a happy title do I find,
+Since that my life on thy revolt doth lie:
+O what a happy title do I find,
 Happy to have thy love, happy to die!
-But what’s so blessed-fair that fears no blot?
+But what’s so blessèd-fair that fears no blot?
 Thou mayst be false, and yet I know it not.`,
     themes: ["loss","possession","misfortune","vacillation of moods","unrequited love","unfaithfulness","transgressions"],
     imagery: ["legal system"],
@@ -1842,17 +1842,17 @@ Thou mayst be false, and yet I know it not.`,
   {
     number: 93,
     text: `So shall I live, supposing thou art true,
-Like a deceived husband; so love’s face
-May still seem love to me, though alter’d new;
-Thy looks with me, thy heart in other place:
+Like a deceivèd husband; so love’s face
+May still seem love to me, though altered new:
+Thy looks with me, thy heart in other place.
 For there can live no hatred in thine eye,
-Therefore in that I cannot know thy change.
+Therefore in that I cannot know thy change;
 In many’s looks, the false heart’s history
-Is writ in moods, and frowns, and wrinkles strange. 
+Is writ in moods and frowns and wrinkles strange. 
 But heaven in thy creation did decree
 That in thy face sweet love should ever dwell;
-Whate’er thy thoughts, or thy heart’s workings be,
-Thy looks should nothing thence, but sweetness tell.
+Whate’er thy thoughts or thy heart’s workings be,
+Thy looks should nothing thence but sweetness tell.
 How like Eve’s apple doth thy beauty grow,
 If thy sweet virtue answer not thy show!`,
     themes: ["transgressions","unfaithfulness","unrequited love","deception","willful blindness"],
@@ -1864,17 +1864,17 @@ If thy sweet virtue answer not thy show!`,
     text: `They that have power to hurt, and will do none,
 That do not do the thing they most do show,
 Who, moving others, are themselves as stone,
-Unmoved, cold, and to temptation slow;
+Unmovèd, cold, and to temptation slow;
 They rightly do inherit heaven’s graces,
 And husband nature’s riches from expense;
 They are the lords and owners of their faces,
-Others, but stewards of their excellence.
+Others but stewards of their excellence.
 The summer’s flower is to the summer sweet,
-Though to itself, it only live and die,
+Though to itself it only live and die,
 But if that flower with base infection meet,
 The basest weed outbraves his dignity: 
 For sweetest things turn sourest by their deeds;
-Lilies that fester, smell far worse than weeds.`,
+Lilies that fester smell far worse than weeds.`,
     themes: ["abundance"],
     imagery: ["cold","rocks","heaven","face","body parts","flowers","summer","sweetness","weeds","sickness","sourness","lily"],
     characters: []
@@ -1884,37 +1884,37 @@ Lilies that fester, smell far worse than weeds.`,
     text: `How sweet and lovely dost thou make the shame
 Which, like a canker in the fragrant rose,
 Doth spot the beauty of thy budding name!
-O! in what sweets dost thou thy sins enclose.
+O in what sweets dost thou thy sins enclose!
 That tongue that tells the story of thy days,
 Making lascivious comments on thy sport,
-Cannot dispraise, but in a kind of praise;
-Naming thy name, blesses an ill report.
-O! what a mansion have those vices got
+Cannot dispraise but in a kind of praise;
+Naming thy name blesses an ill report.
+O what a mansion have those vices got
 Which for their habitation chose out thee,
-Where beauty’s veil doth cover every blot
+Where beauty’s veil doth cover every blot,
 And all things turns to fair that eyes can see!
-Take heed, dear heart, of this large privilege;
-The hardest knife ill-us’d doth lose his edge.`,
+Take heed, dear heart, of this large privilege:
+The hardest knife ill-used doth lose his edge.`,
     themes: ["shame","transgressions","ill reputation","unfaithfulness"],
     imagery: ["sweetness","rose","flowers","house","veil","eyes","body parts","heart","knives","dullness","canker worm"],
     characters: ["Fair Youth"]
   },
   {
     number: 96,
-    text: `Some say thy fault is youth, some wantonness;
+    text: `Some say thy fault is youth, some wantonness,
 Some say thy grace is youth and gentle sport;
-Both grace and faults are lov’d of more and less:
+Both grace and faults are loved of more and less:
 Thou mak’st faults graces that to thee resort.
-As on the finger of a throned queen
-The basest jewel will be well esteem’d,
+As on the finger of a thronèd queen
+The basest jewel will be well esteemed,
 So are those errors that in thee are seen
-To truths translated, and for true things deem’d.
+To truths translated, and for true things deemed.
 How many lambs might the stern wolf betray,
 If like a lamb he could his looks translate!
 How many gazers mightst thou lead away,
-if thou wouldst use the strength of all thy state!
+If thou wouldst use the strength of all thy state!
 But do not so; I love thee in such sort,
-As, thou being mine, mine is thy good report.`,
+As thou being mine, mine is thy good report.`,
     themes: ["youth","unfaithfulness","deception","beauty","union of speaker and beloved","strength"],
     imagery: ["body parts","royalty","hand","throne","gems","animals","wolf","sheep"],
     characters: ["Fair Youth"]
@@ -1925,15 +1925,15 @@ As, thou being mine, mine is thy good report.`,
 From thee, the pleasure of the fleeting year!
 What freezings have I felt, what dark days seen!
 What old December’s bareness everywhere! 
-And yet this time removed was summer’s time;
+And yet this time removed was summer’s time,
 The teeming autumn, big with rich increase,
 Bearing the wanton burden of the prime,
-Like widow’d wombs after their lords’ decease:
-Yet this abundant issue seem’d to me
-But hope of orphans, and unfather’d fruit;
+Like widowed wombs after their lords’ decease:
+Yet this abundant issue seemed to me
+But hope of orphans, and unfathered fruit,
 For summer and his pleasures wait on thee,
-And, thou away, the very birds are mute:
-Or, if they sing, ’tis with so dull a cheer,
+And thou away, the very birds are mute;
+Or if they sing, ’tis with so dull a cheer
 That leaves look pale, dreading the winter’s near.`,
     themes: ["separation","abundance","increase","pleasure","yearning","muteness"],
     imagery: ["seasons","winter","cold","darkness","day","December","months","barrenness (trees)","summer","autumn","womb","widow","birds","singing","leaves"],
@@ -1942,9 +1942,9 @@ That leaves look pale, dreading the winter’s near.`,
   {
     number: 98,
     text: `From you have I been absent in the spring,
-When proud-pied April, dress’d in all his trim,
-Hath put a spirit of youth in every thing,
-That heavy Saturn laugh’d and leap’d with him.
+When proud-pied April, dressed in all his trim,
+Hath put a spirit of youth in everything,
+That heavy Saturn laughed and leaped with him.
 Yet nor the lays of birds, nor the sweet smell
 Of different flowers in odour and in hue,
 Could make me any summer’s story tell,
@@ -1953,7 +1953,7 @@ Nor did I wonder at the lily’s white,
 Nor praise the deep vermilion in the rose;
 They were but sweet, but figures of delight,
 Drawn after you, you pattern of all those.
-Yet seem’d it winter still, and you away,
+Yet seemed it winter still, and you away,
 As with your shadow I with these did play.`,
     themes: ["separation","youth","artificiality"],
     imagery: ["spring","seasons","April","months","clothing","mythology","birds","animals","singing","odors","sweetness","colors","flowers","summer","white","lily","rose","red","shadow"],
@@ -1962,40 +1962,40 @@ As with your shadow I with these did play.`,
   {
     number: 99,
     text: `The forward violet thus did I chide:
-Sweet thief, whence didst thou steal thy sweet that smells,
+“Sweet thief, whence didst thou steal thy sweet that smells,
 If not from my love’s breath? The purple pride
 Which on thy soft cheek for complexion dwells
-In my love’s veins thou hast too grossly dy’d.
-The lily I condemned for thy hand,
+In my love’s veins thou hast too grossly dyed.”
+The lily I condemnèd for thy hand,
 And buds of marjoram had stol’n thy hair;
 The roses fearfully on thorns did stand,
 One blushing shame, another white despair;
 A third, nor red nor white, had stol’n of both,
-And to his robbery had annex’d thy breath;
-But, for his theft, in pride of all his growth 
-A vengeful canker eat him up to death.
+And to his robbery had annexed thy breath,
+But for his theft, in pride of all his growth,
+A vengeful canker ate him up to death.
 More flowers I noted, yet I none could see,
-But sweet, or colour it had stol’n from thee.`,
+But sweet or colour it had stol’n from thee.`,
     themes: ["theft","transgressions","shame","disgrace","beauty"],
     imagery: ["violet","flowers","odors","sweetness","purple","colors","cheek","veins","body parts","hand","lily","buds","marjoram","hair","rose","thorns","red","pink","canker worm","canker flower","dye"],
     characters: ["Fair Youth"]
   },
   {
     number: 100,
-    text: `Where art thou Muse that thou forget’st so long,
+    text: `Where art thou, Muse, that thou forget’st so long
 To speak of that which gives thee all thy might?
 Spend’st thou thy fury on some worthless song,
-Darkening thy power to lend base subjects light?
-Return forgetful Muse, and straight redeem,
+Dark’ning thy power to lend base subjects light?
+Return, forgetful Muse, and straight redeem
 In gentle numbers time so idly spent;
-Sing to the ear that doth thy lays esteem
+Sing to the ear that doth thy lays esteem,
 And gives thy pen both skill and argument.
 Rise, resty Muse, my love’s sweet face survey,
 If Time have any wrinkle graven there;
 If any, be a satire to decay,
-And make time’s spoils despised every where.
-Give my love fame faster than Time wastes life,
-So thou prevent’st his scythe and crooked knife.`,
+And make Time’s spoils despisèd everywhere.
+Give my love fame faster than Time wastes life;
+So thou prevent’st his scythe and crookèd knife.`,
     themes: ["waste","forgetting","writing","passage of time","decay","fame","immortality through verse"],
     imagery: ["darkness","brightness","verse","singing","ears","body parts","pen","face","wrinkles","scythe","knives"],
     characters: ["Fair Youth","Muse"]
@@ -2284,7 +2284,7 @@ That mine eye loves it and doth first begin.`,
     number: 115,
     text: `Those lines that I before have writ do lie,
 Even those that said I could not love you dearer:
-Yet then my judgment knew no reason why
+Yet then my judgement knew no reason why
 My most full flame should afterwards burn clearer.
 But reckoning Time, whose million’d accidents
 Creep in ’twixt vows, and change decrees of kings,
@@ -2611,7 +2611,7 @@ Although I swear it to myself alone.
 And to be sure that is not false I swear,
 A thousand groans, but thinking on thy face,
 One on another’s neck, do witness bear
-Thy black is fairest in my judgment’s place.
+Thy black is fairest in my judgement’s place.
 In nothing art thou black save in thy deeds,
 And thence this slander, as I think, proceeds.`,
     themes: ["tyranny","cruelty","beauty","pride","truth","falsehood","transgressions","ill reputation"],
@@ -2727,7 +2727,7 @@ Yet what the best is take the worst to be.
 If eyes, corrupt by over-partial looks, 
 Be anchor’d in the bay where all men ride,
 Why of eyes’ falsehood hast thou forged hooks,
-Whereto the judgment of my heart is tied?
+Whereto the judgement of my heart is tied?
 Why should my heart think that a several plot,
 Which my heart knows the wide world’s common place?
 Or mine eyes, seeing this, say this is not,
@@ -2942,7 +2942,7 @@ Who art as black as hell, as dark as night.`,
     number: 148,
     text: `O me! what eyes hath Love put in my head,
 Which have no correspondence with true sight;
-Or, if they have, where is my judgment fled,
+Or, if they have, where is my judgement fled,
 That censures falsely what they see aright?
 If that be fair whereon my false eyes dote,
 What means the world to say it is not so?
