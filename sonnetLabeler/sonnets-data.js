@@ -336,7 +336,7 @@ And stretchèd meter of an antique song:
 But were some child of yours alive that time,
 You should live twice, in it and in my rhyme.`,
     themes: ["beauty","old age","imperative to procreation","decay","the future","inadequacy of verse","writing","immortality through verse","truth","passage of time"],
-    imagery: ["verse","grave/tomb","eyes","face","yellow","heaven",,"tongues"],
+    imagery: ["verse","grave/tomb","eyes","face","yellow","heaven",,"tongue"],
     characters: ["Fair Youth"]
   },
   {
@@ -456,7 +456,7 @@ More than that tongue that more hath more expressed.
 O learn to read what silent love hath writ:
 To hear with eyes belongs to love’s fine wit.`,
     themes: ["drama","speaking","fear","muteness"],
-    imagery: ["gaze","eyes","tongues","heart"],
+    imagery: ["gaze","eyes","tongue","heart"],
     characters: ["Fair Youth"]
   },
   {
@@ -1376,7 +1376,7 @@ To thy fair flower add the rank smell of weeds:
 But why thy odour matcheth not thy show,
 The soil is this, that thou dost common grow.`,
     themes: ["beauty","truth","transgressions","ill reputation","corruption"],
-    imagery: ["eyes","heart","tongues","flowers","weeds","smells","crown"],
+    imagery: ["eyes","heart","tongue","flowers","weeds","smells","crown"],
     characters: ["Fair Youth"]
   },
   {
@@ -1616,7 +1616,7 @@ When all the breathers of this world are dead;
 You still shall live (such virtue hath my pen)
 Where breath most breathes, even in the mouths of men.`,
     themes: ["immortality through verse","memory","mortality","immortality","the future","decay","separation","strength"],
-    imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth","earth","tongues"],
+    imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth","earth","tongue"],
     characters: ["Fair Youth"]
   },
   {
@@ -1776,7 +1776,7 @@ And haply of our old acquaintance tell.
 For thee against my self I’ll vow debate,
 For I must ne’er love him whom thou dost hate.`,
     themes: ["ill reputation","self-denigration","unrequited love","weakness","hate"],
-    imagery: ["tongues"],
+    imagery: ["tongue"],
     characters: ["Fair Youth"]
   },
   {
@@ -1896,7 +1896,7 @@ And all things turns to fair that eyes can see!
 Take heed, dear heart, of this large privilege:
 The hardest knife ill-used doth lose his edge.`,
     themes: ["transgressions","ill reputation","unfaithfulness","sin"],
-    imagery: ["sweetness","rose","flowers","house","veil","eyes","heart","knife","dullness","canker worm","tongues","edifices"],
+    imagery: ["sweetness","rose","flowers","house","veil","eyes","heart","knife","dullness","canker worm","tongue","edifices"],
     characters: ["Fair Youth"]
   },
   {
@@ -1990,8 +1990,8 @@ Return, forgetful Muse, and straight redeem
 In gentle numbers time so idly spent;
 Sing to the ear that doth thy lays esteem,
 And gives thy pen both skill and argument.
-Rise, resty Muse, my love’s sweet face survey,
-If Time have any wrinkle graven there;
+Rise, resty Muse, my love’s sweet face survey.
+If Time have any wrinkle graven there,
 If any, be a satire to decay,
 And make Time’s spoils despisèd everywhere.
 Give my love fame faster than Time wastes life;
@@ -2002,18 +2002,18 @@ So thou prevent’st his scythe and crookèd knife.`,
   },
   {
     number: 101,
-    text: `O truant Muse what shall be thy amends
-For thy neglect of truth in beauty dy’d?
+    text: `O truant Muse, what shall be thy amends
+For thy neglect of truth in beauty dyed?
 Both truth and beauty on my love depends;
 So dost thou too, and therein dignified.
-Make answer Muse: wilt thou not haply say,
-’Truth needs no colour, with his colour fix’d;
+Make answer, Muse; wilt thou not haply say,
+“Truth needs no colour with his colour fixed,
 Beauty no pencil, beauty’s truth to lay;
-But best is best, if never intermix’d’?
+But best is best, if never intermixed”?
 Because he needs no praise, wilt thou be dumb?
-Excuse not silence so, for’t lies in thee
-To make him much outlive a gilded tomb
-And to be prais’d of ages yet to be.
+Excuse not silence so, for ’t lies in thee
+To make him much outlive a gilded tomb,
+And to be praised of ages yet to be.
 Then do thy office, Muse; I teach thee how
 To make him seem long hence as he shows now.`,
     themes: ["beauty","truth","artificiality","muteness","the future","immortality through verse","mortality"],
@@ -2022,19 +2022,19 @@ To make him seem long hence as he shows now.`,
   },
   {
     number: 102,
-    text: `My love is strengthen’d, though more weak in seeming;
-I love not less, though less the show appear;
-That love is merchandiz’d, whose rich esteeming,
-The owner’s tongue doth publish every where.
+    text: `My love is strengthened, though more weak in seeming;
+I love not less, though less the show appear:
+That love is merchandised whose rich esteeming
+The owner’s tongue doth publish everywhere.
 Our love was new, and then but in the spring,
-When I was wont to greet it with my lays;
+When I was wont to greet it with my lays,
 As Philomel in summer’s front doth sing,
 And stops her pipe in growth of riper days:
 Not that the summer is less pleasant now
 Than when her mournful hymns did hush the night,
 But that wild music burthens every bough,
 And sweets grown common lose their dear delight.
-Therefore like her, I sometime hold my tongue:
+Therefore like her, I sometime hold my tongue,
 Because I would not dull you with my song.`,
     themes: ["muteness","speaking","artificiality"],
     imagery: ["spring","seasons","verse","birds","nightingale","mythology","singing","summer","sweetness","dullness"],
@@ -2042,13 +2042,13 @@ Because I would not dull you with my song.`,
   },
   {
     number: 103,
-    text: `Alack! what poverty my Muse brings forth,
+    text: `Alack, what poverty my Muse brings forth,
 That having such a scope to show her pride,
-The argument, all bare, is of more worth
-Than when it hath my added praise beside!
-O! blame me not, if I no more can write!
+The argument all bare is of more worth
+Than when it hath my added praise beside.
+O blame me not, if I no more can write!
 Look in your glass, and there appears a face
-That over-goes my blunt invention quite, 
+That overgoes my blunt invention quite, 
 Dulling my lines, and doing me disgrace.
 Were it not sinful then, striving to mend,
 To mar the subject that before was well?
@@ -2063,17 +2063,17 @@ Your own glass shows you when you look in it.`,
   {
     number: 104,
     text: `To me, fair friend, you never can be old,
-For as you were when first your eye I ey’d,
-Such seems your beauty still. Three winters cold,
-Have from the forests shook three summers’ pride,
-Three beauteous springs to yellow autumn turn’d,
-In process of the seasons have I seen,
-Three April perfumes in three hot Junes burn’d,
+For as you were when first your eye I eyed,
+Such seems your beauty still. Three winters cold
+Have from the forests shook three summers’ pride;
+Three beauteous springs to yellow autumn turned
+In process of the seasons have I seen;
+Three April perfumes in three hot Junes burned,
 Since first I saw you fresh, which yet are green.
-Ah! yet doth beauty like a dial-hand,
-Steal from his figure, and no pace perceiv’d;
+Ah yet doth beauty like a dial hand,
+Steal from his figure, and no pace perceived;
 So your sweet hue, which methinks still doth stand,
-Hath motion, and mine eye may be deceiv’d:
+Hath motion, and mine eye may be deceived;
 For fear of which, hear this thou age unbred:
 Ere you were born was beauty’s summer dead.`,
     themes: ["passage of time","beauty","youth","deception","the future","mortality"],
@@ -2082,19 +2082,19 @@ Ere you were born was beauty’s summer dead.`,
   },
   {
     number: 105,
-    text: `Let not my love be call’d idolatry,
-Nor my beloved as an idol show,
+    text: `Let not my love be called idolatry,
+Nor my belovèd as an idol show,
 Since all alike my songs and praises be
 To one, of one, still such, and ever so.
-Kind is my love to-day, to-morrow kind,
+Kind is my love today, tomorrow kind,
 Still constant in a wondrous excellence;
-Therefore my verse to constancy confin’d,
+Therefore my verse to constancy confined,
 One thing expressing, leaves out difference.
-’Fair, kind, and true,’ is all my argument,
-’Fair, kind, and true,’ varying to other words;
+“Fair, kind, and true” is all my argument,
+“Fair, kind, and true” varying to other words,
 And in this change is my invention spent,
 Three themes in one, which wondrous scope affords.
-Fair, kind, and true, have often liv’d alone,
+Fair, kind, and true have often lived alone,
 Which three till now, never kept seat in one.`,
     themes: ["beauty","writing","virtue","truth"],
     imagery: ["verse","singing"],
@@ -2104,14 +2104,14 @@ Which three till now, never kept seat in one.`,
     number: 106,
     text: `When in the chronicle of wasted time
 I see descriptions of the fairest wights,
-And beauty making beautiful old rime,
+And beauty making beautiful old rhyme
 In praise of ladies dead and lovely knights,
-Then, in the blazon of sweet beauty’s best,
+Then in the blazon of sweet beauty’s best,
 Of hand, of foot, of lip, of eye, of brow,
-I see their antique pen would have express’d
+I see their antique pen would have expressed
 Even such a beauty as you master now.
 So all their praises are but prophecies
-Of this our time, all you prefiguring;
+Of this our time, all you prefiguring,
 And for they looked but with divining eyes,
 They had not skill enough your worth to sing:
 For we, which now behold these present days,
@@ -2123,17 +2123,17 @@ Have eyes to wonder, but lack tongues to praise.`,
   {
     number: 107,
     text: `Not mine own fears, nor the prophetic soul
-Of the wide world dreaming on things to come,
+Of the wide world, dreaming on things to come,
 Can yet the lease of my true love control, 
-Supposed as forfeit to a confin’d doom.
-The mortal moon hath her eclipse endur’d,
-And the sad augurs mock their own presage;
-Incertainties now crown themselves assur’d,
+Supposed as forfeit to a confined doom.
+The mortal moon hath her eclipse endured,
+And the sad augurs mock their own presage,
+Incertainties now crown themselves assured,
 And peace proclaims olives of endless age.
-Now with the drops of this most balmy time,
+Now with the drops of this most balmy time
 My love looks fresh, and Death to me subscribes,
-Since, spite of him, I’ll live in this poor rime,
-While he insults o’er dull and speechless tribes:
+Since spite of him I’ll live in this poor rhyme,
+While he insults o’er dull and speechless tribes.
 And thou in this shalt find thy monument,
 When tyrants’ crests and tombs of brass are spent.`,
     themes: ["immortality through verse","mortality","muteness"],
@@ -2142,18 +2142,18 @@ When tyrants’ crests and tombs of brass are spent.`,
   },
   {
     number: 108,
-    text: `What’s in the brain, that ink may character,
-Which hath not figur’d to thee my true spirit?
+    text: `What’s in the brain that ink may character
+Which hath not figured to thee my true spirit?
 What’s new to speak, what now to register,
 That may express my love, or thy dear merit?
 Nothing, sweet boy; but yet, like prayers divine,
-I must each day say o’er the very same;
-Counting no old thing old, thou mine, I thine, 
-Even as when first I hallow’d thy fair name.
-So that eternal love in love’s fresh case,
+I must each day say o’er the very same,
+Counting no old thing old, thou mine, I thine,
+Even as when first I hallowed thy fair name.
+So that eternal love in love’s fresh case
 Weighs not the dust and injury of age,
 Nor gives to necessary wrinkles place,
-But makes antiquity for aye his page;
+But makes antiquity for aye his page,
 Finding the first conceit of love there bred,
 Where time and outward form would show it dead.`,
     themes: ["passage of time"],
@@ -2162,18 +2162,18 @@ Where time and outward form would show it dead.`,
   },
   {
     number: 109,
-    text: `O! never say that I was false of heart,
-Though absence seem’d my flame to qualify,
+    text: `O never say that I was false of heart,
+Though absence seemed my flame to qualify;
 As easy might I from my self depart
-As from my soul which in thy breast doth lie:
-That is my home of love: if I have rang’d,
-Like him that travels, I return again;
-Just to the time, not with the time exchang’d,
+As from my soul, which in thy breast doth lie:
+That is my home of love; if I have ranged,
+Like him that travels I return again,
+Just to the time, not with the time exchanged,
 So that myself bring water for my stain.
-Never believe though in my nature reign’d,
+Never believe though in my nature reigned
 All frailties that besiege all kinds of blood,
-That it could so preposterously be stain’d, 
-To leave for nothing all thy sum of good;
+That it could so preposterously be stained 
+To leave for nothing all thy sum of good:
 For nothing this wide universe I call,
 Save thou, my rose, in it thou art my all.`,
     themes: ["separation","union of speaker and beloved","transgressions","unfaithfulness","falsehood"],
@@ -2182,18 +2182,18 @@ Save thou, my rose, in it thou art my all.`,
   },
   {
     number: 110,
-    text: `Alas! ’tis true, I have gone here and there,
-And made my self a motley to the view,
-Gor’d mine own thoughts, sold cheap what is most dear,
-Made old offences of affections new;
-Most true it is, that I have look’d on truth
+    text: `Alas ’tis true, I have gone here and there,
+And made myself a motley to the view,
+Gored mine own thoughts, sold cheap what is most dear,
+Made old offences of affections new.
+Most true it is that I have looked on truth
 Askance and strangely; but, by all above,
 These blenches gave my heart another youth,
-And worse essays prov’d thee my best of love.
-Now all is done, save what shall have no end:
+And worse essays proved thee my best of love.
+Now all is done, have what shall have no end:
 Mine appetite I never more will grind
 On newer proof, to try an older friend,
-A god in love, to whom I am confin’d.
+A god in love, to whom I am confined.
 Then give me welcome, next my heaven the best,
 Even to thy pure and most most loving breast.`,
     themes: ["ill reputation","transgressions","unfaithfulness","truth","youth","worth"],
@@ -2775,7 +2775,7 @@ That they elsewhere might dart their injuries:
 Yet do not so; but since I am near slain, 
 Kill me outright with looks, and rid my pain.`,
     themes: ["unfaithfulness","transgressions","unrequited love"],
-    imagery: ["tongues","heart"],
+    imagery: ["tongue","heart"],
     characters: ["Dark Lady"]
   },
   {
@@ -2795,7 +2795,7 @@ Mad slanderers by mad ears believed be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
     themes: ["cruelty","wisdom","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
-    imagery: ["sickness","eyes","ears","tongues"],
+    imagery: ["sickness","eyes","ears","tongue"],
     characters: ["Dark Lady"]
   },
   {
@@ -2815,7 +2815,7 @@ Thy proud heart’s slave and vassal wretch to be:
 Only my plague thus far I count my gain,
 That she that makes me sin awards me pain.`,
     themes: ["plainness of looks","eye vs. heart","slavery","pain","sin"],
-    imagery: ["eyes","heart","ears","tongues","music","touch","tastes","smells"],
+    imagery: ["eyes","heart","ears","tongue","music","touch","tastes","smells"],
     characters: ["Dark Lady"]
   },
   {
@@ -2895,7 +2895,7 @@ From heaven to hell is flown away.
 ’I hate’, from hate away she threw,
 And sav’d my life, saying ’not you’.`,
     themes: ["speaking","redemption"],
-    imagery: ["lip","hand","breathing","tongues","day","night","heaven","hell"],
+    imagery: ["lip","hand","breathing","tongue","day","night","heaven","hell"],
     characters: ["Dark Lady"]
   },
   {
