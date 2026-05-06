@@ -236,7 +236,7 @@ And die as fast as they see others grow,
 And nothing ’gainst Time’s scythe can make defence
 Save breed to brave him, when he takes thee hence.`,
     themes: ["passage of time","abundance","beauty","mortality","imperative to procreation"],
-    imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barrenness (trees)","heat","summer","seasons","animals","crops","hair","gray","black","green","white","silver","farming",,"scythe"],
+    imagery: ["clock","day","night","time of day","flowers","violet","trees","leaves","barrenness (trees)","heat","summer","seasons","animals","crops","hair","gray","black","green","white","silver","farming","scythe"],
     characters: ["Fair Youth"]
   },
   {
@@ -336,7 +336,7 @@ And stretchèd meter of an antique song:
 But were some child of yours alive that time,
 You should live twice, in it and in my rhyme.`,
     themes: ["beauty","old age","imperative to procreation","decay","the future","inadequacy of verse","writing","immortality through verse","truth","passage of time"],
-    imagery: ["verse","grave/tomb","eyes","face","yellow","heaven",,"tongue"],
+    imagery: ["verse","grave/tomb","eyes","face","yellow","heaven","tongue"],
     characters: ["Fair Youth"]
   },
   {
@@ -536,7 +536,7 @@ Makes black night beauteous, and her old face new.
 Lo thus by day my limbs, by night my mind,
 For thee, and for myself, no quiet find.`,
     themes: ["travail","imagination","torture"],
-    imagery: ["night","darkness","gems","black",,"sleep","eyes"],
+    imagery: ["night","darkness","gems","black","sleep","eyes"],
     characters: ["Fair Youth"]
   },
   {
@@ -656,7 +656,7 @@ The region cloud hath masked him from me now.
 Yet him for this my love no whit disdaineth,
 Suns of the world may stain, when heaven’s sun staineth.`,
     themes: ["passage of time","disappointment","unrequited love","redemption","theft"],
-    imagery: ["time of day","sun","weather","gold","face","green",,"meadows","nature","clouds","brow","heaven","morning","mountain","alchemy","darkness"],
+    imagery: ["time of day","sun","weather","gold","face","green","meadows","nature","clouds","brow","heaven","morning","mountain","alchemy","darkness"],
     characters: ["Fair Youth"]
   },
   {
@@ -1336,7 +1336,7 @@ And, ’priv’d of money, lives upon his gains?
 O him she stores, to show what wealth she had
 In days long since, before these last so bad.`,
     themes: ["healing/medicine","transgressions","artificiality","truth","lending/debt","decay","beauty","penury","the past","sin","plainness of looks","world in decline","corruption"],
-    imagery: ["painting","steel","cheek","flowers","rose","blood","shadow","veins","legal system","wealth",,"paleness"],
+    imagery: ["painting","steel","cheek","flowers","rose","blood","shadow","veins","legal system","wealth","paleness"],
     characters: ["Fair Youth"]
   },
   {
@@ -1956,7 +1956,7 @@ Drawn after you, you pattern of all those.
 Yet seemed it winter still, and you away,
 As with your shadow I with these did play.`,
     themes: ["separation","youth","artificiality"],
-    imagery: ["spring","seasons","April","months","clothing","mythology","birds","animals","singing","smells","sweetness",,"flowers","summer","white","lily","rose","red","shadow"],
+    imagery: ["spring","seasons","April","months","clothing","mythology","birds","animals","singing","smells","sweetness","flowers","summer","white","lily","rose","red","shadow"],
     characters: ["Fair Youth"]
   },
   {
@@ -1977,7 +1977,7 @@ A vengeful canker ate him up to death.
 More flowers I noted, yet I none could see,
 But sweet or colour it had stol’n from thee.`,
     themes: ["theft","transgressions","shame","disgrace","beauty","castigation","pride"],
-    imagery: ["violet","flowers","smells","sweetness","purple",,"cheek","veins","hand","lily","buds","marjoram","hair","rose","thorns","red","pink","canker worm","dye","white","breathing"],
+    imagery: ["violet","flowers","smells","sweetness","purple","cheek","veins","hand","lily","buds","marjoram","hair","rose","thorns","red","pink","canker worm","dye","white","breathing"],
     characters: ["Fair Youth"]
   },
   {
@@ -2017,7 +2017,7 @@ And to be praised of ages yet to be.
 Then do thy office, Muse; I teach thee how
 To make him seem long hence as he shows now.`,
     themes: ["beauty","truth","artificiality","muteness","the future","immortality through verse","mortality"],
-    imagery: ["painting","grave/tomb","gold"],
+    imagery: ["painting","grave/tomb","gold","dye","pencil"],
     characters: ["Fair Youth","Muse"]
   },
   {
@@ -2037,7 +2037,7 @@ And sweets grown common lose their dear delight.
 Therefore like her, I sometime hold my tongue,
 Because I would not dull you with my song.`,
     themes: ["muteness","speaking","artificiality"],
-    imagery: ["spring","seasons","verse","birds","nightingale","mythology","singing","summer","sweetness","dullness"],
+    imagery: ["spring","seasons","verse","birds","nightingale","mythology","singing","summer","sweetness","dullness","tongue","night"],
     characters: ["Fair Youth"]
   },
   {
@@ -2056,7 +2056,7 @@ For to no other pass my verses tend
 Than of your graces and your gifts to tell;
 And more, much more, than in my verse can sit,
 Your own glass shows you when you look in it.`,
-    themes: ["penury","muteness","disgrace","inadequacy of verse"],
+    themes: ["penury","muteness","disgrace","inadequacy of verse","sin"],
     imagery: ["face","mirror","dullness","verse"],
     characters: ["Fair Youth","Muse"]
   },
@@ -2066,9 +2066,9 @@ Your own glass shows you when you look in it.`,
 For as you were when first your eye I eyed,
 Such seems your beauty still. Three winters cold
 Have from the forests shook three summers’ pride;
-Three beauteous springs to yellow autumn turned
+Three beauteous springs to yellow autumns turned
 In process of the seasons have I seen;
-Three April perfumes in three hot Junes burned,
+Three April perfumes in three hot Junes burned
 Since first I saw you fresh, which yet are green.
 Ah yet doth beauty like a dial hand,
 Steal from his figure, and no pace perceived;
@@ -2096,7 +2096,7 @@ And in this change is my invention spent,
 Three themes in one, which wondrous scope affords.
 Fair, kind, and true have often lived alone,
 Which three till now, never kept seat in one.`,
-    themes: ["beauty","writing","virtue","truth"],
+    themes: ["beauty","writing","virtue","truth","artificiality"],
     imagery: ["verse","singing"],
     characters: ["Fair Youth"]
   },
@@ -2117,7 +2117,7 @@ They had not skill enough your worth to sing:
 For we, which now behold these present days,
 Have eyes to wonder, but lack tongues to praise.`,
     themes: ["the past","beauty","inadequacy of verse"],
-    imagery: ["hand","foot","lip","eyes","brow","pen"],
+    imagery: ["hand","foot","lip","eyes","brow","pen","books","prophecy"],
     characters: ["Fair Youth"]
   },
   {
@@ -2136,8 +2136,8 @@ Since spite of him I’ll live in this poor rhyme,
 While he insults o’er dull and speechless tribes.
 And thou in this shalt find thy monument,
 When tyrants’ crests and tombs of brass are spent.`,
-    themes: ["immortality through verse","mortality","muteness"],
-    imagery: ["dreams","legal system","moon","eclipse","crown","olives","brass","grave/tomb","monuments","dullness"],
+    themes: ["immortality through verse","mortality","muteness","possession"],
+    imagery: ["dreams","legal system","moon","eclipse","crown","olives","brass","grave/tomb","monuments","dullness","prophecy"],
     characters: ["Fair Youth"]
   },
   {
@@ -2176,8 +2176,8 @@ That it could so preposterously be stained
 To leave for nothing all thy sum of good:
 For nothing this wide universe I call,
 Save thou, my rose, in it thou art my all.`,
-    themes: ["separation","union of speaker and beloved","transgressions","unfaithfulness","falsehood"],
-    imagery: ["fire","water","flowers","rose"],
+    themes: ["separation","union of speaker and beloved","transgressions","unfaithfulness","return"],
+    imagery: ["fire","water","flowers","rose","blood"],
     characters: ["Fair Youth"]
   },
   {
@@ -2196,8 +2196,8 @@ On newer proof, to try an older friend,
 A god in love, to whom I am confined.
 Then give me welcome, next my heaven the best,
 Even to thy pure and most most loving breast.`,
-    themes: ["ill reputation","transgressions","unfaithfulness","truth","youth","worth"],
-    imagery: ["heart","heaven"],
+    themes: ["ill reputation","transgressions","unfaithfulness","truth","youth","worth","corruption","falsehood","forgiveness"],
+    imagery: ["heart","heaven","breasts"],
     characters: ["Fair Youth"]
   },
   {
@@ -2535,7 +2535,7 @@ Sland’ring creation with a false esteem:
 Yet so they mourn becoming of their woe,
 That every tongue says beauty should look so.`,
     themes: ["beauty","shame","artificiality","mourning"],
-    imagery: [,"black","hand","raven","birds"],
+    imagery: ["black","hand","raven","birds"],
     characters: ["Dark Lady"]
   },
   {
@@ -2595,7 +2595,7 @@ My mistress, when she walks, treads on the ground:
 And yet by heaven, I think my love as rare,
 As any she belied with false compare.`,
     themes: ["speaking","appreciation","beauty"],
-    imagery: ["eyes","sun","coral",,"lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","smells","perfume","breathing","music","god","heaven"],
+    imagery: ["eyes","sun","coral","lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","smells","perfume","breathing","music","god","heaven"],
     characters: ["Dark Lady"]
   },
   {
@@ -2635,7 +2635,7 @@ And suit thy pity like in every part.
 Then will I swear beauty herself is black,
 And all they foul that thy complexion lack.`,
     themes: ["torture","mourning","eye vs. heart","pity","beauty"],
-    imagery: ["eyes",,"black","morning","sun","heaven","gray","cheek","sunset","heart"],
+    imagery: ["eyes","black","morning","sun","heaven","gray","cheek","sunset","heart"],
     characters: ["Dark Lady"]
   },
   {
