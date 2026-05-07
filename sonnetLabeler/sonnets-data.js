@@ -2202,19 +2202,19 @@ Even to thy pure and most most loving breast.`,
   },
   {
     number: 111,
-    text: `O! for my sake do you with Fortune chide,
+    text: `O for my sake do you with Fortune chide,
 The guilty goddess of my harmful deeds,
 That did not better for my life provide
 Than public means which public manners breeds.
 Thence comes it that my name receives a brand,
-And almost thence my nature is subdu’d
-To what it works in, like the dyer’s hand:
-Pity me, then, and wish I were renew’d;
-Whilst, like a willing patient, I will drink,
+And almost thence my nature is subdued
+To what it works in, like the dyer’s hand.
+Pity me, then, and wish I were renewed,
+Whilst like a willing patient I will drink
 Potions of eisel ’gainst my strong infection;
 No bitterness that I will bitter think,
-Nor double penance, to correct correction.
-Pity me then, dear friend, and I assure ye,
+Nor double penance to correct correction.
+Pity me then, dear friend, and I assure ye
 Even that your pity is enough to cure me.`,
     themes: ["fate/fortune","transgressions","ill reputation","healing/medicine"],
     imagery: ["hand","bitterness","dye"],
@@ -2222,19 +2222,19 @@ Even that your pity is enough to cure me.`,
   },
   {
     number: 112,
-    text: `Your love and pity doth the impression fill,
-Which vulgar scandal stamp’d upon my brow;
+    text: `Your love and pity doth th’impression fill
+Which vulgar scandal stamped upon my brow,
 For what care I who calls me well or ill, 
 So you o’er-green my bad, my good allow?
-You are my all-the-world, and I must strive
+You are my all the world, and I must strive
 To know my shames and praises from your tongue;
 None else to me, nor I to none alive,
-That my steel’d sense or changes right or wrong.
+That my steeled sense or changes right or wrong.
 In so profound abysm I throw all care
 Of others’ voices, that my adder’s sense
-To critic and to flatterer stopped are.
+To critic and to flatterer stoppèd are.
 Mark how with my neglect I do dispense:
-You are so strongly in my purpose bred,
+You are so strongly in my purpose bred
 That all the world besides methinks are dead.`,
     themes: ["ill reputation","moral correction"],
     imagery: ["green","animals","steel"],
@@ -2242,39 +2242,39 @@ That all the world besides methinks are dead.`,
   },
   {
     number: 113,
-    text: `Since I left you, mine eye is in my mind;
+    text: `Since I left you, mine eye is in my mind,
 And that which governs me to go about
-Doth part his function and is partly blind,
+Doth part his function, and is partly blind,
 Seems seeing, but effectually is out;
 For it no form delivers to the heart
-Of bird, of flower, or shape which it doth latch:
-Of his quick objects hath the mind no part, 
-Nor his own vision holds what it doth catch;
+Of bird, of flow’r, or shape which it doth latch;
+Of his quick objects hath the mind no part;
+Nor his own vision holds what it doth catch:
 For if it see the rud’st or gentlest sight,
 The most sweet favour or deformed’st creature,
-The mountain or the sea, the day or night:
-The crow, or dove, it shapes them to your feature.
+The mountain or the sea, the day or night,
+The crow or dove, it shapes them to your feature.
 Incapable of more, replete with you,
-My most true mind thus maketh mine untrue.`,
+My most true mind thus maketh mine eye untrue.`,
     themes: ["separation","material vs. ideal world","imagination","eye vs. heart"],
     imagery: ["eyes","blindness","heart","birds","flowers","sweetness","mountain","ocean","day","night","crow","dove"],
     characters: ["Fair Youth"]
   },
   {
     number: 114,
-    text: `Or whether doth my mind, being crown’d with you,
+    text: `Or whether doth my mind, being crowned with you,
 Drink up the monarch’s plague, this flattery?
-Or whether shall I say, mine eye saith true,
+Or whether shall I say mine eye saith true,
 And that your love taught it this alchemy,
 To make of monsters and things indigest
 Such cherubins as your sweet self resemble,
-Creating every bad a perfect best,
+Creating every bad a perfect best
 As fast as objects to his beams assemble?
-O! ’tis the first, ’tis flattery in my seeing,
-And my great mind most kingly drinks it up:
+O ’tis the first, ’tis flattery in my seeing,
+And my great mind most kingly drinks it up;
 Mine eye well knows what with his gust is ’greeing, 
-And to his palate doth prepare the cup:
-If it be poison’d, ’tis the lesser sin
+And to his palate doth prepare the cup.
+If it be poisoned, ’tis the lesser sin
 That mine eye loves it and doth first begin.`,
     themes: ["eye vs. heart"],
     imagery: ["crown","sickness","royalty","eyes","heart","alchemy","monsters","cherubim","sweetness","poison"],
@@ -2283,19 +2283,19 @@ That mine eye loves it and doth first begin.`,
   {
     number: 115,
     text: `Those lines that I before have writ do lie,
-Even those that said I could not love you dearer:
+Even those that said I could not love you dearer;
 Yet then my judgement knew no reason why
 My most full flame should afterwards burn clearer.
-But reckoning Time, whose million’d accidents
+But reckoning Time, whose millioned accidents
 Creep in ’twixt vows, and change decrees of kings,
 Tan sacred beauty, blunt the sharp’st intents,
-Divert strong minds to the course of altering things;
-Alas! why fearing of Time’s tyranny,
-Might I not then say, ’Now I love you best,’
+Divert strong minds to th’course of altering things—
+Alas, why, fearing of Time’s tyranny,
+Might I not then say, “Now I love you best,”
 When I was certain o’er incertainty,
 Crowning the present, doubting of the rest?
-Love is a babe, then might I not say so,
-To give full growth to that which still doth grow?`,
+Love is a babe: then might I not say so,
+To give full growth to that which still doth grow.`,
     themes: ["inadequacy of verse","passage of time","beauty","tyranny"],
     imagery: ["fire","royalty","dullness","crown"],
     characters: ["Fair Youth"]
@@ -2303,37 +2303,37 @@ To give full growth to that which still doth grow?`,
   {
     number: 116,
     text: `Let me not to the marriage of true minds
-Admit impediments. Love is not love
+Admit impediments; love is not love
 Which alters when it alteration finds,
-Or bends with the remover to remove:
-O, no! it is an ever-fixed mark,
+Or bends with the remover to remove.
+O no, it is an ever-fixèd mark
 That looks on tempests and is never shaken;
-It is the star to every wandering bark,
+It is the star to every wand’ring bark,
 Whose worth’s unknown, although his height be taken.
 Love’s not Time’s fool, though rosy lips and cheeks
 Within his bending sickle’s compass come;
 Love alters not with his brief hours and weeks,
 But bears it out even to the edge of doom.
-If this be error and upon me prov’d,
-I never writ, nor no man ever lov’d.`,
+If this be error and upon me proved,
+I never writ, nor no man ever loved.`,
     themes: ["passage of time","writing"],
     imagery: ["mind","boats","stars","cheek","lip","rose","scythe","end of the world"],
     characters: ["Fair Youth"]
   },
   {
     number: 117,
-    text: `Accuse me thus: that I have scanted all,
+    text: `Accuse me thus: that I have scanted all
 Wherein I should your great deserts repay,
 Forgot upon your dearest love to call, 
 Whereto all bonds do tie me day by day;
 That I have frequent been with unknown minds,
-And given to time your own dear-purchas’d right;
+And given to time your own dear-purchased right;
 That I have hoisted sail to all the winds
 Which should transport me farthest from your sight.
-Book both my wilfulness and errors down,
+Book both my willfulness and errors down,
 And on just proof surmise, accumulate;
 Bring me within the level of your frown,
-But shoot not at me in your waken’d hate;
+But shoot not at me in your wakened hate:
 Since my appeal says I did strive to prove
 The constancy and virtue of your love.`,
     themes: ["hate"],
@@ -2342,18 +2342,18 @@ The constancy and virtue of your love.`,
   },
   {
     number: 118,
-    text: `Like as, to make our appetite more keen,
-With eager compounds we our palate urge;
-As, to prevent our maladies unseen,
-We sicken to shun sickness when we purge;
+    text: `Like as to make our appetite more keen
+With eager compounds we our palate urge,
+As to prevent our maladies unseen
+We sicken to shun sickness when we purge:
 Even so, being full of your ne’er-cloying sweetness,
-To bitter sauces did I frame my feeding;
+To bitter sauces did I frame my feeding,
 And, sick of welfare, found a kind of meetness
-To be diseas’d, ere that there was true needing.
-Thus policy in love, to anticipate
-The ills that were not, grew to faults assur’d,
+To be diseased, ere that there was true needing.
+Thus policy in love, t’anticipate
+The ills that were not, grew to faults assured,
 And brought to medicine a healthful state
-Which, rank of goodness, would by ill be cur’d;
+Which, rank of goodness, would by ill be cured.
 But thence I learn and find the lesson true,
 Drugs poison him that so fell sick of you.`,
     themes: ["healing/medicine"],
@@ -2362,19 +2362,19 @@ Drugs poison him that so fell sick of you.`,
   },
   {
     number: 119,
-    text: `What potions have I drunk of Siren tears,
-Distill’d from limbecks foul as hell within,
+    text: `What potions have I drunk of Siren tears
+Distilled from limbecks foul as hell within,
 Applying fears to hopes, and hopes to fears,
 Still losing when I saw myself to win!
 What wretched errors hath my heart committed,
-Whilst it hath thought itself so blessed never!
-How have mine eyes out of their spheres been fitted,
+Whilst it hath thought itself so blessèd never!
+How have mine eyes out of their spheres been fitted
 In the distraction of this madding fever!
-O benefit of ill! now I find true
-That better is, by evil still made better;
-And ruin’d love, when it is built anew,
+O benefit of ill: now I find true
+That better is by evil still made better,
+And ruined love, when it is built anew
 Grows fairer than at first, more strong, far greater.
-So I return rebuk’d to my content,
+So I return rebuked to my content,
 And gain by ill thrice more than I have spent.`,
     themes: ["transgressions","return"],
     imagery: ["Sirens","mythology","hell","sickness"],
@@ -2383,17 +2383,17 @@ And gain by ill thrice more than I have spent.`,
   {
     number: 120,
     text: `That you were once unkind befriends me now,
-And for that sorrow, which I then did feel,
+And for that sorrow which I then did feel
 Needs must I under my transgression bow,
-Unless my nerves were brass or hammer’d steel.
-For if you were by my unkindness shaken,
-As I by yours, you’ve pass’d a hell of time;
+Unless my nerves were brass or hammered steel.
+For if you were by my unkindness shaken
+As I by yours, you’ve passed a hell of time,
 And I, a tyrant, have no leisure taken
-To weigh how once I suffer’d in your crime.
-O! that our night of woe might have remember’d
+To weigh how once I suffered in your crime.
+O that our night of woe might have rememb’red
 My deepest sense, how hard true sorrow hits,
-And soon to you, as you to me, then tender’d
-The humble salve, which wounded bosoms fits!
+And soon to you, as you to me, then tendered
+The humble salve which wounded bosoms fits!
 But that your trespass now becomes a fee;
 Mine ransoms yours, and yours must ransom me.`,
     themes: ["transgressions","tyranny","healing/medicine","forgiveness"],
