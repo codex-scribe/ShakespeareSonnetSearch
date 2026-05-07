@@ -203,22 +203,10 @@ function displaySonnets(sonnets) {
             ? highlightText(sonnet.text, currentFilters.text)
             : sonnet.text;
 
-        const themeTags = sonnet.themes ? sonnet.themes.map(theme => 
-            `<span class="tag">${theme}</span>`
-        ).join('') : '';
-
-        const imageryTags = sonnet.imagery ? sonnet.imagery.map(img => 
-            `<span class="tag">${img}</span>`
-        ).join('') : '';
-
         return `
             <div class="sonnet-card">
                 <div class="sonnet-header">
                     <div class="sonnet-number">Sonnet ${sonnet.number}</div>
-                    <div class="sonnet-tags">
-                        ${themeTags}
-                        ${imageryTags}
-                    </div>
                 </div>
                 <div class="sonnet-text">${highlightedText}</div>
             </div>

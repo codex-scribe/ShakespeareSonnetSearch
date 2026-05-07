@@ -291,25 +291,9 @@ header h1 {
     font-family: Arial, sans-serif;
 }
 
-.sonnet-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 6px;
-}
-
-.tag {
-    padding: 3px 10px;
-    background: #eaeded; /* Light background for tags */
-    border-radius: 12px;
-    font-size: 0.8em;
-    color: var(--primary-color);
-    border: 1px solid #d5dbdb;
-    font-family: Arial, sans-serif;
-}
-
 .sonnet-text {
     font-size: 1.15em; /* Larger, readable text */
-    line-height: 1.8;
+    line-height: 1.4;
     color: var(--text-color);
     white-space: pre-line;
     font-family: 'Georgia', serif;
