@@ -2216,7 +2216,7 @@ No bitterness that I will bitter think,
 Nor double penance to correct correction.
 Pity me then, dear friend, and I assure ye
 Even that your pity is enough to cure me.`,
-    themes: ["fate/fortune","transgressions","ill reputation","healing/medicine"],
+    themes: ["fate/fortune","transgressions","ill reputation","healing/medicine","pity"],
     imagery: ["hand","bitterness","dye"],
     characters: ["Fair Youth"]
   },
@@ -2237,7 +2237,7 @@ Mark how with my neglect I do dispense:
 You are so strongly in my purpose bred
 That all the world besides methinks are dead.`,
     themes: ["ill reputation","moral correction"],
-    imagery: ["green","animals","steel"],
+    imagery: ["green","animals","steel","snake"],
     characters: ["Fair Youth"]
   },
   {
@@ -2256,7 +2256,7 @@ The mountain or the sea, the day or night,
 The crow or dove, it shapes them to your feature.
 Incapable of more, replete with you,
 My most true mind thus maketh mine eye untrue.`,
-    themes: ["separation","material vs. ideal world","imagination","eye vs. heart"],
+    themes: ["separation","material vs. ideal world","imagination","eye vs. heart","truth"],
     imagery: ["eyes","blindness","heart","birds","flowers","sweetness","mountain","ocean","day","night","crow","dove"],
     characters: ["Fair Youth"]
   },
@@ -2276,8 +2276,8 @@ Mine eye well knows what with his gust is ’greeing,
 And to his palate doth prepare the cup.
 If it be poisoned, ’tis the lesser sin
 That mine eye loves it and doth first begin.`,
-    themes: ["eye vs. heart"],
-    imagery: ["crown","sickness","royalty","eyes","heart","alchemy","monsters","cherubim","sweetness","poison"],
+    themes: ["eye vs. heart","self-deception"],
+    imagery: ["crown","sickness","royalty","eyes","heart","alchemy","monsters","cherubim","sweetness","poison","palate"],
     characters: ["Fair Youth"]
   },
   {
@@ -2296,8 +2296,8 @@ When I was certain o’er incertainty,
 Crowning the present, doubting of the rest?
 Love is a babe: then might I not say so,
 To give full growth to that which still doth grow.`,
-    themes: ["inadequacy of verse","passage of time","beauty","tyranny"],
-    imagery: ["fire","royalty","dullness","crown"],
+    themes: ["inadequacy of verse","passage of time","beauty","tyranny","sacredness"],
+    imagery: ["fire","royalty","dullness","crown","sharpness","baby"],
     characters: ["Fair Youth"]
   },
   {
@@ -2316,8 +2316,8 @@ Love alters not with his brief hours and weeks,
 But bears it out even to the edge of doom.
 If this be error and upon me proved,
 I never writ, nor no man ever loved.`,
-    themes: ["passage of time","writing"],
-    imagery: ["mind","boats","stars","cheek","lip","rose","scythe","end of the world"],
+    themes: ["passage of time","writing","steadfastness"],
+    imagery: ["mind","boats","stars","cheek","lip","rose","scythe","end of the world","storms"],
     characters: ["Fair Youth"]
   },
   {
@@ -2336,8 +2336,8 @@ Bring me within the level of your frown,
 But shoot not at me in your wakened hate:
 Since my appeal says I did strive to prove
 The constancy and virtue of your love.`,
-    themes: ["hate"],
-    imagery: ["mind","sails","wind","frown","accounting/tallying","legal system"],
+    themes: ["hate","separation","transgressions"],
+    imagery: ["mind","sails","wind","frown","accounting/tallying","legal system","boats","books"],
     characters: ["Fair Youth"]
   },
   {
@@ -2357,7 +2357,7 @@ Which, rank of goodness, would by ill be cured.
 But thence I learn and find the lesson true,
 Drugs poison him that so fell sick of you.`,
     themes: ["healing/medicine"],
-    imagery: ["palate","sickness","sweetness","bitterness"],
+    imagery: ["palate","sickness","sweetness","bitterness","eating","poison"],
     characters: ["Fair Youth"]
   },
   {
@@ -2376,8 +2376,8 @@ And ruined love, when it is built anew
 Grows fairer than at first, more strong, far greater.
 So I return rebuked to my content,
 And gain by ill thrice more than I have spent.`,
-    themes: ["transgressions","return"],
-    imagery: ["Sirens","mythology","hell","sickness"],
+    themes: ["transgressions","return","fear","madness","strength"],
+    imagery: ["Sirens","mythology","hell","sickness","bitterness","eyes"],
     characters: ["Fair Youth"]
   },
   {
