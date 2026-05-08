@@ -16,7 +16,7 @@ And, tender churl, mak’st waste in niggarding:
 Pity the world, or else this glutton be,
 To eat the world’s due, by the grave and thee.`,
     themes: ["beauty","mortality","immortality","imperative to procreation","abundance","waste","miserliness"],
-    imagery: ["flowers","rose","face","eyes","fire","seasons","spring","buds"],
+    imagery: ["flowers","rose","eyes","fire","seasons","spring","buds"],
     characters: ["Fair Youth"]
   },
   {
@@ -36,7 +36,7 @@ Proving his beauty by succession thine.
 This were to be new made when thou art old,
 And see thy blood warm when thou feel’st it cold.`,
     themes: ["beauty","imperative to procreation","immortality","youth","old age","the future"],
-    imagery: ["winter","seasons","brow","face","clothing","eyes","blood","wrinkles","heat","cold"],
+    imagery: ["winter","seasons","brow","clothing","eyes","blood","wrinkles","heat","cold"],
     characters: ["Fair Youth"]
   },
   {
@@ -176,7 +176,7 @@ And kept unused, the user so destroys it:
 No love toward others in that bosom sits
 That on himself such murd’rous shame commits.`,
     themes: ["imperative to procreation","mortality","grief","beauty","waste","shame","miserliness"],
-    imagery: ["widow","weeping","gaze","eyes","face"],
+    imagery: ["widow","weeping","gaze","eyes"],
     characters: ["Fair Youth"]
   },
   {
@@ -276,7 +276,7 @@ If from thy self to store thou wouldst convert:
 Or else of thee this I prognosticate,
 Thy end is truth’s and beauty’s doom and date.`,
     themes: ["abundance","fate/fortune","imperative to procreation","immortality","truth","mortality","world in decline"],
-    imagery: ["farming","rain","royalty","weather","eyes","face","stars","storms","plague","seasons","wind"],
+    imagery: ["farming","rain","royalty","weather","eyes","stars","storms","plague","seasons","wind"],
     characters: ["Fair Youth"]
   },
   {
@@ -476,7 +476,7 @@ Delights to peep, to gaze therein on thee.
 Yet eyes this cunning want to grace their art,
 They draw but what they see, know not the heart.`,
     themes: ["beauty"],
-    imagery: ["painting","face","eyes","sun","drawing","windows","edifices"],
+    imagery: ["painting","eyes","sun","drawing","windows","edifices"],
     characters: ["Fair Youth"]
   },
   {
@@ -976,7 +976,7 @@ To guard the lawful reasons on thy part:
 To leave poor me thou hast the strength of laws,
 Since why to love I can allege no cause.`,
     themes: ["unrequited love","indifference of beloved","self-denigration","loss"],
-    imagery: ["legal system","eyes","sun","accounting/tallying","face","hand"],
+    imagery: ["legal system","eyes","sun","accounting/tallying","hand"],
     characters: ["Fair Youth"]
   },
   {
@@ -2416,7 +2416,7 @@ I may be straight though they themselves be bevel;
 By their rank thoughts my deeds must not be shown,
 Unless this general evil they maintain:
 All men are bad and in their badness reign.`,
-    themes: ["ill reputation","transgressions","unfaithfulness","worth"],
+    themes: ["ill reputation","transgressions","unfaithfulness","worth","lust"],
     imagery: ["blood","eyes","accounting/tallying"],
     characters: []
   },
@@ -2436,8 +2436,8 @@ Therefore to give them from me was I bold,
 To trust those tables that receive thee more:
 To keep an adjunct to remember thee
 Were to import forgetfulness in me.`,
-    themes: ["memory","forgetting","gifts"],
-    imagery: ["brain","heart"],
+    themes: ["memory","forgetting","gifts","material vs. ideal world"],
+    imagery: ["brain","heart","books","accounting/tallying"],
     characters: ["Fair Youth"]
   },
   {
@@ -2456,8 +2456,8 @@ For thy recórds and what we see doth lie,
 Made more or less by thy continual haste.
 This I do vow and this shall ever be:
 I will be true despite thy scythe and thee.`,
-    themes: ["passage of time","mortality","steadfastness"],
-    imagery: ["pyramids","scythe"],
+    themes: ["passage of time","mortality","steadfastness","the past","faithfulness"],
+    imagery: ["pyramids","scythe","edifices"],
     characters: []
   },
   {
@@ -2476,9 +2476,9 @@ But all alone stands hugely politic,
 That it nor grows with heat, nor drowns with showers.
 To this I witness call the fools of Time,
 Which die for goodness, who have lived for crime.`,
-    themes: ["steadfastness","changefulness","fate/fortune"],
-    imagery: ["flowers","weeds","legal system"],
-    characters: ["Fair Youth"]
+    themes: ["steadfastness","changefulness","fate/fortune","artificiality","crime"],
+    imagery: ["flowers","weeds","legal system","heat","rain"],
+    characters: []
   },
   {
     number: 125,
@@ -2496,8 +2496,8 @@ Which is not mixed with seconds, knows no art
 But mutual render, only me for thee.
 Hence, thou suborned informer! A true soul
 When most impeached, stands least in thy control.`,
-    themes: ["gifts","immortality","truth"],
-    imagery: ["sky","sweetness"],
+    themes: ["gifts","immortality","truth","decay","steadfastness","purity"],
+    imagery: ["sky","sweetness","edifices"],
     characters: ["Fair Youth"]
   },
   {
@@ -2514,7 +2514,7 @@ Yet fear her, O thou minion of her pleasure,
 She may detain, but not still keep, her treasure!
 Her audit, though delayed, answered must be,
 And her quietus is to render thee.`,
-    themes: ["passage of time","mortality","growth"],
+    themes: ["passage of time","mortality","growth","decay","immortality","youth"],
     imagery: ["mirror","treasure","legal system","accounting/tallying","hourglass"],
     characters: ["Fair Youth"]
   },
@@ -2534,8 +2534,8 @@ At such who not born fair no beauty lack,
 Sland’ring creation with a false esteem:
 Yet so they mourn, becoming of their woe,
 That every tongue says beauty should look so.`,
-    themes: ["beauty","shame","artificiality","mourning"],
-    imagery: ["black","hand","raven","birds"],
+    themes: ["beauty","shame","artificiality","mourning","the past","disgrace","appreciation"],
+    imagery: ["black","hand","raven","birds","tongue","face"],
     characters: ["Dark Lady"]
   },
   {
@@ -2574,8 +2574,8 @@ A bliss in proof, and proved, a very woe,
 Before, a joy proposed, behind, a dream.
 All this the world well knows yet none knows well
 To shun the heaven that leads men to this hell.`,
-    themes: ["shame","lust","sexuality","waste","falsehood","evil","hate","possession","pleasure","moral correction","disappointment","disgrace","transgressions","vacillation of moods","weakness","cruelty"],
-    imagery: ["heaven","hell","dreams","blood"],
+    themes: ["shame","lust","sexuality","waste","falsehood","evil","hate","possession","pleasure","moral correction","disappointment","disgrace","transgressions","vacillation of moods","weakness","cruelty","sin","excess","madness","temptation"],
+    imagery: ["heaven","hell","dreams","blood","poison"],
     characters: []
   },
   {
@@ -2595,7 +2595,7 @@ My mistress when she walks treads on the ground.
 And yet by heaven I think my love as rare
 As any she belied with false compare.`,
     themes: ["speaking","appreciation","beauty"],
-    imagery: ["eyes","sun","coral","lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","smells","perfume","breathing","music","god","heaven"],
+    imagery: ["eyes","sun","coral","lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","smells","perfume","breathing","music","god","heaven","face","walking"],
     characters: ["Dark Lady"]
   },
   {
