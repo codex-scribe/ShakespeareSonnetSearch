@@ -2402,19 +2402,19 @@ Mine ransoms yours, and yours must ransom me.`,
   },
   {
     number: 121,
-    text: `’Tis better to be vile than vile esteem’d,
-When not to be receives reproach of being;
-And the just pleasure lost, which is so deem’d
-Not by our feeling, but by others’ seeing:
+    text: `’Tis better to be vile than vile esteemed,
+When not to be receives reproach of being,
+And the just pleasure lost, which is so deemed
+Not by our feeling, but by others’ seeing.
 For why should others’ false adulterate eyes
 Give salutation to my sportive blood?
 Or on my frailties why are frailer spies,
 Which in their wills count bad what I think good?
 No, I am that I am, and they that level
-At my abuses reckon up their own:
+At my abuses reckon up their own;
 I may be straight though they themselves be bevel;
-By their rank thoughts, my deeds must not be shown;
-Unless this general evil they maintain,
+By their rank thoughts my deeds must not be shown,
+Unless this general evil they maintain:
 All men are bad and in their badness reign.`,
     themes: ["ill reputation","transgressions","unfaithfulness","worth"],
     imagery: ["blood","eyes","accounting/tallying"],
@@ -2423,13 +2423,13 @@ All men are bad and in their badness reign.`,
   {
     number: 122,
     text: `Thy gift, thy tables, are within my brain
-Full character’d with lasting memory,
-Which shall above that idle rank remain,
-Beyond all date; even to eternity:
+Full charactered with lasting memory,
+Which shall above that idle rank remain
+Beyond all date, even to eternity;
 Or, at the least, so long as brain and heart
 Have faculty by nature to subsist;
-Till each to raz’d oblivion yield his part
-Of thee, thy record never can be miss’d.
+Till each to razed oblivion yield his part
+Of thee, thy record never can be missed.
 That poor retention could not so much hold,
 Nor need I tallies thy dear love to score;
 Therefore to give them from me was I bold,
@@ -2442,19 +2442,19 @@ Were to import forgetfulness in me.`,
   },
   {
     number: 123,
-    text: `No, Time, thou shalt not boast that I do change:
+    text: `No! Time, thou shalt not boast that I do change:
 Thy pyramids built up with newer might
 To me are nothing novel, nothing strange;
 They are but dressings of a former sight.
 Our dates are brief, and therefore we admire
-What thou dost foist upon us that is old;
+What thou dost foist upon us that is old,
 And rather make them born to our desire
 Than think that we before have heard them told.
 Thy registers and thee I both defy,
 Not wondering at the present nor the past,
-For thy records and what we see doth lie,
+For thy recórds and what we see doth lie,
 Made more or less by thy continual haste.
-This I do vow and this shall ever be;
+This I do vow and this shall ever be:
 I will be true despite thy scythe and thee.`,
     themes: ["passage of time","mortality","steadfastness"],
     imagery: ["pyramids","scythe"],
@@ -2463,18 +2463,18 @@ I will be true despite thy scythe and thee.`,
   {
     number: 124,
     text: `If my dear love were but the child of state,
-It might for Fortune’s bastard be unfather’d,
+It might for Fortune’s bastard be unfathered,
 As subject to Time’s love or to Time’s hate,
-Weeds among weeds, or flowers with flowers gather’d.
+Weeds among weeds, or flowers with flowers gathered.
 No, it was builded far from accident;
 It suffers not in smiling pomp, nor falls
-Under the blow of thralled discontent,
-Whereto th’ inviting time our fashion calls:
-It fears not policy, that heretic,
+Under the blow of thrallèd discontent,
+Whereto th’inviting time our fashion calls:
+It fears not Policy, that heretic,
 Which works on leases of short-number’d hours,
 But all alone stands hugely politic, 
 That it nor grows with heat, nor drowns with showers.
-To this I witness call the fools of time,
+To this I witness call the fools of Time,
 Which die for goodness, who have lived for crime.`,
     themes: ["steadfastness","changefulness","fate/fortune"],
     imagery: ["flowers","weeds","legal system"],
@@ -2487,32 +2487,32 @@ With my extern the outward honouring,
 Or laid great bases for eternity,
 Which proves more short than waste or ruining?
 Have I not seen dwellers on form and favour
-Lose all and more by paying too much rent
-For compound sweet; forgoing simple savour,
+Lose all and more by paying too much rent,
+For compound sweet forgoing simple savour,
 Pitiful thrivers, in their gazing spent?
 No; let me be obsequious in thy heart,
 And take thou my oblation, poor but free,
-Which is not mix’d with seconds, knows no art,
+Which is not mixed with seconds, knows no art
 But mutual render, only me for thee.
-Hence, thou suborned informer! a true soul
-When most impeach’d, stands least in thy control.`,
+Hence, thou suborned informer! A true soul
+When most impeached, stands least in thy control.`,
     themes: ["gifts","immortality","truth"],
     imagery: ["sky","sweetness"],
     characters: ["Fair Youth"]
   },
   {
     number: 126,
-    text: `O thou, my lovely boy, who in thy power
+    text: `O thou my lovely boy, who in thy power
 Dost hold Time’s fickle glass, his fickle hour;
 Who hast by waning grown, and therein show’st
 Thy lovers withering, as thy sweet self grow’st.
 If Nature, sovereign mistress over wrack,
-As thou goest onwards, still will pluck thee back,
+As thou goest onwards still will pluck thee back,
 She keeps thee to this purpose, that her skill
 May time disgrace and wretched minutes kill.
-Yet fear her, O thou minion of her pleasure!
-She may detain, but not still keep, her treasure:
-Her audit (though delayed) answered must be,
+Yet fear her, O thou minion of her pleasure,
+She may detain, but not still keep, her treasure!
+Her audit, though delayed, answered must be,
 And her quietus is to render thee.`,
     themes: ["passage of time","mortality","growth"],
     imagery: ["mirror","treasure","legal system","accounting/tallying","hourglass"],
@@ -2523,16 +2523,16 @@ And her quietus is to render thee.`,
     text: `In the old age black was not counted fair,
 Or if it were, it bore not beauty’s name;
 But now is black beauty’s successive heir,
-And beauty slander’d with a bastard shame:
-For since each hand hath put on Nature’s power, 
-Fairing the foul with Art’s false borrowed face,
+And beauty slandered with a bastard shame:
+For since each hand hath put on Nature’s power,
+Fairing the foul with art’s false borrowed face,
 Sweet beauty hath no name, no holy bower,
-But is profan’d, if not lives in disgrace.
+But is profaned, if not lives in disgrace.
 Therefore my mistress’ eyes are raven black,
 Her eyes so suited, and they mourners seem
-At such who, not born fair, no beauty lack,
+At such who not born fair no beauty lack,
 Sland’ring creation with a false esteem:
-Yet so they mourn becoming of their woe,
+Yet so they mourn, becoming of their woe,
 That every tongue says beauty should look so.`,
     themes: ["beauty","shame","artificiality","mourning"],
     imagery: ["black","hand","raven","birds"],
@@ -2541,17 +2541,17 @@ That every tongue says beauty should look so.`,
   {
     number: 128,
     text: `How oft when thou, my music, music play’st,
-Upon that blessed wood whose motion sounds
+Upon that blessèd wood whose motion sounds
 With thy sweet fingers when thou gently sway’st
 The wiry concord that mine ear confounds,
-Do I envy those jacks that nimble leap,
+Do I envy those jacks that nimble leap
 To kiss the tender inward of thy hand,
-Whilst my poor lips which should that harvest reap,
+Whilst my poor lips, which should that harvest reap,
 At the wood’s boldness by thee blushing stand!
 To be so tickled, they would change their state 
-And situation with those dancing chips,
+And situation with those dancing chips
 O’er whom thy fingers walk with gentle gait,
-Making dead wood more bless’d than living lips.
+Making dead wood more blest than living lips.
 Since saucy jacks so happy are in this,
 Give them thy fingers, me thy lips to kiss.`,
     themes: ["sacredness","appreciation"],
@@ -2560,19 +2560,19 @@ Give them thy fingers, me thy lips to kiss.`,
   },
   {
     number: 129,
-    text: `The expense of spirit in a waste of shame
-Is lust in action: and till action, lust
-Is perjur’d, murderous, bloody, full of blame,
+    text: `Th’expense of spirit in a waste of shame
+Is lust in action, and till action, lust
+Is perjured, murd’rous, bloody, full of blame,
 Savage, extreme, rude, cruel, not to trust;
-Enjoy’d no sooner but despised straight;
-Past reason hunted; and no sooner had,
-Past reason hated, as a swallow’d bait,
+Enjoyed no sooner but despisèd straight,
+Past reason hunted, and no sooner had,
+Past reason hated, as a swallowed bait
 On purpose laid to make the taker mad:
-Mad in pursuit and in possession so;
-Had, having, and in quest, to have extreme;
-A bliss in proof,-- and prov’d, a very woe;
-Before, a joy propos’d; behind a dream.
-All this the world well knows; yet none knows well
+Mad in pursuit and in possession so,
+Had, having, and in quest to have, extreme;
+A bliss in proof, and proved, a very woe,
+Before, a joy proposed, behind, a dream.
+All this the world well knows yet none knows well
 To shun the heaven that leads men to this hell.`,
     themes: ["shame","lust","sexuality","waste","falsehood","evil","hate","possession","pleasure","moral correction","disappointment","disgrace","transgressions","vacillation of moods","weakness","cruelty"],
     imagery: ["heaven","hell","dreams","blood"],
@@ -2581,18 +2581,18 @@ To shun the heaven that leads men to this hell.`,
   {
     number: 130,
     text: `My mistress’ eyes are nothing like the sun;
-Coral is far more red, than her lips red:
+Coral is far more red than her lips’ red;
 If snow be white, why then her breasts are dun;
 If hairs be wires, black wires grow on her head.
-I have seen roses damask’d, red and white,
-But no such roses see I in her cheeks;
+I have seen roses damasked, red and white,
+But no such roses see I in her cheeks,
 And in some perfumes is there more delight
 Than in the breath that from my mistress reeks.
 I love to hear her speak, yet well I know
-That music hath a far more pleasing sound:
-I grant I never saw a goddess go,--
-My mistress, when she walks, treads on the ground:
-And yet by heaven, I think my love as rare,
+That music hath a far more pleasing sound;
+I grant I never saw a goddess go—
+My mistress when she walks treads on the ground.
+And yet by heaven I think my love as rare
 As any she belied with false compare.`,
     themes: ["speaking","appreciation","beauty"],
     imagery: ["eyes","sun","coral","lip","red","breasts","snow","white","black","hair","pink","rose","cheek","wire","smells","perfume","breathing","music","god","heaven"],
