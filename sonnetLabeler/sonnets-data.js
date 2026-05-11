@@ -355,7 +355,7 @@ Nor shall Death brag thou wand’rest in his shade,
 When in eternal lines to time thou grow’st.
 So long as men can breathe or eyes can see,
 So long lives this, and this gives life to thee.`,
-    themes: ["beauty","immortality","decay","mortality","possession","immortality through verse"],
+    themes: ["beauty","immortality","decay","mortality","possession","immortality through verse","appreciation"],
     imagery: ["weather","seasons","summer","wind","May","sun","gold","verse","buds","heat","day","time of day","months","shadow"],
     characters: ["Fair Youth"]
   },
@@ -395,7 +395,7 @@ And by addition me of thee defeated,
 By adding one thing to my purpose nothing.
 But since she pricked thee out for women’s pleasure,
 Mine be thy love, and thy love’s use their treasure.`,
-    themes: ["theft","deception","sexuality","possession","beauty","changefulness"],
+    themes: ["theft","deception","sexuality","possession","beauty","changefulness","feigned acceptance"],
     imagery: ["face","heart","eyes","gaze","painting","hand","treasure"],
     characters: ["Fair Youth"]
   },
@@ -1655,7 +1655,7 @@ For I impair not beauty being mute,
 When others would give life, and bring a tomb.
 There lives more life in one of your fair eyes
 Than both your poets can in praise devise.`,
-    themes: ["artificiality","beauty","lending/debt","writing","inadequacy of verse","worth","muteness","sin"],
+    themes: ["artificiality","beauty","lending/debt","writing","inadequacy of verse","worth","muteness","sin","appreciation"],
     imagery: ["painting","pen","grave/tomb","eyes"],
     characters: ["Fair Youth","Rival Poet"]
   },
@@ -2016,7 +2016,7 @@ To make him much outlive a gilded tomb,
 And to be praised of ages yet to be.
 Then do thy office, Muse; I teach thee how
 To make him seem long hence as he shows now.`,
-    themes: ["beauty","truth","artificiality","muteness","the future","immortality through verse","mortality"],
+    themes: ["beauty","truth","artificiality","muteness","the future","immortality through verse","mortality","castigation"],
     imagery: ["painting","grave/tomb","gold","dye","pencil"],
     characters: ["Fair Youth","Muse"]
   },
@@ -2774,7 +2774,7 @@ And therefore from my face she turns my foes,
 That they elsewhere might dart their injuries.”
 Yet do not so; but since I am near slain, 
 Kill me outright with looks, and rid my pain.`,
-    themes: ["unfaithfulness","transgressions","unrequited love"],
+    themes: ["unfaithfulness","transgressions","unrequited love","bargaining/pleading"],
     imagery: ["tongue","heart","eyes"],
     characters: ["Dark Lady"]
   },
@@ -2794,7 +2794,7 @@ Now this ill-wresting world is grown so bad,
 Mad slanderers by mad ears believèd be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
-    themes: ["cruelty","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
+    themes: ["cruelty","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception","bargaining/pleading"],
     imagery: ["sickness","eyes","ears","tongue"],
     characters: ["Dark Lady"]
   },
