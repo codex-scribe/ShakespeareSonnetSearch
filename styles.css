@@ -36,6 +36,8 @@ body {
     border-radius: 0;
     box-shadow: none;
     overflow: visible; /* Allow sticky elements */
+    z-index: 10;
+    position: relative;
 }
 
 header {
@@ -50,10 +52,16 @@ header {
 }
 
 .header-roses {
-    /* Style and size the roses image for the top left */
+    /* Style and size the roses image for the top left
     max-height: 120px;
-    border-radius: 12px; /* Slight softening of image edges */
-    flex-shrink: 0;
+    border-radius: 12px; //Slight softening of image edges 
+    flex-shrink: 0; */
+    width: 50%;
+    top:-5%;
+    left: -5%;
+    position: fixed;
+    opacity: 0.5;
+    z-index: 0;
 }
 
 header h1 {
@@ -216,24 +224,6 @@ header h1 {
 .checkbox-item .filter-checkbox:checked + span {
     font-weight: 600;
     color: var(--primary-color);
-}
-
-/* Nested categories - remove boxy structure */
-.nested-category {
-    grid-column: 1 / -1;
-}
-
-.nested-checkbox-list {
-    display: none;
-    margin-left: 20px;
-    margin-top: 5px;
-    padding-left: 15px;
-    border-left: 1px solid var(--border-color); /* thinner line */
-}
-
-.nested-checkbox-list.level-2 {
-    margin-left: 20px;
-    border-left-color: var(--hover-color);
 }
 
 .results-section {

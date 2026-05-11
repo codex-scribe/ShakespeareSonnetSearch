@@ -1,0 +1,403 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shakespeare Sonnet Search</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <img src="LightMode.png" alt="Roses" class="header-roses" />
+    <div class="container">
+      <header>
+        <div class="header-titles">
+          <h1>Shakespeare Sonnet Search</h1>
+          <p class="subtitle">
+            Explore all 154 sonnets by theme, imagery, and more
+          </p>
+        </div>
+      </header>
+
+      <div class="main">
+        <div class="search-section">
+          <div class="text-search-section">
+            <div class="search-box">
+              <input
+                type="text"
+                id="text-search"
+                placeholder="Search sonnets by any word or phrase..."
+              />
+              <button id="text-search-btn">Search</button>
+            </div>
+          </div>
+
+          <div class="filter-sections">
+            <div class="filter-section">
+              <label class="filter-section-toggle">
+                <input
+                  type="checkbox"
+                  id="theme-toggle"
+                  class="section-checkbox"
+                />
+                <span class="toggle-label">By Theme</span>
+              </label>
+              <div class="checkbox-list" id="theme-checkboxes">
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="death"
+                  />
+                  <span>Death</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="love"
+                  />
+                  <span>Love</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="beauty"
+                  />
+                  <span>Beauty</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="time"
+                  />
+                  <span>Time</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="age"
+                  />
+                  <span>Age</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="youth"
+                  />
+                  <span>Youth</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="immortality"
+                  />
+                  <span>Immortality</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="grief"
+                  />
+                  <span>Grief</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="war"
+                  />
+                  <span>War</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="fortune"
+                  />
+                  <span>Fortune</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="memory"
+                  />
+                  <span>Memory</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="theme"
+                    data-filter="loss"
+                  />
+                  <span>Loss</span>
+                </label>
+              </div>
+            </div>
+
+            <div class="filter-section">
+              <label class="filter-section-toggle">
+                <input
+                  type="checkbox"
+                  id="imagery-toggle"
+                  class="section-checkbox"
+                />
+                <span class="toggle-label">By Imagery</span>
+              </label>
+              <div class="checkbox-list" id="imagery-checkboxes">
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="flowers"
+                  />
+                  <span>Flowers</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="jewels"
+                  />
+                  <span>Jewels</span>
+                </label>
+                <div class="nested-category">
+                  <label class="checkbox-item parent-category">
+                    <input
+                      type="checkbox"
+                      class="filter-checkbox parent-checkbox"
+                      data-type="imagery"
+                      data-filter="body parts"
+                      data-parent="true"
+                    />
+                    <span>Body Parts</span>
+                  </label>
+                  <div class="nested-checkbox-list">
+                    <label class="checkbox-item nested-item parent-category">
+                      <input
+                        type="checkbox"
+                        class="filter-checkbox parent-checkbox"
+                        data-type="imagery"
+                        data-filter="face"
+                        data-parent-category="body parts"
+                        data-parent="true"
+                      />
+                      <span>Face</span>
+                    </label>
+                    <div class="nested-checkbox-list level-2">
+                      <label class="checkbox-item nested-item level-2">
+                        <input
+                          type="checkbox"
+                          class="filter-checkbox"
+                          data-type="imagery"
+                          data-filter="brow"
+                          data-parent-category="face"
+                        />
+                        <span>Brow</span>
+                      </label>
+                      <label class="checkbox-item nested-item level-2">
+                        <input
+                          type="checkbox"
+                          class="filter-checkbox"
+                          data-type="imagery"
+                          data-filter="eyes"
+                          data-parent-category="face"
+                        />
+                        <span>Eyes</span>
+                      </label>
+                      <label class="checkbox-item nested-item level-2">
+                        <input
+                          type="checkbox"
+                          class="filter-checkbox"
+                          data-type="imagery"
+                          data-filter="nose"
+                          data-parent-category="face"
+                        />
+                        <span>Nose</span>
+                      </label>
+                      <label class="checkbox-item nested-item level-2">
+                        <input
+                          type="checkbox"
+                          class="filter-checkbox"
+                          data-type="imagery"
+                          data-filter="cheeks"
+                          data-parent-category="face"
+                        />
+                        <span>Cheeks</span>
+                      </label>
+                      <label class="checkbox-item nested-item level-2">
+                        <input
+                          type="checkbox"
+                          class="filter-checkbox"
+                          data-type="imagery"
+                          data-filter="lips"
+                          data-parent-category="face"
+                        />
+                        <span>Lips</span>
+                      </label>
+                      <label class="checkbox-item nested-item level-2">
+                        <input
+                          type="checkbox"
+                          class="filter-checkbox"
+                          data-type="imagery"
+                          data-filter="mouth"
+                          data-parent-category="face"
+                        />
+                        <span>Mouth</span>
+                      </label>
+                    </div>
+                    <label class="checkbox-item nested-item">
+                      <input
+                        type="checkbox"
+                        class="filter-checkbox"
+                        data-type="imagery"
+                        data-filter="hair"
+                        data-parent-category="body parts"
+                      />
+                      <span>Hair</span>
+                    </label>
+                    <label class="checkbox-item nested-item">
+                      <input
+                        type="checkbox"
+                        class="filter-checkbox"
+                        data-type="imagery"
+                        data-filter="arms"
+                        data-parent-category="body parts"
+                      />
+                      <span>Arms</span>
+                    </label>
+                    <label class="checkbox-item nested-item">
+                      <input
+                        type="checkbox"
+                        class="filter-checkbox"
+                        data-type="imagery"
+                        data-filter="hands"
+                        data-parent-category="body parts"
+                      />
+                      <span>Hands</span>
+                    </label>
+                    <label class="checkbox-item nested-item">
+                      <input
+                        type="checkbox"
+                        class="filter-checkbox"
+                        data-type="imagery"
+                        data-filter="legs"
+                        data-parent-category="body parts"
+                      />
+                      <span>Legs</span>
+                    </label>
+                  </div>
+                </div>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="nature"
+                  />
+                  <span>Nature</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="water"
+                  />
+                  <span>Water</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="birds"
+                  />
+                  <span>Birds</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="fire"
+                    />
+                  <span>Fire</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="stars"
+                  />
+                  <span>Stars</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="seasons"
+                  />
+                  <span>Seasons</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="monuments"
+                  />
+                  <span>Monuments</span>
+                </label>
+                <label class="checkbox-item">
+                  <input
+                    type="checkbox"
+                    class="filter-checkbox"
+                    data-type="imagery"
+                    data-filter="war"
+                  />
+                  <span>War</span>
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <div class="active-filters" id="active-filters"></div>
+        </div>
+
+        <div class="results-section">
+          <div class="results-header">
+            <h2 id="results-title">All Sonnets</h2>
+            <span id="results-count"></span>
+          </div>
+          <div id="results-container"></div>
+        </div>
+      </div>
+    </div>
+
+    <script src="SonnetSample.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

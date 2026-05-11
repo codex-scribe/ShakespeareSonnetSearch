@@ -1,17 +1,6 @@
 // Include sonnetsData variable from SonnetSample.js (required)
 // Original application logic for Shakespeare Sonnet Search preserved
 
-const imageryHierarchy = {
-    'body parts': {
-        children: ['face', 'hair', 'arms', 'hands', 'legs'],
-        allDescendants: ['face', 'hair', 'arms', 'hands', 'legs', 'brow', 'eyes', 'nose', 'cheeks', 'lips', 'mouth']
-    },
-    'face': {
-        children: ['brow', 'eyes', 'nose', 'cheeks', 'lips', 'mouth'],
-        allDescendants: ['brow', 'eyes', 'nose', 'cheeks', 'lips', 'mouth']
-    }
-};
-
 let currentFilters = {
     text: '',
     themes: [],
@@ -76,41 +65,7 @@ function setupEventListeners() {
         checkbox.addEventListener('change', function() {
             const filterType = this.getAttribute('data-type');
             const filterValue = this.getAttribute('data-filter');
-            const isParent = this.getAttribute('data-parent') === 'true';
-            
-            toggleFilter(filterType, filterValue, this.checked, isParent);
-            
-            // Handle parent checkbox - show/hide nested items
-            if (isParent && filterType === 'imagery') {
-                const nestedCategory = this.closest('.nested-category');
-                if (nestedCategory) {
-                    const nestedList = nestedCategory.querySelector('.nested-checkbox-list');
-                    if (nestedList) {
-                        if (this.checked) {
-                            nestedList.classList.add('visible');
-                        } else {
-                            nestedList.classList.remove('visible');
-                        }
-                    }
-                }
-            }
-        });
-    });
-    
-    // Handle nested parent checkboxes (like "face" within "body parts")
-    document.querySelectorAll('.nested-item input[data-parent="true"]').forEach(checkbox => {
-        checkbox.addEventListener('change', function() {
-            const parentItem = this.closest('.nested-item');
-            if (parentItem) {
-                const nestedList = parentItem.nextElementSibling;
-                if (nestedList && nestedList.classList.contains('nested-checkbox-list')) {
-                    if (this.checked) {
-                        nestedList.classList.add('visible');
-                    } else {
-                        nestedList.classList.remove('visible');
-                    }
-                }
-            }
+          toggleFilter(filterType, filterValue, this.checked);
         });
     });
 }
@@ -126,7 +81,7 @@ function performTextSearch() {
 }
 
 // Toggle a filter (theme or imagery)
-function toggleFilter(filterType, filterValue, isChecked, isParent = false) {
+function toggleFilter(filterType, filterValue, isChecked) {
     if (filterType === 'theme') {
         if (isChecked) {
             if (!currentFilters.themes.includes(filterValue)) {
@@ -140,10 +95,8 @@ function toggleFilter(filterType, filterValue, isChecked, isParent = false) {
             if (!currentFilters.imagery.includes(filterValue)) {
                 currentFilters.imagery.push(filterValue);
             }
-            // hierarchical handling logic omitted for brevity as it remains unchanged from original app.js
         } else {
             currentFilters.imagery = currentFilters.imagery.filter(i => i !== filterValue);
-            // hierarchical handling logic omitted for brevity as it remains unchanged from original app.js
         }
     }
 
@@ -176,7 +129,12 @@ function performSearch() {
 
     // Filter by imagery (conjunctive: ALL selected imagery must be present)
     if (currentFilters.imagery.length > 0) {
-        // hierarchical imagery logic omitted as it remains unchanged from original app.js
+        results = results.filter(sonnet => {
+            return sonnet.imagery && 
+                   currentFilters.imagery.every(image => 
+                       sonnet.imagery.includes(image)
+                   );
+        });
     }
 
     displaySonnets(results);
