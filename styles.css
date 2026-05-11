@@ -84,7 +84,7 @@ header h1 {
 }
 
 .search-section {
-    flex: 0 0 320px; /* Sightly smaller width */
+    flex: 0 0 450px; /* Sightly smaller width */
     padding: 0; /* No padding on container itself */
     background: transparent; /* Floating sidebar */
     border-right: none; /* Remove border division */
@@ -184,8 +184,6 @@ header h1 {
     margin-top: 15px;
     padding: 15px 0 0 0;
     border-top: 1px solid var(--border-color); /* subtle top line */
-    max-height: 300px;
-    overflow-y: auto;
     grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
     gap: 8px;
 }
@@ -327,4 +325,22 @@ header h1 {
         border-bottom: 1px solid var(--border-color);
         padding-bottom: 20px;
     }
+}
+
+/* Custom Scrollbar for WebKit Browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 8px; /* Makes the scrollbar much thinner */
+}
+
+::-webkit-scrollbar-track {
+    background: transparent; /* Makes the track invisible so it floats seamlessly */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgba(44, 62, 80, 0.2); /* A soft, semi-transparent version of your primary color */
+    border-radius: 10px; /* Gives the scrollbar elegant rounded edges */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: rgba(44, 62, 80, 0.4); /* Darkens slightly when the user hovers over it */
 }
