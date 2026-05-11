@@ -2600,7 +2600,7 @@ As any she belied with false compare.`,
   },
   {
     number: 131,
-    text: `Thou art as tyrannous, so as thou art, 
+    text: `Thou art as tyrannous, so as thou art,
 As those whose beauties proudly make them cruel;
 For well thou know’st to my dear doting heart
 Thou art the fairest and most precious jewel.
@@ -2609,27 +2609,27 @@ Thy face hath not the power to make love groan;
 To say they err I dare not be so bold,
 Although I swear it to myself alone.
 And to be sure that is not false I swear,
-A thousand groans, but thinking on thy face,
-One on another’s neck, do witness bear
+A thousand groans but thinking on thy face
+One on another’s neck do witness bear
 Thy black is fairest in my judgement’s place.
 In nothing art thou black save in thy deeds,
 And thence this slander, as I think, proceeds.`,
     themes: ["tyranny","cruelty","beauty","pride","truth","falsehood","transgressions","ill reputation"],
-    imagery: ["heart","gems","face"],
+    imagery: ["heart","gems","face","black"],
     characters: ["Dark Lady"]
   },
   {
     number: 132,
     text: `Thine eyes I love, and they, as pitying me,
-Knowing thy heart torment me with disdain,
+Knowing thy heart torments me with disdain,
 Have put on black and loving mourners be,
 Looking with pretty ruth upon my pain.
 And truly not the morning sun of heaven 
 Better becomes the grey cheeks of the east,
-Nor that full star that ushers in the even,
+Nor that full star that ushers in the even
 Doth half that glory to the sober west,
-As those two mourning eyes become thy face:
-O! let it then as well beseem thy heart
+As those two mourning eyes become thy face.
+O let it then as well beseem thy heart
 To mourn for me since mourning doth thee grace,
 And suit thy pity like in every part.
 Then will I swear beauty herself is black,
@@ -2641,18 +2641,18 @@ And all they foul that thy complexion lack.`,
   {
     number: 133,
     text: `Beshrew that heart that makes my heart to groan
-For that deep wound it gives my friend and me!
+For that deep wound it gives my friend and me;
 Is’t not enough to torture me alone,
 But slave to slavery my sweet’st friend must be?
 Me from myself thy cruel eye hath taken,
-And my next self thou harder hast engross’d:
-Of him, myself, and thee I am forsaken;
-A torment thrice three-fold thus to be cross’d:
+And my next self thou harder hast engrossed;
+Of him, myself, and thee I am forsaken,
+A torment thrice threefold thus to be crossed.
 Prison my heart in thy steel bosom’s ward, 
 But then my friend’s heart let my poor heart bail;
-Whoe’er keeps me, let my heart be his guard;
-Thou canst not then use rigour in my jail:
-And yet thou wilt; for I, being pent in thee,
+Whoe’er keeps me, let my heart be his guard,
+Thou canst not then use rigour in my jail.
+And yet thou wilt, for I, being pent in thee,
 Perforce am thine, and all that is in me.`,
     themes: ["castigation","torture","slavery","union of speaker and beloved"],
     imagery: ["groan","heart","wound","sweetness","eyes","prison","steel","legal system"],
@@ -2660,19 +2660,19 @@ Perforce am thine, and all that is in me.`,
   },
   {
     number: 134,
-    text: `So, now I have confess’d that he is thine,
-And I my self am mortgag’d to thy will,
+    text: `So now I have confessed that he is thine,
+And I myself am mortgaged to thy will,
 Myself I’ll forfeit, so that other mine
 Thou wilt restore to be my comfort still:
 But thou wilt not, nor he will not be free,
 For thou art covetous, and he is kind;
-He learn’d but surety-like to write for me,
+He learned but surety-like to write for me
 Under that bond that him as fast doth bind.
 The statute of thy beauty thou wilt take,
-Thou usurer, that putt’st forth all to use,
-And sue a friend came debtor for my sake;
+Thou usurer, that put’st forth all to use,
+And sue a friend came debtor for my sake,
 So him I lose through my unkind abuse.
-Him have I lost; thou hast both him and me:
+Him have I lost, thou hast both him and me;
 He pays the whole, and yet am I not free.`,
     themes: ["union of speaker and beloved","possession","jealousy","writing","lending/debt"],
     imagery: ["legal system"],
@@ -2680,9 +2680,9 @@ He pays the whole, and yet am I not free.`,
   },
   {
     number: 135,
-    text: `Whoever hath her wish, thou hast thy ’Will,’
-And ’Will’ to boot, and ’Will’ in over-plus;
-More than enough am I that vex’d thee still,
+    text: `Whoever hath her wish, thou hast thy Will,
+And Will to boot, and Will in overplus;
+More than enough am I that vex thee still,
 To thy sweet will making addition thus.
 Wilt thou, whose will is large and spacious,
 Not once vouchsafe to hide my will in thine?
@@ -2690,10 +2690,10 @@ Shall will in others seem right gracious,
 And in my will no fair acceptance shine?
 The sea, all water, yet receives rain still,
 And in abundance addeth to his store;
-So thou, being rich in ’Will,’ add to thy ’Will’
-One will of mine, to make thy large will more.
-Let no unkind ’No’ fair beseechers kill;
-Think all but one, and me in that one ’Will.’`,
+So thou, being rich in Will add to thy Will
+One will of mine, to make thy large Will more.
+Let no unkind, no fair beseechers kill;
+Think all but one, and me in that one Will.`,
     themes: ["abundance","union of speaker and beloved","possession"],
     imagery: ["rain","ocean","water"],
     characters: ["Dark Lady"]
@@ -2701,19 +2701,19 @@ Think all but one, and me in that one ’Will.’`,
   {
     number: 136,
     text: `If thy soul check thee that I come so near, 
-Swear to thy blind soul that I was thy ’Will’,
+Swear to thy blind soul that I was thy Will,
 And will, thy soul knows, is admitted there;
-Thus far for love, my love-suit, sweet, fulfil.
-’Will’, will fulfil the treasure of thy love,
+Thus far for love, my love-suit, sweet, fulfill.
+Will will fulfil the treasure of thy love,
 Ay, fill it full with wills, and my will one.
 In things of great receipt with ease we prove
-Among a number one is reckon’d none:
+Among a number one is reckoned none:
 Then in the number let me pass untold,
 Though in thy store’s account I one must be;
 For nothing hold me, so it please thee hold
 That nothing me, a something sweet to thee:
 Make but my name thy love, and love that still,
-And then thou lov’st me for my name is ’Will.’`,
+And then thou lov’st me for my name is Will.`,
     themes: [],
     imagery: ["blindness","treasure","Will","sweetness"],
     characters: ["Dark Lady"]
@@ -2721,19 +2721,19 @@ And then thou lov’st me for my name is ’Will.’`,
   {
     number: 137,
     text: `Thou blind fool, Love, what dost thou to mine eyes,
-That they behold, and see not what they see?
+That they behold and see not what they see?
 They know what beauty is, see where it lies,
 Yet what the best is take the worst to be.
-If eyes, corrupt by over-partial looks, 
-Be anchor’d in the bay where all men ride,
-Why of eyes’ falsehood hast thou forged hooks,
+If eyes, corrupt by over-partial looks,
+Be anchored in the bay where all men ride,
+Why of eyes’ falsehood hast thou forgèd hooks,
 Whereto the judgement of my heart is tied?
 Why should my heart think that a several plot,
 Which my heart knows the wide world’s common place?
 Or mine eyes, seeing this, say this is not,
 To put fair truth upon so foul a face?
-In things right true my heart and eyes have err’d,
-And to this false plague are they now transferr’d.`,
+In things right true my heart and eyes have erred,
+And to this false plague are they now transferred.`,
     themes: ["eye vs. heart","self-deception","truth"],
     imagery: ["blindness","plague"],
     characters: []
@@ -2742,36 +2742,36 @@ And to this false plague are they now transferr’d.`,
     number: 138,
     text: `When my love swears that she is made of truth,
 I do believe her though I know she lies,
-That she might think me some untutor’d youth,
-Unlearned in the world’s false subtleties.
+That she might think me some untutored youth,
+Unlearnèd in the world’s false subtleties.
 Thus vainly thinking that she thinks me young,
 Although she knows my days are past the best,
 Simply I credit her false-speaking tongue:
-On both sides thus is simple truth suppressed:
+On both sides thus is simple truth suppressed.
 But wherefore says she not she is unjust? 
 And wherefore say not I that I am old?
-O! love’s best habit is in seeming trust,
-And age in love, loves not to have years told:
+O love’s best habit is in seeming trust,
+And age in love loves not to have years told.
 Therefore I lie with her, and she with me,
-And in our faults by lies we flatter’d be.`,
+And in our faults by lies we flattered be.`,
     themes: ["youth","self-deception","unfaithfulness","old age","truth","deception"],
     imagery: ["clothing"],
     characters: ["Dark Lady"]
   },
   {
     number: 139,
-    text: `O! call not me to justify the wrong
+    text: `O call not me to justify the wrong
 That thy unkindness lays upon my heart;
-Wound me not with thine eye, but with thy tongue:
-Use power with power, and slay me not by art,
+Wound me not with thine eye but with thy tongue;
+Use power with power, and slay me not by art.
 Tell me thou lov’st elsewhere; but in my sight,
-Dear heart, forbear to glance thine eye aside:
-What need’st thou wound with cunning, when thy might
-Is more than my o’erpress’d defence can bide?
-Let me excuse thee: ah! my love well knows
-Her pretty looks have been mine enemies;
+Dear heart, forbear to glance thine eye aside;
+What need’st thou wound with cunning when thy might
+Is more than my o’erpressed defence can bide?
+Let me excuse thee: “Ah, my love well knows
+Her pretty looks have been mine enemies,
 And therefore from my face she turns my foes,
-That they elsewhere might dart their injuries:
+That they elsewhere might dart their injuries.”
 Yet do not so; but since I am near slain, 
 Kill me outright with looks, and rid my pain.`,
     themes: ["unfaithfulness","transgressions","unrequited love"],
@@ -2780,18 +2780,18 @@ Kill me outright with looks, and rid my pain.`,
   },
   {
     number: 140,
-    text: `Be wise as thou art cruel; do not press
-My tongue-tied patience with too much disdain;
+    text: `Be wise as thou art cruel, do not press
+My tongue-tied patience with too much disdain,
 Lest sorrow lend me words, and words express
 The manner of my pity-wanting pain.
 If I might teach thee wit, better it were,
-Though not to love, yet, love to tell me so;--
+Though not to love, yet, love, to tell me so,
 As testy sick men, when their deaths be near,
-No news but health from their physicians know;--
-For, if I should despair, I should grow mad,
+No news but health from their physicians know.
+For if I should despair I should grow mad,
 And in my madness might speak ill of thee;
 Now this ill-wresting world is grown so bad,
-Mad slanderers by mad ears believed be.
+Mad slanderers by mad ears believèd be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
     themes: ["cruelty","wisdom","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
