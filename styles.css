@@ -10,7 +10,7 @@
     --secondary-color: #5d6d7e; /* Subtitle and less prominent text */
     --accent-color: #e74c3c;
     --text-color: #2c3e50; /* Main body text color */
-    --bg-color: #fdfcfb; /* Warm off-white background for the whole page */
+    --bg-color: #f6f0e4; 
     --hover-color: #3498db;
     --card-bg: transparent; /* Elements blend with background */
     --border-color: #e0e0e0; /* Subtle divisions only */
@@ -29,22 +29,23 @@ body {
 }
 
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    /* Remove visible container definitions: background, border, shadow, radius */
-    background: transparent;
-    border-radius: 0;
-    box-shadow: none;
-    overflow: visible; /* Allow sticky elements */
+max-width: 1200px;
+    margin: 40px auto; /* Gives the container some breathing room from the top/bottom of the window */
+    background-color: rgba(252, 249, 242, 0.65); /* 85% opaque white */
+    backdrop-filter: blur(6px); /* Blurs the background image directly behind the container */
+    -webkit-backdrop-filter: blur(6px); /* For Safari support */
+    border-radius: 16px; /* Soften the corners */
+    padding: 30px 40px; /* Keep content away from the edges of the frosted box */
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08); /* A very soft shadow to lift it off the page */
+    overflow: visible; 
     z-index: 10;
     position: relative;
 }
 
 header {
-    /* Style the header for light mode, place the image */
     background: transparent;
     color: var(--text-color);
-    padding: 40px 0 60px 0; /* Add space below header */
+    padding: 10px 0 40px 0; /* Add space below header */
     text-align: left; /* Align to the left to match image placement */
     display: flex; /* Layout the image next to title */
     align-items: center;
@@ -56,9 +57,9 @@ header {
     max-height: 120px;
     border-radius: 12px; //Slight softening of image edges 
     flex-shrink: 0; */
-    width: 50%;
-    top:-5%;
-    left: -5%;
+    width: 60%;
+    top:-10%;
+    left: -10%;
     position: fixed;
     opacity: 0.5;
     z-index: 0;
@@ -184,44 +185,48 @@ header h1 {
     margin-top: 15px;
     padding: 15px 0 0 0;
     border-top: 1px solid var(--border-color); /* subtle top line */
-    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
-    gap: 8px;
+    flex-wrap:wrap;
+    gap: 10px;
 }
 
 .checkbox-list.visible {
-    display: grid;
+    display: flex;
 }
 
 .checkbox-item {
-    display: flex;
-    align-items: center;
+    display: inline-block;
     cursor: pointer;
-    padding: 6px 0; /* Reduced padding */
-    border-radius: 0;
-    background-color: transparent;
+    padding: 0; /* Reduced padding */
 }
 
 .checkbox-item:hover span {
-    color: var(--hover-color);
+background-color: #e0e6e6;
+    color: var(--primary-color);
+    border-color: #bdc3c7;
 }
 
 .checkbox-item .filter-checkbox {
-    width: 18px;
-    height: 18px;
-    margin-right: 10px;
-    cursor: pointer;
-    accent-color: var(--primary-color);
-}
+    display: none;
+  }
 
 .checkbox-item span {
-    font-size: 0.95em;
+display: inline-block;
+    padding: 8px 16px;
+    background-color: #eaeded; /* Light gray base */
     color: var(--secondary-color);
-    font-family: Arial, sans-serif; /* Cleaner sans-serif for UI elements */
+    border: 1px solid #d5dbdb;
+    border-radius: 20px; /* Fully rounded ends for the bubble look */
+    font-size: 0.9em;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    transition: all 0.2s ease;
 }
 
 .checkbox-item .filter-checkbox:checked + span {
+background-color: var(--primary-color);
+    color: white;
+    border-color: var(--primary-color);
     font-weight: 600;
-    color: var(--primary-color);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .results-section {
@@ -276,7 +281,7 @@ header h1 {
     font-size: 1.6em;
     font-weight: 700;
     color: var(--accent-color); /* Highlight color */
-    font-family: Arial, sans-serif;
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
 }
 
 .sonnet-text {
