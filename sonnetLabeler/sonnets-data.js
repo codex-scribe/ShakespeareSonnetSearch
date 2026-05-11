@@ -555,7 +555,7 @@ So flatter I the swart-complexioned night:
 When sparkling stars twire not thou gild’st the even.
 But day doth daily draw my sorrows longer,
 And night doth nightly make grief’s strength seem stronger.`,
-    themes: ["travail","torture","distance","bargaining"],
+    themes: ["travail","torture","distance","bargaining/pleading"],
     imagery: ["day","night","stars","sleep","clouds","darkness","time of day"],
     characters: ["Fair Youth"]
   },
@@ -2614,7 +2614,7 @@ One on another’s neck do witness bear
 Thy black is fairest in my judgement’s place.
 In nothing art thou black save in thy deeds,
 And thence this slander, as I think, proceeds.`,
-    themes: ["tyranny","cruelty","beauty","pride","truth","falsehood","transgressions","ill reputation"],
+    themes: ["tyranny","cruelty","beauty","pride","truth","falsehood","transgressions","ill reputation","plainness of looks"],
     imagery: ["heart","gems","face","black"],
     characters: ["Dark Lady"]
   },
@@ -2634,7 +2634,7 @@ To mourn for me since mourning doth thee grace,
 And suit thy pity like in every part.
 Then will I swear beauty herself is black,
 And all they foul that thy complexion lack.`,
-    themes: ["torture","mourning","eye vs. heart","pity","beauty"],
+    themes: ["torture","mourning","eye vs. heart","pity","beauty","unrequited love"],
     imagery: ["eyes","black","morning","sun","heaven","gray","cheek","sunset","heart"],
     characters: ["Dark Lady"]
   },
@@ -2654,7 +2654,7 @@ Whoe’er keeps me, let my heart be his guard,
 Thou canst not then use rigour in my jail.
 And yet thou wilt, for I, being pent in thee,
 Perforce am thine, and all that is in me.`,
-    themes: ["castigation","torture","slavery","union of speaker and beloved"],
+    themes: ["castigation","torture","slavery","union of speaker and beloved","control","bargaining/pleading"],
     imagery: ["groan","heart","wound","sweetness","eyes","prison","steel","legal system"],
     characters: ["Dark Lady","Fair Youth"]
   },
@@ -2674,7 +2674,7 @@ And sue a friend came debtor for my sake,
 So him I lose through my unkind abuse.
 Him have I lost, thou hast both him and me;
 He pays the whole, and yet am I not free.`,
-    themes: ["union of speaker and beloved","possession","jealousy","writing","lending/debt"],
+    themes: ["union of speaker and beloved","possession","jealousy","writing","lending/debt","loss","bargaining/pleading"],
     imagery: ["legal system"],
     characters: ["Dark Lady","Fair Youth"]
   },
@@ -2694,8 +2694,8 @@ So thou, being rich in Will add to thy Will
 One will of mine, to make thy large Will more.
 Let no unkind, no fair beseechers kill;
 Think all but one, and me in that one Will.`,
-    themes: ["abundance","union of speaker and beloved","possession"],
-    imagery: ["rain","ocean","water"],
+    themes: ["abundance","union of speaker and beloved","possession","sexuality"],
+    imagery: ["rain","ocean","water","sweetness","Will"],
     characters: ["Dark Lady"]
   },
   {
@@ -2715,7 +2715,7 @@ That nothing me, a something sweet to thee:
 Make but my name thy love, and love that still,
 And then thou lov’st me for my name is Will.`,
     themes: [],
-    imagery: ["blindness","treasure","Will","sweetness"],
+    imagery: ["blindness","treasure","Will","sweetness","accounting/tallying"],
     characters: ["Dark Lady"]
   },
   {
@@ -2754,7 +2754,7 @@ O love’s best habit is in seeming trust,
 And age in love loves not to have years told.
 Therefore I lie with her, and she with me,
 And in our faults by lies we flattered be.`,
-    themes: ["youth","self-deception","unfaithfulness","old age","truth","deception"],
+    themes: ["youth","self-deception","unfaithfulness","old age","truth","deception","falsehood"],
     imagery: ["clothing"],
     characters: ["Dark Lady"]
   },
@@ -2775,7 +2775,7 @@ That they elsewhere might dart their injuries.”
 Yet do not so; but since I am near slain, 
 Kill me outright with looks, and rid my pain.`,
     themes: ["unfaithfulness","transgressions","unrequited love"],
-    imagery: ["tongue","heart"],
+    imagery: ["tongue","heart","eyes"],
     characters: ["Dark Lady"]
   },
   {
@@ -2794,7 +2794,7 @@ Now this ill-wresting world is grown so bad,
 Mad slanderers by mad ears believèd be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
-    themes: ["cruelty","wisdom","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
+    themes: ["cruelty","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception"],
     imagery: ["sickness","eyes","ears","tongue"],
     characters: ["Dark Lady"]
   },
