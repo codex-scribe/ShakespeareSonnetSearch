@@ -2800,17 +2800,17 @@ Bear thine eyes straight, though thy proud heart go wide.`,
   },
   {
     number: 141,
-    text: `In faith I do not love thee with mine eyes, 
-For they in thee a thousand errors note;
+    text: `In faith, I do not love thee with mine eyes, 
+For they in thee a thousand errors note,
 But ’tis my heart that loves what they despise,
-Who, in despite of view, is pleased to dote.
-Nor are mine ears with thy tongue’s tune delighted;
-Nor tender feeling, to base touches prone,
+Who in despite of view is pleased to dote.
+Nor are mine ears with thy tongue’s tune delighted,
+Nor tender feeling to base touches prone,
 Nor taste, nor smell, desire to be invited
-To any sensual feast with thee alone:
+To any sensual feast with thee alone;
 But my five wits nor my five senses can
 Dissuade one foolish heart from serving thee,
-Who leaves unsway’d the likeness of a man,
+Who leaves unswayed the likeness of a man,
 Thy proud heart’s slave and vassal wretch to be:
 Only my plague thus far I count my gain,
 That she that makes me sin awards me pain.`,
@@ -2821,19 +2821,19 @@ That she that makes me sin awards me pain.`,
   {
     number: 142,
     text: `Love is my sin, and thy dear virtue hate,
-Hate of my sin, grounded on sinful loving:
-O! but with mine compare thou thine own state,
-And thou shalt find it merits not reproving;
-Or, if it do, not from those lips of thine, 
-That have profan’d their scarlet ornaments
-And seal’d false bonds of love as oft as mine,
-Robb’d others’ beds’ revenues of their rents.
-Be it lawful I love thee, as thou lov’st those
-Whom thine eyes woo as mine importune thee:
-Root pity in thy heart, that, when it grows,
+Hate of my sin, grounded on sinful loving.
+O but with mine compare thou thine own state,
+And thou shalt find it merits not reproving,
+Or if it do, not from those lips of thine, 
+That have profaned their scarlet ornaments,
+And sealed false bonds of love as oft as mine,
+Robbed others’ beds’ revenues of their rents.
+Be it lawful I love thee as thou lov’st those
+Whom thine eyes woo as mine importune thee;
+Root pity in thy heart, that when it grows,
 Thy pity may deserve to pitied be.
 If thou dost seek to have what thou dost hide,
-By self-example mayst thou be denied!`,
+By self-example mayst thou be denied.`,
     themes: ["sin","hate","virtue","unfaithfulness","unrequited love","pity"],
     imagery: ["lip","red"],
     characters: ["Dark Lady"]
@@ -2841,18 +2841,18 @@ By self-example mayst thou be denied!`,
   {
     number: 143,
     text: `Lo, as a careful housewife runs to catch
-One of her feather’d creatures broke away,
-Sets down her babe, and makes all swift dispatch
-In pursuit of the thing she would have stay;
+One of her feathered creatures broke away,
+Sets down her babe and makes all swift dispatch
+In pursuit of the thing she would have stay,
 Whilst her neglected child holds her in chase,
 Cries to catch her whose busy care is bent
 To follow that which flies before her face,
-Not prizing her poor infant’s discontent;
+Not prizing her poor infant’s discontent:
 So runn’st thou after that which flies from thee, 
-Whilst I thy babe chase thee afar behind;
+Whilst I, thy babe, chase thee afar behind;
 But if thou catch thy hope, turn back to me,
 And play the mother’s part, kiss me, be kind;
-So will I pray that thou mayst have thy ’Will,’
+So will I pray that thou mayst have thy Will,
 If thou turn back and my loud crying still.`,
     themes: ["unrequited love","indifference of beloved"],
     imagery: ["baby","birds","Will"],
@@ -2860,18 +2860,18 @@ If thou turn back and my loud crying still.`,
   },
   {
     number: 144,
-    text: `Two loves I have of comfort and despair,
+    text: `Two loves I have, of comfort and despair,
 Which like two spirits do suggest me still:
 The better angel is a man right fair,
-The worser spirit a woman colour’d ill.
-To win me soon to hell, my female evil,
+The worser spirit a woman coloured ill.
+To win me soon to hell, my female evil
 Tempteth my better angel from my side,
 And would corrupt my saint to be a devil,
 Wooing his purity with her foul pride.
-And whether that my angel be turn’d fiend,
-Suspect I may, yet not directly tell;
+And whether that my angel be turned fiend
+Suspect I may, yet not directly tell,
 But being both from me, both to each friend,
-I guess one angel in another’s hell:
+I guess one angel in another’s hell.
 Yet this shall I ne’er know, but live in doubt, 
 Till my bad angel fire my good one out.`,
     themes: ["pride","evil","sin","temptation","unfaithfulness"],
@@ -2880,35 +2880,35 @@ Till my bad angel fire my good one out.`,
   },
   {
     number: 145,
-    text: `Those lips that Love’s own hand did make,
-Breathed forth the sound that said ’I hate’,
-To me that languish’d for her sake:
+    text: `Those lips that Love’s own hand did make
+Breathed forth the sound that said “I hate”
+To me that languished for her sake:
 But when she saw my woeful state,
 Straight in her heart did mercy come,
 Chiding that tongue that ever sweet
-Was us’d in giving gentle doom;
-And taught it thus anew to greet;
-’I hate’ she alter’d with an end,
-That followed it as gentle day,
+Was used in giving gentle doom,
+And taught it thus anew to greet:
+“I hate” she altered with an end
+That followed it as gentle day
 Doth follow night, who like a fiend
 From heaven to hell is flown away.
-’I hate’, from hate away she threw,
-And sav’d my life, saying ’not you’.`,
+“I hate” from hate away she threw,
+And saved my life, saying “not you.”`,
     themes: ["speaking","redemption"],
     imagery: ["lip","hand","breathing","tongue","day","night","heaven","hell"],
     characters: ["Dark Lady"]
   },
   {
     number: 146,
-    text: `Poor soul, the centre of my sinful earth, 
-My sinful earth these rebel powers array,
+    text: `Poor soul, the center of my sinful earth,
+Feeding these rebel powers that thee array,
 Why dost thou pine within and suffer dearth,
 Painting thy outward walls so costly gay?
 Why so large cost, having so short a lease,
 Dost thou upon thy fading mansion spend?
 Shall worms, inheritors of this excess,
 Eat up thy charge? Is this thy body’s end?
-Then soul, live thou upon thy servant’s loss,
+Then, soul, live thou upon thy servant’s loss,
 And let that pine to aggravate thy store;
 Buy terms divine in selling hours of dross;
 Within be fed, without be rich no more:
@@ -2920,18 +2920,18 @@ And Death once dead, there’s no more dying then.`,
   },
   {
     number: 147,
-    text: `My love is as a fever longing still,
-For that which longer nurseth the disease;
+    text: `My love is as a fever longing still
+For that which longer nurseth the disease,
 Feeding on that which doth preserve the ill,
-The uncertain sickly appetite to please.
-My reason, the physician to my love, 
+Th’uncertain sickly appetite to please.
+My reason, the physician to my love,
 Angry that his prescriptions are not kept,
 Hath left me, and I desperate now approve
 Desire is death, which physic did except.
 Past cure I am, now Reason is past care,
-And frantic-mad with evermore unrest;
+And frantic mad with evermore unrest;
 My thoughts and my discourse as madmen’s are,
-At random from the truth vainly express’d;
+At random from the truth vainly expressed;
 For I have sworn thee fair, and thought thee bright,
 Who art as black as hell, as dark as night.`,
     themes: ["healing/medicine","madness","truth","transgressions"],
@@ -2940,39 +2940,39 @@ Who art as black as hell, as dark as night.`,
   },
   {
     number: 148,
-    text: `O me! what eyes hath Love put in my head,
-Which have no correspondence with true sight;
-Or, if they have, where is my judgement fled,
+    text: `O me! what eyes hath love put in my head,
+Which have no correspondence with true sight?
+Or if they have, where is my judgement fled,
 That censures falsely what they see aright?
 If that be fair whereon my false eyes dote,
 What means the world to say it is not so?
 If it be not, then love doth well denote
 Love’s eye is not so true as all men’s: no,
-How can it? O! how can Love’s eye be true, 
+How can it? O how can Love’s eye be true,
 That is so vexed with watching and with tears?
-No marvel then, though I mistake my view;
-The sun itself sees not, till heaven clears.
-O cunning Love! with tears thou keep’st me blind,
-Lest eyes well-seeing thy foul faults should find.`,
+No marvel then though I mistake my view;
+The sun itself sees not till heaven clears.
+O cunning love, with tears thou keep’st me blind,
+Lest eyes well seeing thy foul faults should find.`,
     themes: ["falsehood"],
     imagery: ["eyes","blindness","tears","sun","clouds","heaven"],
     characters: []
   },
   {
     number: 149,
-    text: `Canst thou, O cruel! say I love thee not,
+    text: `Canst thou, O cruel, say I love thee not,
 When I against myself with thee partake?
-Do I not think on thee, when I forgot
-Am of my self, all tyrant, for thy sake?
-Who hateth thee that I do call my friend,
-On whom frown’st thou that I do fawn upon,
+Do I not think on thee when I forgot
+Am of myself all tyrant for thy sake?
+Who hateth thee that I do call my friend?
+On whom frown’st thou that I do fawn upon?
 Nay, if thou lour’st on me, do I not spend
 Revenge upon myself with present moan?
-What merit do I in my self respect,
+What merit do I in myself respect
 That is so proud thy service to despise,
 When all my best doth worship thy defect,
 Commanded by the motion of thine eyes?
-But, love, hate on, for now I know thy mind;
+But, love, hate on, for now I know thy mind:
 Those that can see thou lov’st, and I am blind.`,
     themes: ["falsehood","hate","unrequited love","tyranny","control"],
     imagery: ["frown","eyes","blindness"],
@@ -2980,20 +2980,20 @@ Those that can see thou lov’st, and I am blind.`,
   },
   {
     number: 150,
-    text: `O! from what power hast thou this powerful might,
-With insufficiency my heart to sway?
+    text: `O from what pow’r hast thou this pow’rful might,
+With insufficiency my heart to sway,
 To make me give the lie to my true sight,
 And swear that brightness doth not grace the day?
 Whence hast thou this becoming of things ill,
 That in the very refuse of thy deeds
-There is such strength and warrantise of skill,
-That, in my mind, thy worst all best exceeds?
+There is such strength and warrantise of skill
+That in my mind thy worst all best exceeds?
 Who taught thee how to make me love thee more,
 The more I hear and see just cause of hate?
-O! though I love what others do abhor,
+O, though I love what others do abhor,
 With others thou shouldst not abhor my state:
-If thy unworthiness rais’d love in me,
-More worthy I to be belov’d of thee.`,
+If thy unworthiness raised love in me,
+More worthy I to be beloved of thee.`,
     themes: ["self-deception","truth","tyranny","hate","control"],
     imagery: ["brightness","day"],
     characters: ["Dark Lady"]
