@@ -961,7 +961,7 @@ For truth proves thievish for a prize so dear.`,
   },
   {
     number: 49,
-    text: `Against that time (if ever that time come)
+    text: `Against that time, if ever that time come,
 When I shall see thee frown on my defects,
 When as thy love hath cast his utmost sum,
 Called to that audit by advised respects;
@@ -975,7 +975,7 @@ And this my hand against myself uprear,
 To guard the lawful reasons on thy part: 
 To leave poor me thou hast the strength of laws,
 Since why to love I can allege no cause.`,
-    themes: ["unrequited love","indifference of beloved","self-denigration","loss"],
+    themes: ["unrequited love","indifference of beloved","self-denigration","loss","taking sides against himself"],
     imagery: ["legal system","eyes","sun","accounting/tallying","hand"],
     characters: ["Fair Youth"]
   },
@@ -1010,7 +1010,7 @@ When swift extremity can seem but slow?
 Then should I spur though mounted on the wind,
 In wingèd speed no motion shall I know:
 Then can no horse with my desire keep pace;
-Therefore desire (of perfect’st love being made)
+Therefore desire, of perfect’st love being made,
 Shall weigh no dull flesh in his fiery race;
 But love, for love, thus shall excuse my jade,
 Since from thee going, he went willful slow,
@@ -1233,7 +1233,7 @@ But when my glass shows me myself indeed,
 Beated and chopped with tanned antiquity,
 Mine own self-love quite contrary I read;
 Self so self-loving were iniquity.
-’Tis thee (my self) that for myself I praise,
+’Tis thee (myself) that for myself I praise,
 Painting my age with beauty of thy days.`,
     themes: ["transgressions","truth","old age","sin","worth","self-denigration","pride","union of speaker and beloved","beauty","youth"],
     imagery: ["heart","mirror","wrinkles","painting","eyes","face"],
@@ -1613,7 +1613,7 @@ Your monument shall be my gentle verse,
 Which eyes not yet created shall o’er-read,
 And tongues to be your being shall rehearse,
 When all the breathers of this world are dead;
-You still shall live (such virtue hath my pen)
+You still shall live, such virtue hath my pen,
 Where breath most breathes, even in the mouths of men.`,
     themes: ["immortality through verse","memory","mortality","immortality","the future","decay","separation","strength"],
     imagery: ["verse","grave/tomb","eyes","monuments","pen","breathing","mouth","earth","tongue"],
@@ -1755,7 +1755,7 @@ The injuries that to myself I do,
 Doing thee vantage, double-vantage me.
 Such is my love, to thee I so belong,
 That for thy right myself will bear all wrong.`,
-    themes: ["self-denigration","ill reputation","transgressions","union of speaker and beloved","unrequited love","falsehood","weakness","possession"],
+    themes: ["self-denigration","ill reputation","transgressions","union of speaker and beloved","unrequited love","falsehood","weakness","possession","taking sides against himself"],
     imagery: [],
     characters: ["Fair Youth"]
   },
@@ -1775,7 +1775,7 @@ Lest I, too much profane, should do it wrong,
 And haply of our old acquaintance tell.
 For thee against my self I’ll vow debate,
 For I must ne’er love him whom thou dost hate.`,
-    themes: ["ill reputation","self-denigration","unrequited love","weakness","hate"],
+    themes: ["ill reputation","self-denigration","unrequited love","weakness","hate","taking sides against himself"],
     imagery: ["tongue"],
     characters: ["Fair Youth"]
   },
@@ -2236,7 +2236,7 @@ To critic and to flatterer stoppèd are.
 Mark how with my neglect I do dispense:
 You are so strongly in my purpose bred
 That all the world besides methinks are dead.`,
-    themes: ["ill reputation","moral correction"],
+    themes: ["ill reputation","moral correction","pity"],
     imagery: ["green","animals","steel","snake"],
     characters: ["Fair Youth"]
   },
@@ -2256,8 +2256,8 @@ The mountain or the sea, the day or night,
 The crow or dove, it shapes them to your feature.
 Incapable of more, replete with you,
 My most true mind thus maketh mine eye untrue.`,
-    themes: ["separation","material vs. ideal world","imagination","eye vs. heart","truth"],
-    imagery: ["eyes","blindness","heart","birds","flowers","sweetness","mountain","ocean","day","night","crow","dove"],
+    themes: ["separation","material vs. ideal world","imagination","eye vs. heart","truth","untruthful eyes"],
+    imagery: ["eyes","heart","birds","flowers","sweetness","mountain","ocean","day","night","crow","dove"],
     characters: ["Fair Youth"]
   },
   {
@@ -2276,7 +2276,7 @@ Mine eye well knows what with his gust is ’greeing,
 And to his palate doth prepare the cup.
 If it be poisoned, ’tis the lesser sin
 That mine eye loves it and doth first begin.`,
-    themes: ["eye vs. heart","self-deception"],
+    themes: ["eye vs. heart","self-deception","untruthful eyes"],
     imagery: ["crown","sickness","royalty","eyes","heart","alchemy","monsters","cherubim","sweetness","poison","palate"],
     characters: ["Fair Youth"]
   },
@@ -2376,7 +2376,7 @@ And ruined love, when it is built anew
 Grows fairer than at first, more strong, far greater.
 So I return rebuked to my content,
 And gain by ill thrice more than I have spent.`,
-    themes: ["transgressions","return","fear","madness","strength"],
+    themes: ["transgressions","return","fear","madness","strength","moral correction"],
     imagery: ["Sirens","mythology","hell","sickness","bitterness","eyes"],
     characters: ["Fair Youth"]
   },
@@ -2734,7 +2734,7 @@ Or mine eyes, seeing this, say this is not,
 To put fair truth upon so foul a face?
 In things right true my heart and eyes have erred,
 And to this false plague are they now transferred.`,
-    themes: ["eye vs. heart","self-deception","truth"],
+    themes: ["eye vs. heart","self-deception","truth","untruthful eyes"],
     imagery: ["blindness","plague"],
     characters: []
   },
@@ -2794,8 +2794,8 @@ Now this ill-wresting world is grown so bad,
 Mad slanderers by mad ears believèd be.
 That I may not be so, nor thou belied,
 Bear thine eyes straight, though thy proud heart go wide.`,
-    themes: ["cruelty","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception","bargaining/pleading"],
-    imagery: ["sickness","eyes","ears","tongue"],
+    themes: ["cruelty","muteness","pity","mortality","madness","world in decline","unrequited love","speaking","ill reputation","deception","bargaining/pleading","feigned acceptance"],
+    imagery: ["sickness","eyes","ears","tongue","physician"],
     characters: ["Dark Lady"]
   },
   {
@@ -2815,7 +2815,7 @@ Thy proud heart’s slave and vassal wretch to be:
 Only my plague thus far I count my gain,
 That she that makes me sin awards me pain.`,
     themes: ["plainness of looks","eye vs. heart","slavery","pain","sin"],
-    imagery: ["eyes","heart","ears","tongue","music","touch","tastes","smells"],
+    imagery: ["eyes","heart","ears","tongue","music","touch","tastes","smells","plague"],
     characters: ["Dark Lady"]
   },
   {
@@ -2834,7 +2834,7 @@ Root pity in thy heart, that when it grows,
 Thy pity may deserve to pitied be.
 If thou dost seek to have what thou dost hide,
 By self-example mayst thou be denied.`,
-    themes: ["sin","hate","virtue","unfaithfulness","unrequited love","pity"],
+    themes: ["sin","hate","virtue","unfaithfulness","unrequited love","pity","bargaining/pleading"],
     imagery: ["lip","red"],
     characters: ["Dark Lady"]
   },
@@ -2854,8 +2854,8 @@ But if thou catch thy hope, turn back to me,
 And play the mother’s part, kiss me, be kind;
 So will I pray that thou mayst have thy Will,
 If thou turn back and my loud crying still.`,
-    themes: ["unrequited love","indifference of beloved"],
-    imagery: ["baby","birds","Will"],
+    themes: ["unrequited love","indifference of beloved","weakness","bargaining/pleading"],
+    imagery: ["baby","birds","Will","motherhood","weeping"],
     characters: ["Dark Lady"]
   },
   {
@@ -2874,7 +2874,7 @@ But being both from me, both to each friend,
 I guess one angel in another’s hell.
 Yet this shall I ne’er know, but live in doubt, 
 Till my bad angel fire my good one out.`,
-    themes: ["pride","evil","sin","temptation","unfaithfulness"],
+    themes: ["pride","evil","sin","temptation","unfaithfulness","purity","jealousy"],
     imagery: ["angels","hell","fire"],
     characters: ["Dark Lady","Fair Youth"]
   },
@@ -2894,7 +2894,7 @@ Doth follow night, who like a fiend
 From heaven to hell is flown away.
 “I hate” from hate away she threw,
 And saved my life, saying “not you.”`,
-    themes: ["speaking","redemption"],
+    themes: ["speaking","redemption","hate"],
     imagery: ["lip","hand","breathing","tongue","day","night","heaven","hell"],
     characters: ["Dark Lady"]
   },
@@ -2915,7 +2915,7 @@ Within be fed, without be rich no more:
 So shall thou feed on Death, that feeds on men,
 And Death once dead, there’s no more dying then.`,
     themes: ["sin","material vs. ideal world","artificiality","excess","immortality","mortality"],
-    imagery: ["earth","worms","house","eating","military"],
+    imagery: ["earth","worms","house","eating","military","edifices"],
     characters: []
   },
   {
@@ -2934,8 +2934,8 @@ My thoughts and my discourse as madmen’s are,
 At random from the truth vainly expressed;
 For I have sworn thee fair, and thought thee bright,
 Who art as black as hell, as dark as night.`,
-    themes: ["healing/medicine","madness","truth","transgressions"],
-    imagery: ["sickness","eating","physician","hell","black","darkness","night"],
+    themes: ["healing/medicine","madness","truth","transgressions","excess","temptation","beauty"],
+    imagery: ["sickness","eating","physician","hell","black","darkness","night","brightness"],
     characters: ["Dark Lady"]
   },
   {
@@ -2954,9 +2954,9 @@ No marvel then though I mistake my view;
 The sun itself sees not till heaven clears.
 O cunning love, with tears thou keep’st me blind,
 Lest eyes well seeing thy foul faults should find.`,
-    themes: ["falsehood"],
+    themes: ["falsehood","transgressions","untruthful eyes"],
     imagery: ["eyes","blindness","tears","sun","clouds","heaven"],
-    characters: []
+    characters: ["Dark Lady"]
   },
   {
     number: 149,
@@ -2974,7 +2974,7 @@ When all my best doth worship thy defect,
 Commanded by the motion of thine eyes?
 But, love, hate on, for now I know thy mind:
 Those that can see thou lov’st, and I am blind.`,
-    themes: ["falsehood","hate","unrequited love","tyranny","control"],
+    themes: ["falsehood","hate","unrequited love","tyranny","control","taking sides against himself","cruelty"],
     imagery: ["frown","eyes","blindness"],
     characters: ["Dark Lady"]
   },
@@ -2994,8 +2994,8 @@ O, though I love what others do abhor,
 With others thou shouldst not abhor my state:
 If thy unworthiness raised love in me,
 More worthy I to be beloved of thee.`,
-    themes: ["self-deception","truth","tyranny","hate","control"],
-    imagery: ["brightness","day"],
+    themes: ["self-deception","truth","tyranny","hate","control","falsehood","untruthful eyes"],
+    imagery: ["brightness","day","heart"],
     characters: ["Dark Lady"]
   },
   {
