@@ -3000,20 +3000,20 @@ More worthy I to be beloved of thee.`,
   },
   {
     number: 151,
-    text: `Love is too young to know what conscience is, 
+    text: `Love is too young to know what conscience is,
 Yet who knows not conscience is born of love?
 Then, gentle cheater, urge not my amiss,
-Lest guilty of my faults thy sweet self prove:
-For, thou betraying me, I do betray
+Lest guilty of my faults thy sweet self prove.
+For thou betraying me, I do betray
 My nobler part to my gross body’s treason;
 My soul doth tell my body that he may
 Triumph in love; flesh stays no farther reason,
-But rising at thy name doth point out thee,
-As his triumphant prize. Proud of this pride,
+But rising at thy name doth point out thee
+As his triumphant prize; proud of this pride,
 He is contented thy poor drudge to be,
 To stand in thy affairs, fall by thy side.
 No want of conscience hold it that I call
-Her ’love,’ for whose dear love I rise and fall.`,
+Her “love” for whose dear love I rise and fall.`,
     themes: ["unfaithfulness","slavery","material vs. ideal world","pride","sexuality","control"],
     imagery: [],
     characters: ["Dark Lady"]
@@ -3021,18 +3021,18 @@ Her ’love,’ for whose dear love I rise and fall.`,
   {
     number: 152,
     text: `In loving thee thou know’st I am forsworn,
-But thou art twice forsworn, to me love swearing;
-In act thy bed-vow broke, and new faith torn,
-In vowing new hate after new love bearing:
+But thou art twice forsworn to me love swearing:
+In act thy bed-vow broke, and new faith torn
+In vowing new hate after new love bearing.
 But why of two oaths’ breach do I accuse thee, 
-When I break twenty? I am perjur’d most;
+When I break twenty? I am perjured most,
 For all my vows are oaths but to misuse thee,
-And all my honest faith in thee is lost:
+And all my honest faith in thee is lost.
 For I have sworn deep oaths of thy deep kindness,
-Oaths of thy love, thy truth, thy constancy;
-And, to enlighten thee, gave eyes to blindness,
-Or made them swear against the thing they see;
-For I have sworn thee fair; more perjur’d I,
+Oaths of thy love, thy truth, thy constancy,
+And to enlighten thee gave eyes to blindness,
+Or made them swear against the thing they see:
+For I have sworn thee fair; more perjured eye,
 To swear against the truth so foul a lie!`,
     themes: ["unfaithfulness","hate","self-deception","falsehood","truth"],
     imagery: ["blindness"],
@@ -3044,35 +3044,35 @@ To swear against the truth so foul a lie!`,
 A maid of Dian’s this advantage found,
 And his love-kindling fire did quickly steep
 In a cold valley-fountain of that ground;
-Which borrow’d from this holy fire of Love,
+Which borrowed from this holy fire of Love
 A dateless lively heat, still to endure,
-And grew a seeting bath, which yet men prove
+And grew a seething bath, which yet men prove
 Against strange maladies a sovereign cure.
-But at my mistress’ eye Love’s brand new-fired, 
+But at my mistress’ eye Love’s brand new fired, 
 The boy for trial needs would touch my breast;
 I, sick withal, the help of bath desired,
-And thither hied, a sad distemper’d guest,
+And thither hied, a sad distempered guest;
 But found no cure, the bath for my help lies
-Where Cupid got new fire; my mistress’ eyes.`,
+Where Cupid got new fire—my mistress’ eyes.`,
     themes: ["healing/medicine"],
     imagery: ["Cupid","Diana","mythology","fire","cold","sickness","eyes","brand","sleep"],
     characters: ["Dark Lady"]
   },
   {
     number: 154,
-    text: `The little Love-god lying once asleep,
+    text: `The little Love-god lying once asleep
 Laid by his side his heart-inflaming brand,
-Whilst many nymphs that vow’d chaste life to keep
+Whilst many nymphs that vowed chaste life to keep
 Came tripping by; but in her maiden hand
 The fairest votary took up that fire
-Which many legions of true hearts had warm’d;
+Which many legions of true hearts had warmed,
 And so the general of hot desire
-Was, sleeping, by a virgin hand disarm’d.
+Was sleeping by a virgin hand disarmed.
 This brand she quenched in a cool well by,
 Which from Love’s fire took heat perpetual,
 Growing a bath and healthful remedy,
-For men diseas’d; but I, my mistress’ thrall,
-Came there for cure and this by that I prove, 
+For men diseased; but I, my mistress’ thrall,
+Came there for cure and this by that I prove: 
 Love’s fire heats water, water cools not love.`,
     themes: ["healing/medicine","yearning"],
     imagery: ["Cupid","brand","fire","nymph","heart","sleep","military","water","heat"],
