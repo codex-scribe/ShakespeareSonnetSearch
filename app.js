@@ -5,6 +5,7 @@ let currentFilters = {
   text: "",
   themes: [],
   imagery: [],
+  characters: [],
 };
 
 let allSonnets = [];
@@ -21,21 +22,23 @@ document.addEventListener("DOMContentLoaded", function () {
 function setupCheckboxToggles() {
   const themeToggle = document.getElementById("theme-toggle");
   const imageryToggle = document.getElementById("imagery-toggle");
+  const characterToggle = document.getElementById("character-toggle");
   const themeList = document.getElementById("theme-checkboxes");
   const imageryList = document.getElementById("imagery-checkboxes");
+  const characterList = document.getElementById("character-checkboxes");
 
   // Update visibility based on checkbox state
   function updateVisibility(toggle, list) {
-    if (toggle.checked) {
-      list.classList.add("visible");
-    } else {
-      list.classList.remove("visible");
+    if (toggle && list) {
+      if (toggle.checked) list.classList.add("visible");
+      else list.classList.remove("visible");
     }
   }
 
   // Set initial state
   updateVisibility(themeToggle, themeList);
   updateVisibility(imageryToggle, imageryList);
+  updateVisibility(characterToggle, characterList);
 
   // Add event listeners
   themeToggle.addEventListener("change", () =>
@@ -44,6 +47,10 @@ function setupCheckboxToggles() {
   imageryToggle.addEventListener("change", () =>
     updateVisibility(imageryToggle, imageryList),
   );
+  if (characterToggle)
+    characterToggle.addEventListener("change", () =>
+      updateVisibility(characterToggle, characterList),
+    );
 }
 
 // Extract unique categories and build the UI
@@ -68,10 +75,12 @@ function initializeFilters() {
   // Convert Sets to alphabetized arrays
   const sortedThemes = Array.from(uniqueThemes).sort();
   const sortedImagery = Array.from(uniqueImagery).sort();
+  const sortedCharacters = Array.from(uniqueCharacters).sort();
 
   // Render the HTML
   renderFilterBubbles("theme-checkboxes", sortedThemes, "theme");
   renderFilterBubbles("imagery-checkboxes", sortedImagery, "imagery");
+  renderFilterBubbles("character-checkboxes", sortedCharacters, "character");
 
   // We must set up the event listeners AFTER the HTML is injected!
   setupEventListeners();
@@ -145,26 +154,20 @@ function performTextSearch() {
 }
 
 // Toggle a filter (theme or imagery)
-function toggleFilter(filterType, filterValue, isChecked) {
-  if (filterType === "theme") {
-    if (isChecked) {
-      if (!currentFilters.themes.includes(filterValue)) {
-        currentFilters.themes.push(filterValue);
-      }
-    } else {
-      currentFilters.themes = currentFilters.themes.filter(
-        (t) => t !== filterValue,
-      );
+function toggleFilter(filterType, filterValue, isSelected) {
+  let targetArray;
+  if (filterType === "theme") targetArray = currentFilters.themes;
+  else if (filterType === "imagery") targetArray = currentFilters.imagery;
+  else if (filterType === "character") targetArray = currentFilters.characters; // Route character types
+
+  if (isSelected) {
+    if (!targetArray.includes(filterValue)) {
+      targetArray.push(filterValue);
     }
-  } else if (filterType === "imagery") {
-    if (isChecked) {
-      if (!currentFilters.imagery.includes(filterValue)) {
-        currentFilters.imagery.push(filterValue);
-      }
-    } else {
-      currentFilters.imagery = currentFilters.imagery.filter(
-        (i) => i !== filterValue,
-      );
+  } else {
+    const index = targetArray.indexOf(filterValue);
+    if (index > -1) {
+      targetArray.splice(index, 1);
     }
   }
 
@@ -203,6 +206,18 @@ function performSearch() {
       return (
         sonnet.imagery &&
         currentFilters.imagery.every((image) => sonnet.imagery.includes(image))
+      );
+    });
+  }
+
+  // Filter by characters (ALL selected characters must be present)
+  if (currentFilters.characters.length > 0) {
+    results = results.filter((sonnet) => {
+      return (
+        sonnet.characters &&
+        currentFilters.characters.every((char) =>
+          sonnet.characters.includes(char),
+        )
       );
     });
   }
@@ -309,6 +324,14 @@ function updateActiveFilters() {
     });
   });
 
+  currentFilters.characters.forEach((char) => {
+    allActiveFilters.push({
+      type: "character",
+      value: char,
+      display: char,
+    });
+  });
+
   if (allActiveFilters.length === 0) {
     container.innerHTML = "";
     return;
@@ -353,7 +376,16 @@ function updateActiveFilters() {
           `.filter-bubble[data-type="imagery"][data-filter="${value}"]`,
         );
         if (bubble) bubble.classList.remove("selected");
+      } else if (type === "character") {
+        currentFilters.characters = currentFilters.characters.filter(
+          (c) => c !== value,
+        );
+        const bubble = document.querySelector(
+          `.filter-bubble[data-type="character"][data-filter="${value}"]`,
+        );
+        if (bubble) bubble.classList.remove("selected");
       }
+
       performSearch();
       updateActiveFilters();
     });

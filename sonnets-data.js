@@ -817,7 +817,7 @@ Hers, by thy beauty tempting her to thee,
 Thine, by thy beauty being false to me.`,
     themes: ["transgressions","beauty","youth","unfaithfulness","unrequited love","feigned acceptance","truth","temptation"],
     imagery: ["sourness"],
-    characters: ["Fair Youth"]
+    characters: ["Fair Youth","Other Female"]
   },
   {
     number: 42,
