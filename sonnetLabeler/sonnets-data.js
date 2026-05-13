@@ -3014,7 +3014,7 @@ He is contented thy poor drudge to be,
 To stand in thy affairs, fall by thy side.
 No want of conscience hold it that I call
 Her “love” for whose dear love I rise and fall.`,
-    themes: ["unfaithfulness","slavery","material vs. ideal world","pride","sexuality","control"],
+    themes: ["unfaithfulness","slavery","material vs. ideal world","pride","sexuality","control","youth"],
     imagery: [],
     characters: ["Dark Lady"]
   },
@@ -3036,7 +3036,7 @@ For I have sworn thee fair; more perjured eye,
 To swear against the truth so foul a lie!`,
     themes: ["unfaithfulness","hate","self-deception","falsehood","truth"],
     imagery: ["blindness"],
-    characters: []
+    characters: ["Dark Lady"]
   },
   {
     number: 153,
@@ -3055,7 +3055,7 @@ And thither hied, a sad distempered guest;
 But found no cure, the bath for my help lies
 Where Cupid got new fire—my mistress’ eyes.`,
     themes: ["healing/medicine"],
-    imagery: ["Cupid","Diana","mythology","fire","cold","sickness","eyes","brand","sleep"],
+    imagery: ["Cupid","Diana","mythology","fire","cold","sickness","eyes","brand","sleep","water","heat"],
     characters: ["Dark Lady"]
   },
   {
@@ -3068,14 +3068,14 @@ The fairest votary took up that fire
 Which many legions of true hearts had warmed,
 And so the general of hot desire
 Was sleeping by a virgin hand disarmed.
-This brand she quenched in a cool well by,
+This brand she quenchèd in a cool well by,
 Which from Love’s fire took heat perpetual,
 Growing a bath and healthful remedy,
 For men diseased; but I, my mistress’ thrall,
 Came there for cure and this by that I prove: 
 Love’s fire heats water, water cools not love.`,
-    themes: ["healing/medicine","yearning"],
-    imagery: ["Cupid","brand","fire","nymph","heart","sleep","military","water","heat"],
+    themes: ["healing/medicine","yearning","slavery"],
+    imagery: ["Cupid","brand","fire","nymph","heart","sleep","military","water","heat","sickness"],
     characters: ["Dark Lady"]
   }
 ];
