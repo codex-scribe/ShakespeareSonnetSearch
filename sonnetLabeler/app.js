@@ -1,13 +1,13 @@
 // --- 2. STATE MANAGEMENT ---
 let currentIndex = 0;
 
-// Helper to collect all unique tags used across ALL sonnets 
+// Helper to collect all unique tags used across ALL sonnets
 // This ensures that if you add "Beauty" in Sonnet 1, it appears as an option in Sonnet 2.
 function getGlobalCategories(type) {
   const allTags = new Set();
-  sonnetsData.forEach(sonnet => {
+  sonnetsData.forEach((sonnet) => {
     if (sonnet[type]) {
-      sonnet[type].forEach(tag => allTags.add(tag));
+      sonnet[type].forEach((tag) => allTags.add(tag));
     }
   });
   return Array.from(allTags).sort(); // Alphabetical order
@@ -18,33 +18,33 @@ function renderApp() {
   const currentSonnet = sonnetsData[currentIndex];
 
   // Render Text
-  const textDisplay = document.getElementById('sonnet-text-area');
+  const textDisplay = document.getElementById("sonnet-text-area");
   textDisplay.innerHTML = `<div class="sonnet-title">Sonnet ${currentSonnet.number}</div>${currentSonnet.text}`;
 
   // Render Inputs & Controls
-  document.getElementById('jump-input').value = currentSonnet.number;
+  document.getElementById("jump-input").value = currentSonnet.number;
 
   // Render Categories
-  renderCategorySection('themes', currentSonnet.themes);
-  renderCategorySection('imagery', currentSonnet.imagery);
-  renderCategorySection('characters', currentSonnet.characters);
+  renderCategorySection("themes", currentSonnet.themes);
+  renderCategorySection("imagery", currentSonnet.imagery);
+  renderCategorySection("characters", currentSonnet.characters);
 }
 
 function renderCategorySection(type, currentSelectedArray) {
   const container = document.getElementById(`container-${type}`);
-  container.innerHTML = ''; // Clear current bubbles
+  container.innerHTML = ""; // Clear current bubbles
 
   // Get all available tags (Global list)
   const availableTags = getGlobalCategories(type);
 
-  availableTags.forEach(tag => {
-    const bubble = document.createElement('div');
-    bubble.className = 'tag';
+  availableTags.forEach((tag) => {
+    const bubble = document.createElement("div");
+    bubble.className = "tag";
     bubble.textContent = tag;
 
     // Check if this tag is currently selected for this sonnet
     if (currentSelectedArray.includes(tag)) {
-      bubble.classList.add('selected');
+      bubble.classList.add("selected");
     }
 
     // Click handler to toggle
@@ -86,7 +86,7 @@ function addNewCategory(type) {
   }
 
   // Clear input
-  input.value = '';
+  input.value = "";
 
   // Re-render (this will add the new tag to the global list and select it)
   renderApp();
@@ -107,8 +107,8 @@ function goToPrev() {
 }
 
 function jumpToSonnet() {
-  const val = parseInt(document.getElementById('jump-input').value);
-  const foundIndex = sonnetsData.findIndex(s => s.number === val);
+  const val = parseInt(document.getElementById("jump-input").value);
+  const foundIndex = sonnetsData.findIndex((s) => s.number === val);
 
   if (foundIndex !== -1) {
     currentIndex = foundIndex;
@@ -122,26 +122,26 @@ function jumpToSonnet() {
 function downloadData() {
   // We will manually build the string to match your preferred format
   // (Unquoted keys, Template Literals for text)
-  
-  let output = 'const sonnetsData = [\n';
+
+  let output = "const sonnetsData = [\n";
 
   sonnetsData.forEach((sonnet, index) => {
-    output += '  {\n';
+    output += "  {\n";
     output += `    number: ${sonnet.number},\n`;
     // We use backticks for text to preserve the visual structure of the poem
-    output += `    text: \`${sonnet.text}\`,\n`; 
+    output += `    text: \`${sonnet.text}\`,\n`;
     // We use JSON.stringify for the arrays because it's the easiest way to format ["a", "b"]
     output += `    themes: ${JSON.stringify(sonnet.themes)},\n`;
     output += `    imagery: ${JSON.stringify(sonnet.imagery)},\n`;
     output += `    characters: ${JSON.stringify(sonnet.characters)}\n`;
-    
+
     // Add a comma if it's not the last item
     const isLast = index === sonnetsData.length - 1;
-    output += `  }${isLast ? '' : ','}\n`;
+    output += `  }${isLast ? "" : ","}\n`;
   });
 
-  output += '];\n\n';
-  
+  output += "];\n\n";
+
   // Add the module export check for compatibility with your other projects
   output += "if (typeof module !== 'undefined' && module.exports) {\n";
   output += "  module.exports = { sonnetsData };\n";
@@ -151,7 +151,7 @@ function downloadData() {
   const blob = new Blob([output], { type: "text/javascript" });
   const url = URL.createObjectURL(blob);
 
-  const a = document.createElement('a');
+  const a = document.createElement("a");
   a.href = url;
   a.download = "sonnets-data.js"; // Naming it correctly for direct replacement
   document.body.appendChild(a);
@@ -162,12 +162,12 @@ function downloadData() {
   URL.revokeObjectURL(url);
 }
 
-
 // --- 6. EVENT LISTENERS ---
-document.getElementById('btn-next').addEventListener('click', goToNext);
-document.getElementById('btn-prev').addEventListener('click', goToPrev);
-document.getElementById('btn-jump').addEventListener('click', jumpToSonnet);
-document.getElementById('btn-download').addEventListener('click', downloadData);
+document.getElementById("btn-next").addEventListener("click", goToNext);
+document.getElementById("btn-prev").addEventListener("click", goToPrev);
+document.getElementById("btn-jump").addEventListener("click", jumpToSonnet);
+document.getElementById("btn-download").addEventListener("click", downloadData);
 
 // Initial Load
 renderApp();
+

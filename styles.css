@@ -1,351 +1,362 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 :root {
-    /* Set new color variables for Light Mode and Floating Aesthetic */
-    --primary-color: #2c3e50; /* Primary text and accent color */
-    --secondary-color: #5d6d7e; /* Subtitle and less prominent text */
-    --accent-color: #e74c3c;
-    --text-color: #2c3e50; /* Main body text color */
-    --bg-color: #f6f0e4; 
-    --hover-color: #3498db;
-    --card-bg: transparent; /* Elements blend with background */
-    --border-color: #e0e0e0; /* Subtle divisions only */
-    --shadow: 0 1px 3px rgba(0, 0, 0, 0.05); /* Extremely subtle shadow */
-    --shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.1);
+  /* Set new color variables for Light Mode and Floating Aesthetic */
+  --primary-color: #2c3e50; /* Primary text and accent color */
+  --secondary-color: #5d6d7e; /* Subtitle and less prominent text */
+  --accent-color: #e74c3c;
+  --text-color: #2c3e50; /* Main body text color */
+  --bg-color: #f6f0e4;
+  --hover-color: #3498db;
+  --card-bg: transparent; /* Elements blend with background */
+  --border-color: #e0e0e0; /* Subtle divisions only */
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.05); /* Extremely subtle shadow */
+  --shadow-hover: 0 4px 16px rgba(0, 0, 0, 0.1);
 }
 
 body {
-    font-family: 'Georgia', 'Times New Roman', serif;
-    /* Use the warm off-white as the main body background */
-    background: var(--bg-color);
-    min-height: 100vh;
-    padding: 20px;
-    color: var(--text-color);
-    line-height: 1.6;
+  font-family: "Georgia", "Times New Roman", serif;
+  /* Use the warm off-white as the main body background */
+  background: var(--bg-color);
+  min-height: 100vh;
+  padding: 20px;
+  color: var(--text-color);
+  line-height: 1.6;
 }
 
 .container {
-max-width: 1200px;
-    margin: 40px auto; /* Gives the container some breathing room from the top/bottom of the window */
-    background-color: rgba(252, 249, 242, 0.65); /* 85% opaque white */
-    backdrop-filter: blur(6px); /* Blurs the background image directly behind the container */
-    -webkit-backdrop-filter: blur(6px); /* For Safari support */
-    border-radius: 16px; /* Soften the corners */
-    padding: 30px 40px; /* Keep content away from the edges of the frosted box */
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08); /* A very soft shadow to lift it off the page */
-    overflow: visible; 
-    z-index: 10;
-    position: relative;
+  max-width: 1200px;
+  margin: 40px auto; /* Gives the container some breathing room from the top/bottom of the window */
+  background-color: rgba(252, 249, 242, 0.65); /* 85% opaque white */
+  backdrop-filter: blur(
+    6px
+  ); /* Blurs the background image directly behind the container */
+  -webkit-backdrop-filter: blur(6px); /* For Safari support */
+  border-radius: 16px; /* Soften the corners */
+  padding: 30px 40px; /* Keep content away from the edges of the frosted box */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.08); /* A very soft shadow to lift it off the page */
+  overflow: visible;
+  z-index: 10;
+  position: relative;
 }
 
 header {
-    background: transparent;
-    color: var(--text-color);
-    padding: 10px 0 40px 0; /* Add space below header */
-    text-align: left; /* Align to the left to match image placement */
-    display: flex; /* Layout the image next to title */
-    align-items: center;
-    gap: 30px;
+  background: transparent;
+  color: var(--text-color);
+  padding: 10px 0 40px 0; /* Add space below header */
+  text-align: left; /* Align to the left to match image placement */
+  display: flex; /* Layout the image next to title */
+  align-items: center;
+  gap: 30px;
 }
 
 .header-roses {
-    /* Style and size the roses image for the top left
+  /* Style and size the roses image for the top left
     max-height: 120px;
     border-radius: 12px; //Slight softening of image edges 
     flex-shrink: 0; */
-    width: 60%;
-    top:-10%;
-    left: -10%;
-    position: fixed;
-    opacity: 0.5;
-    z-index: 0;
+  width: 60%;
+  top: -10%;
+  left: -10%;
+  position: fixed;
+  opacity: 0.5;
+  z-index: 0;
 }
 
 header h1 {
-    font-size: 2.8em;
-    margin-bottom: 8px;
-    font-weight: 700;
+  font-size: 2.8em;
+  margin-bottom: 8px;
+  font-weight: 700;
 }
 
 .subtitle {
-    font-size: 1.1em;
-    color: var(--secondary-color);
-    font-style: italic;
-    font-weight: 400;
+  font-size: 1.1em;
+  color: var(--secondary-color);
+  font-style: italic;
+  font-weight: 400;
 }
 
 .main {
-    display: flex;
-    align-items: flex-start;
-    gap: 40px; /* Increased gap */
+  display: flex;
+  align-items: flex-start;
+  gap: 40px; /* Increased gap */
 }
 
 .search-section {
-    flex: 0 0 450px; /* Sightly smaller width */
-    padding: 0; /* No padding on container itself */
-    background: transparent; /* Floating sidebar */
-    border-right: none; /* Remove border division */
-    max-height: calc(100vh - 100px);
-    overflow-y: auto;
-    position: sticky;
-    top: 40px;
-    align-self: flex-start;
+  flex: 0 0 450px; /* Sightly smaller width */
+  padding: 0; /* No padding on container itself */
+  background: transparent; /* Floating sidebar */
+  border-right: none; /* Remove border division */
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
+  position: sticky;
+  top: 40px;
+  align-self: flex-start;
 }
 
 .text-search-section {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .search-box {
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 #text-search {
-    flex: 1;
-    padding: 14px 20px;
-    border: 1px solid #ced4da;
-    border-radius: 8px;
-    font-size: 1em;
-    font-family: 'Georgia', serif;
-    background: white; /* Contrast for input box */
-    transition: all 0.3s ease;
+  flex: 1;
+  padding: 14px 20px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  font-size: 1em;
+  font-family: "Georgia", serif;
+  background: white; /* Contrast for input box */
+  transition: all 0.3s ease;
 }
 
 #text-search:focus {
-    outline: none;
-    border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(44, 62, 80, 0.1);
+  outline: none;
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(44, 62, 80, 0.1);
 }
 
 #text-search-btn {
-    padding: 14px 30px;
-    background: var(--primary-color);
-    color: white;
-    border: none;
-    border-radius: 8px;
-    font-size: 1em;
-    font-weight: 600;
-    cursor: pointer;
-    transition: all 0.3s ease;
+  padding: 14px 30px;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
 }
 
 #text-search-btn:hover {
-    background: var(--hover-color);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background: var(--hover-color);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .filter-sections {
-    display: flex;
-    flex-direction: column;
-    gap: 15px;
-    margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
 }
 
 .filter-section {
-    /* Remove distinct floating box styling */
-    background: transparent;
-    border: none;
-    border-radius: 0;
-    padding: 10px 0; /* Reduced padding */
-    transition: all 0.3s ease;
+  /* Remove distinct floating box styling */
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 10px 0; /* Reduced padding */
+  transition: all 0.3s ease;
 }
 
 .filter-section-toggle {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-    font-size: 1em; /* Smaller label */
-    font-weight: 600;
-    color: var(--secondary-color); /* Lighter when inactive */
-    margin-bottom: 0;
-    user-select: none;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  font-size: 1em; /* Smaller label */
+  font-weight: 600;
+  color: var(--secondary-color); /* Lighter when inactive */
+  margin-bottom: 0;
+  user-select: none;
 }
 
 .filter-section-toggle .section-checkbox {
-    width: 18px;
-    height: 18px;
-    margin-right: 12px;
-    accent-color: var(--primary-color);
+  width: 18px;
+  height: 18px;
+  margin-right: 12px;
+  accent-color: var(--primary-color);
 }
 
-/* Change style when checked/open */
-.filter-section-toggle input:checked + .toggle-label {
-    color: var(--primary-color);
-    font-weight: 700;
+/* The new Button Bubble */
+.filter-bubble {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #eaeded;
+  color: var(--secondary-color);
+  border: 1px solid #d5dbdb;
+  border-radius: 20px;
+  font-size: 0.9em;
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    sans-serif;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+/* Subtle hover effect for unselected bubbles */
+.filter-bubble:hover {
+  background-color: #e0e6e6;
+  color: var(--primary-color);
+  border-color: #bdc3c7;
+}
+
+/* The active/selected state driven by JS */
+.filter-bubble.selected {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+  font-weight: 600;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
 }
 
 .checkbox-list {
-    display: none;
-    margin-top: 15px;
-    padding: 15px 0 0 0;
-    border-top: 1px solid var(--border-color); /* subtle top line */
-    flex-wrap:wrap;
-    gap: 10px;
+  display: none;
+  margin-top: 15px;
+  padding: 15px 0 0 0;
+  border-top: 1px solid var(--border-color); /* subtle top line */
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 .checkbox-list.visible {
-    display: flex;
-}
-
-.checkbox-item {
-    display: inline-block;
-    cursor: pointer;
-    padding: 0; /* Reduced padding */
-}
-
-.checkbox-item:hover span {
-background-color: #e0e6e6;
-    color: var(--primary-color);
-    border-color: #bdc3c7;
-}
-
-.checkbox-item .filter-checkbox {
-    display: none;
-  }
-
-.checkbox-item span {
-display: inline-block;
-    padding: 8px 16px;
-    background-color: #eaeded; /* Light gray base */
-    color: var(--secondary-color);
-    border: 1px solid #d5dbdb;
-    border-radius: 20px; /* Fully rounded ends for the bubble look */
-    font-size: 0.9em;
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
-    transition: all 0.2s ease;
-}
-
-.checkbox-item .filter-checkbox:checked + span {
-background-color: var(--primary-color);
-    color: white;
-    border-color: var(--primary-color);
-    font-weight: 600;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+  display: flex;
 }
 
 .results-section {
-    flex: 1 1 auto;
-    padding: 0; /* Align on page */
+  flex: 1 1 auto;
+  padding: 0; /* Align on page */
 }
 
 .results-header {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 
 .results-header h2 {
-    color: var(--primary-color);
-    font-size: 1.8em;
-    font-weight: 700;
+  color: var(--primary-color);
+  font-size: 1.8em;
+  font-weight: 700;
 }
 
 #results-count {
-    color: var(--secondary-color);
-    font-size: 1em;
+  color: var(--secondary-color);
+  font-size: 1em;
 }
 
 #results-container {
-    /* Use flex column for a natural flow of sonnets */
-    display: flex;
-    flex-direction: column;
-    gap: 50px; /* Increased separation */
+  /* Use flex column for a natural flow of sonnets */
+  display: flex;
+  flex-direction: column;
+  gap: 50px; /* Increased separation */
 }
 
 .sonnet-card {
-    /* Remove boxy definitions */
-    background: transparent;
-    border: none;
-    border-radius: 0;
-    padding: 0; /* No card padding */
-    box-shadow: none; /* No card shadow */
+  /* Remove boxy definitions */
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  padding: 0; /* No card padding */
+  box-shadow: none; /* No card shadow */
 }
 
 /* Restore minimal hover interaction to define the sonnet block faintly */
 .sonnet-card:hover {
-    transform: none; /* Stop the movement */
+  transform: none; /* Stop the movement */
 }
 
 .sonnet-header {
-    display: flex;
-    align-items: baseline;
-    margin-bottom: 10px;
-    gap: 15px;
+  display: flex;
+  align-items: baseline;
+  margin-bottom: 10px;
+  gap: 15px;
 }
 
 .sonnet-number {
-    font-size: 1.6em;
-    font-weight: 700;
-    color: var(--accent-color); /* Highlight color */
-    font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+  font-size: 1.6em;
+  font-weight: 700;
+  color: var(--accent-color); /* Highlight color */
+  font-family:
+    system-ui,
+    -apple-system,
+    "Segoe UI",
+    Roboto,
+    "Helvetica Neue",
+    sans-serif;
 }
 
 .sonnet-text {
-    font-size: 1.15em; /* Larger, readable text */
-    line-height: 1.4;
-    color: var(--text-color);
-    white-space: pre-line;
-    font-family: 'Georgia', serif;
-    margin-top: 10px;
+  font-size: 1.15em; /* Larger, readable text */
+  line-height: 1.4;
+  color: var(--text-color);
+  white-space: pre-line;
+  font-family: "Georgia", serif;
+  margin-top: 10px;
 }
 
 /* Active filters display */
 .active-filters {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .active-filters span {
-    font-size: 0.9em;
-    color: var(--secondary-color);
+  font-size: 0.9em;
+  color: var(--secondary-color);
 }
 
 .filter-tag {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 6px 14px;
-    background: var(--primary-color);
-    color: white;
-    border-radius: 20px;
-    font-size: 0.9em;
-    font-family: Arial, sans-serif;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 14px;
+  background: var(--primary-color);
+  color: white;
+  border-radius: 20px;
+  font-size: 0.9em;
+  font-family: Arial, sans-serif;
 }
 
 /* Responsive adjustments */
 @media (max-width: 900px) {
-    .main {
-        flex-direction: column;
-        gap: 30px;
-    }
+  .main {
+    flex-direction: column;
+    gap: 30px;
+  }
 
-    .search-section {
-        flex: 1 1 auto;
-        position: static;
-        width: 100%;
-        max-height: none;
-        border-bottom: 1px solid var(--border-color);
-        padding-bottom: 20px;
-    }
+  .search-section {
+    flex: 1 1 auto;
+    position: static;
+    width: 100%;
+    max-height: none;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+  }
 }
 
 /* Custom Scrollbar for WebKit Browsers (Chrome, Safari, Edge) */
 ::-webkit-scrollbar {
-    width: 8px; /* Makes the scrollbar much thinner */
+  width: 8px; /* Makes the scrollbar much thinner */
 }
 
 ::-webkit-scrollbar-track {
-    background: transparent; /* Makes the track invisible so it floats seamlessly */
+  background: transparent; /* Makes the track invisible so it floats seamlessly */
 }
 
 ::-webkit-scrollbar-thumb {
-    background-color: rgba(44, 62, 80, 0.2); /* A soft, semi-transparent version of your primary color */
-    border-radius: 10px; /* Gives the scrollbar elegant rounded edges */
+  background-color: rgba(
+    44,
+    62,
+    80,
+    0.2
+  ); /* A soft, semi-transparent version of your primary color */
+  border-radius: 10px; /* Gives the scrollbar elegant rounded edges */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background-color: rgba(44, 62, 80, 0.4); /* Darkens slightly when the user hovers over it */
+  background-color: rgba(
+    44,
+    62,
+    80,
+    0.4
+  ); /* Darkens slightly when the user hovers over it */
 }
